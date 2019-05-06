@@ -1,0 +1,29 @@
+settype col: Product_Price type: 'Float'
+set col: Product_Price value: ROUND(Product_Price, 1)
+lookup with: distinctEmplyee_23.csv col: current_dataset.Employee_ID key: distinctEmplyee_23.csv.Employee_ID
+lookup with: distinctCustomer.csv col: current_dataset.CustomerID key: distinctCustomer.csv.CustomerID
+drop col: Customer_Name action: Drop
+drop col: Customer_Middle action: Drop
+drop col: Customer_LastName action: Drop
+lookup with: distinctEmplyee_23.csv col: current_dataset.Employee_Name key: distinctEmplyee_23.csv.Employee_Name
+derive type: single value: IFMISSING(Employee_ID, Employee_ID1) as: 'Employee_ID_2'
+move col: Employee_ID_2 position: after after: SalesID
+drop col: Employee_ID action: Drop
+drop col: Employee_Name1 action: Drop
+drop col: Employee_Middle1 action: Drop
+drop col: Employee_Lastname1 action: Drop
+drop col: Employee_Name action: Drop
+drop col: Employee_ID1 action: Drop
+drop col: Employee_Middle2 action: Drop
+drop col: Employee_Lastname2 action: Drop
+drop col: Employee_Middle action: Drop
+drop col: Employee_Lastname action: Drop
+rename type: manual mapping: [Employee_ID_2,'EmployeeID']
+lookup with: distinctProduct.csv col: current_dataset.ProductID key: distinctProduct.csv.ProductID
+drop col: Quantity action: Drop
+drop col: Product_Name action: Drop
+drop col: Product_Price action: Drop
+deduplicate
+filter type: missing missing: SalesID action: Delete
+filter type: not col: ProductID not: IFMISMATCHED(ProductID, ['Integer'], 'Invalid') action: Delete
+deduplicate
