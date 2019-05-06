@@ -1,0 +1,1994 @@
+﻿SalesID,Employee_ID,CustomerID,ProductID,Quantity,Product_Name,Product_Price,Employee_Name,Employee_Middle,Employee_Lastname,Customer_Name,Customer_Middle,Customer_LastName
+1,17,10482,500,500,ML Bottom Bracket,101.24,Albert,i,Ringer,Joseph,,White
+2,5,1964,306,810,"Road-550-W Yellow, 48",1120.49,Innes,e,del Castillo,Austin,M,Jai
+3,8,12300,123,123,Lock Nut 9,177.6$,Morningstar,r,Greene,Lauren,W,Cooper
+4,1,4182,437,437,ML Road Tire,24.99,Abraham,e,Bennet,Clarence,L,Zeng
+5,14,15723,246,750,"HL Mountain Frame - Silver, 48",$1364.5 $,Heather,c,McBadden,Preston,,Perez
+6,14,6000,60,60r,Hex Nut 9,152.4$,Heather,c,McBadden,Eduardo,,Walker
+7,5,17541,373,373,"Women's Mountain Shorts, M",69.99$,Innes,e,del Castillo,Shaun,N,Andersen
+8,20,9423,183,687,LL Road Rim,306,Dean,t,Straight,Jenny,S,Liang
+9,1,1,1,-10,Adjustable Race,1.6$,Abraham,e,Bennet,\,,Alexander
+10,11,11241,310,310,LL Headset,34.2,Livia,a,Karsen,Katherine,R,Cook
+11,2,3023,119,623,Lock Nut 16,88$,NULL,l,,Caleb,,Li
+12,17,14664,433,937,LL Mountain Tire,24.99,Albert,i,Ringer,Morgan,M,Hill
+13,20,5241,250,250,"HL Mountain Frame - Black, 48",1349.6,Dean,t,Straight,Deb,,Waldal
+14,8,16482,56,560,,75.4$,Morningstar,r,Greene,Robin,,Ortega
+15,22,8264,369,873,"Classic Vest, S",63.5,Johnson,h,White,Isabella,A,Evans
+16,3,18700,187,187,LL Mountain Seat Assembly,133.34,,,,Timothy,L,Sanders
+19,8,12300,123,123,Lock Nut 9,177.6,Morningstar,r,Greene,Lauren,W,Cooper
+21,14,15723,246,750,"HL Mountain Frame - Silver, 48",$1364.5 $,Heather,c,,Preston,,Perez
+22,14,6000,60,60,Hex Nut 9,152.4,Heather,c,McBadden,Eduardo,,Walker
+23,5,17541,373,373,"Women's Mountain Shorts, M",69.99,Innes,e,del Castillo,Shaun,N,Andersen
+24,20,9423,183,687&&,LL Road Rim,306,Dean,t,Straight,Jenny,S,Liang
+25,,1,1,-26,Adjustable Race,1.6,Abraham,e,Bennet,\,,Alexander
+27,2,3023,119,623,Lock Nut 16,88,NULL,l,,Caleb,,Li
+30,15,19482,86,590,,0,Michael,',O'Leary,Willie,R,Gao
+31,6,11264,399,903,Rear Derailleur,121.46,Ann,u,Dull,Kathleen,A,Rubio
+32,10,1941,217,217,AWC Logo Cap,8.99Euro,Sheryl,u,Hunter,Austin,,Zhang
+33,1,13482,26,530,Flat Washer 4,0,Abraham,e,Bennet,Mario,H,Rai
+34,12,4964,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,o,Locksley,Danny,J,Vazquez
+35,15,15300,153,153 eit,Lock Washer 3,0,Michael,',O'Leary,Olivia,D,Bennett
+36,7,7182,467,467,"Touring-3000 Yellow, 50",742.35,,r,Green,Gabrielle,,Price
+37,21,18723,276,780,"Mountain-100 Silver, 38",3399.99,Dirk,t,Stringer,Tina,J,Lopez
+38,21,9000,90,90,,0,Dirk,t,Stringer,Jared,A,Gray
+39,12,782,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,o,Locksley,Alicia,A,Chapman
+40,4,12423,213,717,"Sport-100 Helmet, Black",34.99,,e,,Levi,,Prasad
+41,7,3000,30,30,Flat Washer 7,418.8,,r,Green,Caitlin,A,Howard
+42,18,14241,340,340,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Micheal,,Vazquez
+43,9,6023,149,653,Lock Washer 7,564,Burt,r,Gringlesby,Eduardo,G,Butler
+44,1,17664,463,967,"Touring-3000 Blue, 54",742.35,Abraham,e,Bennet,Shelley,N,Dyck
+45,4,8241,280,280,"Mountain-100 Black, 38",3374.99,,e,,Isabella,,Mitchell
+48,10,1941,217,217,AWC Logo Cap,8.99,Sheryl,u,Hunter,Austin,,Zhang
+49,1,13482,26,530$%&*,Flat Washer 4,0,Abraham,e,,Mario,H,Rai
+51,15,15300,153,153,Lock Washer 3,0,Michael,',O'Leary,Olivia,D,Bennett
+55,,782,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,o,Locksley,Alicia,A,Chapman
+60,1,17664,463,967,"Touring-3000 Blue, 54",742.35,Abraham,e,,Shelley,N,Dyck
+63,6,11264,399,903,Rear Derailleur,-121.46,Ann,u,Dull,Kathleen,A,Rubio
+65,1,13482,26,530,Flat Washer 4,0,,e,,Mario,H,Rai
+66,,4964,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,o,Locksley,Danny,J,Vazquez
+76,1,17664,463,967,"Touring-3000 Blue, 54",742.35,,e,,Shelley,N,Dyck
+80,10,1941,217,217,AWC Logo Cap,-8.99,Sheryl,u,Hunter,Austin,,Zhang
+81,8,16482,56,560,,75.4,Morningstar,r,Greene,Robin,,Ortega
+87,1,4182,437,437,ML Road Tire,24.99,,e,,Clarence,L,Zeng
+90,22,19241,390,390,"HL Touring Frame - Yellow, 60",1003.91,Johnson,h,White,Virginia,,Rodriguez
+91,10,10723,196,700,LL Spindle/Axle,418.4,Sheryl,u,Hunter,Julie,,Jai
+92,13,1300,13,13,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+93,5,12941,327,327,"ML Road Frame-W - Yellow, 38",594.83,Innes,e,del Castillo,Mackenzie,A,Adams
+94,19,4723,136,640,Lock Nut 15,548.4,Meander,m,Smith,Dale,C,Holt
+95,7,15964,446,950,Touring Pedal,80.99,,r,Green,Randy,,Zhang
+96,10,6541,263,263,"Road-450 Red, 52",-1457.99,Sheryl,u,Hunter,Erik,S,Gutierrez
+97,2,18182,73,577,Hex Nut 15,472.8,NULL,l,,Tabitha,A,Gonzalez
+98,16,9964,386,890,"Short-Sleeve Classic Jersey, S",53.99,Sylvia,a,Panteley,Joe,,Gutierrez
+99,16,241,200,200,Spokes,843.2,Sylvia,a,Panteley,Adriana,,Vance
+100,7,11782,9,513,Chainring Bolts,0,,r,Green,Krista,,Gill
+101,22,3664,323,827,LL Road Front Wheel,85.565,Johnson,h,White,Cedric,W,Ma
+102,2,15300,153,140,Lock Washer 3,0,NULL,l,,Olivia,D,Bennett
+109,18,14241,340,340,,594.83,Anne,i,Ringer,Micheal,,Vazquez
+113,15,19482,86,590,,0,?,',,Willie,R,Gao
+118,15,15300,153,153,Lock Washer 3,0,?,',,Olivia,D,Bennett
+120,15,664,293,797,"Mountain-300 Black, 48",1079.99,?,',,Alexandria,F,Peterson
+121,15,10700,107,107,Thin-Jam Lock Nut 5,85.6,?,',,Julian,,Jenkins
+122,6,2482,420,420,ML Touring Seat/Saddle,39.14,Ann,u,Dull,Brandon,,Harris
+123,20,14023,229,733,"LL Road Frame - Black, 62",337.22,Dean,t,Straight,Melinda,T,Jimenez
+124,1,4700,47,47,Thin-Jam Hex Nut 4,441.6,,e,,Dakota,A,Russell
+125,,15941,357,357,"Women's Tights, S",74.99,Charlene,o,Locksley,Randall,A,Ruiz
+126,3,7723,166,670,Metal Sheet 6,389.6,,,,Hailey,R,Rivera
+127,17,19264,479,983,"Road-350-W Yellow, 42",1700.99,?,i,,Walter,,Jimenez
+128,21,9941,297,297,"Road-250 Red, 58",2443.35,Dirk,t,Stringer,Jodi,,Deng
+129,9,1423,103,607,Thin-Jam Lock Nut 1,169.6,Burt,r,Gringlesby,Angelica,,Alexander
+130,1,12964,416,920,LL Road Seat/Saddle,27.12,,e,,Mackenzie,M,Ramirez
+131,3,3541,233,233,"LL Road Frame - Red, 58",337.22,,,,Cassandra,D,Madan
+132,18,15182,43,547,Thin-Jam Hex Nut 16,72.8,Anne,i,Ringer,Noah,,Bryant
+133,6,6664,353,857,Headlights - Weatherproof,44.99,Ann,u,Dull,Ethan,M,Sharma
+134,9,17000,170,170,HL Nipple,196.4,Burt,r,Gringlesby,Samuel,B,Johnston
+135,1,8782,483,483,"Touring-3000 Blue, 44",742.35,,,,James,,Kumar
+149,6,6664,353,857,Headlights - Weatherproof,-44.99,Ann,u,Dull,Ethan,M,Sharma
+151,17,10482,500,500,ML Bottom Bracket,101.24,?,i,,Joseph,,White
+162,14,18964,476,980,"Touring-2000 Blue, 50",1214.85,Heather,c,McBadden,Troy,,Chandra
+163,17,9541,293,293,"Mountain-300 Black, 48",1079.99,?,i,,Jermaine,J,Perez
+165,,12964,416,920,LL Road Seat/Saddle,27.12,,e,Bennet,Mackenzie,M,Ramirez
+166,1,3241,230,230,"LL Road Frame - Red, 44",337.22,,e,,Carla,J,Gonzalez
+167,14,14782,39,543,Thin-Jam Hex Nut 10,,Heather,c,McBadden,Natalie,,Reed
+170,20,8482,480,480,"Road-350-W Yellow, 44",1700.99,Dean,t,Straight,Jackson,A,Foster
+171,11,264,289,793,"Mountain-200 Black, 46",2294.99,Livia,a,Karsen,Adrienne,L,Jiménez
+172,15,10700,107,107ert,Thin-Jam Lock Nut 5,85.6,?,',,Julian,,Jenkins
+174,17,13723,226,730,"HL Road Frame - Red, 56",1431.5,?,i,,Mason,M,Cook
+175,20,4300,43,43,Thin-Jam Hex Nut 16,72.8,Dean,t,Straight,Cody,,Reed
+177,20,9423,183,687,LL Road Rim,306,,,Straight,Jenny,S,Liang
+178,1,1,1,-179,Adjustable Race,1.6,,e,,\,,Alexander
+181,17,14664,433,937,LL Mountain Tire,24.99,?,i,,Morgan,M,Hill
+182,20,5241,250,250,"HL Mountain Frame - Black, 48",1349.6,,,Straight,Deb,,Waldal
+183,8,16482,56,560,,$75.40 ,Morningstar,r,Greene,Robin,,Ortega
+194,1,1,1,-195,Adjustable Race,1.6,,e,,\,,Alexander
+197,17,14664,433,937,LL Mountain Tire,24.99,?,,,Morgan,M,Hill
+202,17,10482,500,500,ML Bottom Bracket,101.24,?,,,Joseph,,White
+203,22,3664,323,827,LL Road Front Wheel,85.565 Eur,Johnson,h,White,Cedric,W,Ma
+204,2,14000,140,140,Lock Ring,829.8,NULL,l,,Melanie,N,Alexander
+205,13,5482,450,450,Front Derailleur,91.49,Stearns,a,MacFeather,Devin,,Nelson
+206,4,17023,259,763,"Road-450 Red, 58",1457.99,,e,,Samuel,L,Robinson
+207,8,7700,77,77,Handlebar Tube,636.8,Morningstar,r,Greene,Hailey,J,Coleman
+210,13,1300,13,13,Chain Stays,-64.8,Stearns,a,MacFeather,Andrew,R,Hill
+211,18,14241,340,340,,594.83,,,Ringer,Micheal,,Vazquez
+215,15,19482,86,590,,0,?,,,Willie,R,Gao
+220,15,15300,153,153,Lock Washer 3,0,?,,,Olivia,D,Bennett
+227,18,14241,340,340,,594.83 $$,,,Ringer,Micheal,,Vazquez
+243,18,14241,340,340,,594.83 $,,,Ringer,Micheal,,Vazquez
+250,18,15182,43,547,Thin-Jam Hex Nut 16,72.8,,,Ringer,Noah,,Bryant
+253,1,8782,483,483,"Touring-3000 Blue, 44",742.35,,e,,James,,Kumar
+263,19,4723,136,640,Lock Nut 15,548.4,,,Smith,Dale,C,
+264,1,17664,463,967,"Touring-3000 Blue, 54",742.35,,e,,Shelley,N,
+265,4,8241,280,280,"Mountain-100 Black, 38",3374.99,,e,,Isabella,,
+266,15,19482,86,590,,0,?,,,Willie,R,
+267,6,11264,399,903,Rear Derailleur,121.46,Ann,u,Dull,Kathleen,A,
+268,10,1941,217,217,AWC Logo Cap,8.99,Sheryl,u,Hunter,Austin,,
+269,1,13482,26,530,Flat Washer 4,0,,e,,Mario,H,
+270,,4964,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,o,Locksley,Danny,J,
+271,15,15300,153,153,Lock Washer 3,0,?,,,Olivia,D,
+272,7,7182,467,467,"Touring-3000 Yellow, 50",742.35,,r,Green,Gabrielle,,
+273,11,264,289,793,"Mountain-200 Black, 46",2294.99,Livia,a,Karsen,Adrienne,L,
+274,15,10700,107,107,Thin-Jam Lock Nut 5,85.6,?,,,Julian,,
+275,6,2482,420,420,ML Touring Seat/Saddle,39.14,Ann,u,Dull,Brandon,,
+276,17,13723,226,730,"HL Road Frame - Red, 56",1431.5,?,,,Mason,M,
+277,20,4300,43,43,Thin-Jam Hex Nut 16,72.8,,,Straight,Cody,,
+278,,15941,357,357,"Women's Tights, S",74.99,Charlene,o,Locksley,Randall,A,
+279,3,7723,166,670,Metal Sheet 6,389.6,,,,Hailey,R,
+280,14,18964,476,980,"Touring-2000 Blue, 50",1214.85,Heather,c,McBadden,Troy,,
+281,17,9541,293,293,"Mountain-300 Black, 48",1079.99,?,,,Jermaine,J,
+282,9,1423,103,607,Thin-Jam Lock Nut 1,169.6,Burt,r,Gringlesby,Angelica,,
+283,1,12964,416,920,LL Road Seat/Saddle,27.12,Abraham,e,,Mackenzie,M,Ramirez
+284,1,3241,230,230,"LL Road Frame - Red, 44",337.22,Abraham,e,,Carla,J,Gonzalez
+288,20,8482,480,480,"Road-350-W Yellow, 44",1700.99,,,Straight,Jackson,A,Foster
+290,15,10700,107,107,Thin-Jam Lock Nut 5,85.6,?,,,Julian,,Jenkins
+292,17,13723,226,730,"HL Road Frame - Red, 56",1431.5,?,,,Mason,M,Cook
+293,20,4300,43,43,Thin-Jam Hex Nut 16,72.8,,,Straight,Cody,,Reed
+297,17,9541,293,293,"Mountain-300 Black, 48",1079.99 $$,Albert,,,Jermaine,J,Perez
+306,1,12964,416,920,LL Road Seat/Saddle,27.12,Abraham,e,Bennet,Mackenzie,M,Ramirez
+309,13,9664,383,887,Fender Set - Mountain,21.98,Stearns,a,MacFeather,Jessica,,Rodriguez
+310,16,241,200,200,Spokes,843.2,Sylvia,,,Adriana,,Vance
+321,19,4723,136,640,Lock Nut 15,548.4,,,Smith,Dale,C,Holt
+323,10,6541,263,263,"Road-450 Red, 52",1457.99,Sheryl,u,Hunter,Erik,S,Gutierrez
+325,16,9964,386,890,"Short-Sleeve Classic Jersey, S",53.99,Sylvia,a,,Joe,,Gutierrez
+326,16,241,200,200,Spokes,843.2,Sylvia,a,,Adriana,,Vance
+338,,17664,463,967,"Touring-3000 Blue, 54",742.35 EUR,Abraham,e,Bennet,Shelley,N,Dyck
+340,15,19482,86,590ss,,0,Michael,',,Willie,R,Gao
+342,10,1941,217,217,AWC Logo Cap,8.99$,Sheryl,u,Hunter,Austin,,Zhang
+345,15,15300,153,153,Lock Washer 3,0,Michael,',,Olivia,D,Bennett
+352,18,14241,340,340,"ML Road Frame-W - Yellow, 44",594.83,,,Ringer,Micheal,,Vazquez
+404,15,19482,86,590ss,,0,Michael,',O'Leary,Willie,R,Gao
+418,1,1,1,-11,Adjustable Race,1.6,,e,Bennet,\,,Alexander
+419,11,11241,310,310,LL Headset,34.2 R.s,Livia,a,Karsen,Katherine,R,Cook
+430,11,264,289,793,,2294.99,Livia,a,Karsen,Adrienne,L,Jiménez
+431,15,10700,107,107,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Julian,,Jenkins
+433,17,13723,226,730,"HL Road Frame - Red, 56",1431.5,Albert,i,Ringer,Mason,M,Cook
+435,12,15941,357,357,"Women's Tights, S",74.99,Charlene,o,Locksley,Randall,A,Ruiz
+437,1,1,1,-11,Adjustable Race,1.6,Abraham,e,Bennet,\,,Alexander
+442,8,16482,56,560,Hex Nut 16,75.4,Morningstar,r,Greene,Robin,,Ortega
+458,15,19482,86,590ss,External Lock Washer 7,0,Michael,',O'Leary,Willie,R,Gao
+466,21,9000,90,90,External Lock Washer 2,0,Dirk,t,Stringer,Jared,A,Gray
+467,12,782,403,403,"LL Touring Frame - Blue, 62",333.42 $$,,o,Locksley,Alicia,A,Chapman
+472,,17664,463,967,"Touring-3000 Blue, 54",742.35,Abraham,e,Bennet,Shelley,N,Dyck
+478,12,4964,336,840,"ML Mountain Frame - Black, 44",348.76,,o,Locksley,Danny,J,Vazquez
+496,1,1,1,11,,0,Abraham,e,Bennet,\,,Alexander
+499,1,4700,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Dakota,A,Russell
+517,12,15941,357,357,"Women's Tights, S",74.99,,o,Locksley,Randall,A,Ruiz
+522,1,4182,437,437,ML Road Tire,24.99,,e,Bennet,Clarence,L,Zeng
+525,1,8782,483,483,"Touring-3000 Blue, 44",742.35,Abraham,e,Bennet,James,,Kumar
+541,20,14023,229,733,"LL Road Frame - Black, 62",337.22,,,Straight,Melinda,T,Jimenez
+545,15,664,293,797,"Mountain-300 Black, 48",1079.99,Michael,',O'Leary,,F,Peterson
+557,17,19264,479,983,"Road-350-W Yellow, 42",1700.99,Albert,i,Ringer,Walter,,Jimenez
+561,,4700,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Dakota,A,Russell
+565,15,10700,107,107##$$$,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Julian,,Jenkins
+576,4,8241,280,280,"Mountain-100 Black, 38",3374.99,,e,,,,Mitchell
+586,1,4182,437,437,ML Road Tire,24.99,Abraham,e,,Clarence,L,Zeng
+622,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,\,,Alexander
+625,1,4700,47,47,Thin-Jam Hex Nut 4,441.6,,e,Bennet,Dakota,A,Russell
+673,15,664,293,797,"Mountain-300 Black, 48",1079.99 $$,Michael,',O'Leary,,F,Peterson
+684,1,17664,463,967,"Touring-3000 Blue, 54",742.35,Abraham,,Bennet,Shelley,N,Dyck
+750,1,1,1,11,Adjustable Race,1.6$,Abraham,e,Bennet,\,,
+760,15,15300,153,153,Lock Washer 3,0,,',O'Leary,Olivia,D,Bennett
+763,16,241,200,200,Spokes,843.2,,a,Panteley,Adriana,,Vance
+778,,4182,437,437,ML Road Tire,24.99,Abraham,e,Bennet,Clarence,L,Zeng
+782,17,10482,500,500,ML Bottom Bracket,101.24,,i,Ringer,Joseph,,White
+788,15,19482,86,590ss,External Lock Washer 7,0,,',O'Leary,Willie,R,Gao
+801,15,664,293,797,"Mountain-300 Black, 48",1079.99 $$,,',O'Leary,,F,Peterson
+807,16,9964,386,890,"Short-Sleeve Classic Jersey, S",53.99,,a,Panteley,Joe,,Gutierrez
+810,17,14664,433,937,LL Mountain Tire,24.99,,i,Ringer,Morgan,M,Hill
+813,17,19264,479,983,"Road-350-W Yellow, 42",1700.99,,i,Ringer,Walter,,Jimenez
+814,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,\,,
+815,13,1300,13,13--,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+821,15,10700,107,107,Thin-Jam Lock Nut 5,85.6,,',O'Leary,Julian,,Jenkins
+835,5,12941,327,327DF,"ML Road Frame-W - Yellow, 38",$594.83 ,Innes,e,del Castillo,Mackenzie,A,Adams
+836,18,14241,340,,"ML Road Frame-W - Yellow, 44",594.83,,,Ringer,Micheal,,Vazquez
+871,1,4700,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,,Dakota,A,Russell
+875,15,10700,107,107jki,Thin-Jam Lock Nut 5,85.6,,',O'Leary,Julian,,Jenkins
+881,16,241,200,200,Spokes,843.2,,a,,,,
+927,,12964,416,920,LL Road Seat/Saddle,27.12,Abraham,e,Bennet,Mackenzie,M,Ramirez
+935,1,4700,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,,Bennet,Dakota,A,Russell
+966,1,13482,26,530,Flat Washer 4,0,,e,Bennet,Mario,H,Rai
+996,,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,\,,
+1034,15,19482,86,590,External Lock Washer 7,0,,',O'Leary,Willie,R,Gao
+1072,3,18700,187,187,LL Mountain Seat Assembly,133.34,Cheryl,,,Timothy,L,Sanders
+1075,3,3541,233,233,"LL Road Frame - Red, 58",337.22,Cheryl,,,Cassandra,D,Madan
+1095,8,16482,56,560,Hex Nut 16,$75.40 ,Morningstar,r,Greene,Robin,,Ortega
+1102,3,7723,166,670,Metal Sheet 6,389.6,Cheryl,,,Hailey,R,Rivera
+1123,1,1,1,11,Adjustable Race,1.6,,e,Bennet,\,,
+1190,15,10700,107,107??dd,Thin-Jam Lock Nut 5,85.6,,',O'Leary,Julian,,Jenkins
+1196,16,241,200,200bF?,Spokes,843.2,,a,,,,
+1204,18,14241,340,340,"ML Road Frame-W - Yellow, 44",594.83 $,,,Ringer,Micheal,,Vazquez
+1249,,4700,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,,Dakota,A,Russell
+1277,,8782,483,483,"Touring-3000 Blue, 44",742.35,Abraham,e,Bennet,James,,Kumar
+1431,1,12964,416,920,LL Road Seat/Saddle,27.12,Abraham,,Bennet,Mackenzie,M,Ramirez
+1470,,13482,26,530,Flat Washer 4,0,Abraham,e,Bennet,Mario,H,Rai
+1501,13,1300,13,13tt,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+1503,1,4700,47,DF47,Thin-Jam Hex Nut 4,441.6,Abraham,e,,Dakota,A,Russell
+1506,21,9000,90,90,External Lock Washer 2,0,Dirk,t,Stringer,,,
+1518,4,8241,280,280,"Mountain-100 Black, 38",3374.99,,e,,,,
+1521,5,12941,327,327%%,"ML Road Frame-W - Yellow, 38",594.83,Innes,e,del Castillo,Mackenzie,A,Adams
+1536,8,16482,56,560,Hex Nut 16,75.4,Morningstar,r,Greene,,,
+1538,15,19482,86,590,External Lock Washer 7,0,,',O'Leary,,,
+1551,15,664,293,797,"Mountain-300 Black, 48",1079.99 $$,,',O'Leary,,,
+1562,,17664,463,967,"Touring-3000 Blue, 54",742.35,,e,Bennet,Shelley,N,Dyck
+1598,,13482,26,530,Flat Washer 4,0,Abraham,,Bennet,Mario,H,Rai
+1611,20,14023,229,733,"LL Road Frame - Black, 62",337.22,,,,Melinda,T,Jimenez
+1631,,4700,47,47,Thin-Jam Hex Nut 4,441.6,,e,Bennet,Dakota,A,Russell
+1644,20,5241,250,250,"HL Mountain Frame - Black, 48",1349.6,,,,Deb,,Waldal
+1650,18,14241,340,340,"ML Road Frame-W - Yellow, 44",594.83,,,,Micheal,,Vazquez
+1663,18,15182,43,547,Thin-Jam Hex Nut 16,72.8,,,,Noah,,Bryant
+1669,19,4723,136,640,Lock Nut 15,548.4,,,,Dale,C,Holt
+1672,20,9423,183,687,LL Road Rim,306,,,,Jenny,S,Liang
+1692,1,1,1,11,Adjustable Race,1.6,Abraham,e,,\,,
+1693,13,1300,13,1SD3,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+1697,8,7700,77,77|}{PP,Handlebar Tube,636.8,Morningstar,r,Greene,Hailey,J,Coleman
+1723,1,8782,483,483,"Touring-3000 Blue, 44",742.35,Abraham,e,,James,,Kumar
+1726,1,13482,26,530,Flat Washer 4,0,Abraham,e,,Mario,H,Rai
+1741,4,17023,259,763,"Road-450 Red, 58",1457.99$,,e,,Samuel,L,Robinson
+1744,5,1964,306,810,"Road-550-W Yellow, 48",1120.49$,Innes,e,del Castillo,Austin,M,Jai
+1778,18,14241,340,340,,594.83,,,,Micheal,,Vazquez
+1823,1,4700,47,47,Thin-Jam Hex Nut 4,441.6 rs,Abraham,e,,Dakota,A,Russell
+1832,3,18700,187,187,LL Mountain Seat Assembly,133.34,Cheryl,a,,Timothy,L,Sanders
+1835,3,3541,233,233,"LL Road Frame - Red, 58",337.22,Cheryl,a,,Cassandra,D,Madan
+1841,5,12941,327,327,"ML Road Frame-W - Yellow, 38",594.83 $,Innes,e,del Castillo,Mackenzie,A,Adams
+1863,3,7723,166,670,Metal Sheet 6,389.6,Cheryl,a,,Hailey,R,Rivera
+1925,19,4723,136,640,Lock Nut 15,548.4,Meander,,,Dale,C,Holt
+1928,20,9423,183,687,LL Road Rim,306,Dean,,,Jenny,S,Liang
+1931,20,14023,229,733,"LL Road Frame - Black, 62",337.22,Dean,,,Melinda,T,Jimenez
+1964,20,5241,250,250,"HL Mountain Frame - Black, 48",1349.6,Dean,t,,Deb,,Waldal
+1970,18,14241,340,340%^&,,594.83,Anne,i,,Micheal,,Vazquez
+1983,18,15182,43,547,Thin-Jam Hex Nut 16,72.8,Anne,i,,Noah,,Bryant
+1989,19,4723,136,640,Lock Nut 15,548.4,Meander,m,,Dale,C,Holt
+1992,20,9423,183,687,LL Road Rim,306,Dean,t,,Jenny,S,Liang
+1995,20,14023,229,733,"LL Road Frame - Black, 62",337.22,Dean,t,,Melinda,T,Jimenez
+2089,16,241,200,200bF?,Spokes,843.2,Sylvia,a,,,,
+2114,15,19482,86,590,External Lock Washer 7,0,Michael,',O'Leary,Willie,R,Gao
+2127,15,664,293,797,"Mountain-300 Black, 48",1079.99 $$,Michael,',O'Leary,,,
+2140,1,1,1,11,Adjustable Race,1.6,,e,,\,,
+2178,15,19482,86,590,,,,,,,,
+2204,1,1,1,11,Adjustable Race,1.6$,,e,,\,,
+2239,2,18182,73,577,Hex Nut 15,472.8,Reginald,l,,Tabitha,A,Gonzalez
+2265,2,14000,140,140,Lock Ring,829.8,Reginald,l,,Melanie,N,Alexander
+2296,2,3023,119,623,Lock Nut 16,88,Reginald,l,,Caleb,,Li
+2321,13,1300,13,13**,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+2454,15,10700,107,107WERmj,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Julian,,Jenkins
+2511,1,1,1,11$%,Adjustable Race,1.6,,e,,\,,
+2520,2,14000,140,140,Lock Ring,829.8,Reginald,l,Blotchet-Halls,Melanie,N,Alexander
+2547,2,18182,73,577,Hex Nut 15,472.8,Reginald,l,Blotchet-Halls,Tabitha,A,Gonzalez
+2550,2,3023,119,623,Lock Nut 16,88,Reginald,l,Blotchet-Halls,Caleb,,Li
+2596,18,14241,340,340,"ML Road Frame-W - Yellow, 44",594.83 $,Anne,i,Ringer,Micheal,,Vazquez
+2705,1,4700,47,47FD,Thin-Jam Hex Nut 4,441.6,,e,,Dakota,A,Russell
+2766,1,4700,47,47,Thin-Jam Hex Nut 4,441.6 rs,,e,,Dakota,A,Russell
+2825,1,1,1,-11,Adjustable Race,1.6,,e,,\,,
+2847,18,14241,340,340^&*,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Micheal,,Vazquez
+3061,19,18941,387,387,"Short-Sleeve Classic Jersey, M",53.99,Meander,m,Smith,Tristan,,Butler
+3064,19,3782,433,433,LL Mountain Tire,24.99,Meander,m,Smith,Charles,W,Watson
+3068,14,10182,497,497,"Mountain-500 Black, 48",539.99,Heather,c,McBadden,Jonathan,,Butler
+3077,16,4423,133,637,Lock Nut 21,90.8,Sylvia,a,Panteley,Colleen,L,Nara
+3080,16,9023,179,683,Reflector,910.8,Sylvia,a,Panteley,Jarrod,,Rana
+3084,11,15423,243,747,"LL Road Frame - Black, 52",337.22,Livia,a,Karsen,Pablo,,Rovira Diez
+3087,11,264,289,793,,2294.99,Livia,a,Karsen,,,
+3096,13,14264,429,933,"LL Mountain Frame - Black, 42",249.79,Stearns,a,MacFeather,Michele,,Raji
+3100,8,905,493,997,"Mountain-500 Silver, 52",564.99,Morningstar,r,Greene,Allison,A,Allen
+3109,22,13700,137,137,Lock Nut 4,183.2,Johnson,h,White,Mason,,Wright
+3112,22,18300,183,183,LL Road Rim,306,Johnson,h,White,Tara,,Xie
+3116,17,4941,247,247,"HL Mountain Frame - Silver, 46",$1364.5 $,Albert,i,Ringer,Danielle,J,Cooper
+3119,17,9541,293,293,"Mountain-300 Black, 48",1079.99 $$,Albert,i,Ringer,Jermaine,J,Perez
+3122,18,14241,340,,"ML Road Frame-W - Yellow, 44",594.83 $,Anne,i,Ringer,Micheal,,Vazquez
+3161,7,15964,446,950,Touring Pedal,80.99,,r,,Randy,,Zhang
+3166,7,3000,30,30,Flat Washer 7,418.8,,r,,Caitlin,A,Howard
+3186,18,14241,340,,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Micheal,,Vazquez
+3192,10,3782,433,433,LL Mountain Tire,24.99,Meander,m,Smith,Charles,W,Watson
+3194,7,7182,467,467,"Touring-3000 Yellow, 50",742.35,,r,,Gabrielle,,Price
+3197,7,11782,9,513,Chainring Bolts,0,,r,,Krista,,Gill
+3202,15,19482,86,590,External Lock Washer 7,1,Michael,',O'Leary,Willie,R,Gao
+3229,13,1300,13,^&13,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+3361,8,7700,77,77^&*,Handlebar Tube,636.8,Morningstar,r,Greene,Hailey,J,Coleman
+3370,10,1941,217,217,AWC Logo Cap,EUR8.99,Sheryl,u,Hunter,Austin,,Zhang
+3372,17,4941,247,247,"HL Mountain Frame - Silver, 46",1364.5/ -,Albert,i,Ringer,Danielle,J,Cooper
+3393,2,18182,73,577,Hex Nut 15,472.8,,l,Blotchet-Halls,Tabitha,A,Gonzalez
+3396,2,3023,119,623,Lock Nut 16,88,,l,Blotchet-Halls,Caleb,,Li
+3520,14,15723,246,750,"HL Mountain Frame - Silver, 48",1364.5/ -,Heather,c,McBadden,Preston,,Perez
+3544,2,14000,140,140,Lock Ring,829.8,,l,Blotchet-Halls,Melanie,N,Alexander
+3577,13,1300,13,13&*(),Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+3663,7,11782,9,513,Chainring Bolts,0,Marjorie,r,,Krista,,Gill
+3686,7,15964,446,950,Touring Pedal,80.99,Marjorie,r,,Randy,,Zhang
+3691,7,3000,30,30,Flat Washer 7,418.8,Marjorie,r,,Caitlin,A,Howard
+3719,7,7182,467,467,"Touring-3000 Yellow, 50",742.35,Marjorie,r,,Gabrielle,,Price
+3766,16,241,200,200,Spokes,843.2,Sylvia,a,,,,
+3777,12,782,403,403,"LL Touring Frame - Blue, 62",333.42 $$,,,Locksley,Alicia,A,Chapman
+3787,8,16482,56,560,Hex Nut 16,0,Morningstar,r,Greene,Robin,,Ortega
+3805,12,4964,336,840,"ML Mountain Frame - Black, 44",348.76,,,Locksley,Danny,J,Vazquez
+3838,12,15941,357,357,"Women's Tights, S",74.99,,,Locksley,Randall,A,Ruiz
+3880,13,1300,13,GH13,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+3943,1,1,1,-11,Adjustable Race,1.6,Abraham,e,,\,,
+4117,1,1,1,11,Adjustable Race,1.6$,Abraham,e,,\,,
+4137,5,12941,327,327&*,"ML Road Frame-W - Yellow, 38",594.83,Innes,e,del Castillo,Mackenzie,A,Adams
+4181,1,4700,47,47DF,Thin-Jam Hex Nut 4,441.6 rs,Abraham,e,,Dakota,A,Russell
+4212,8,16482,56,560,Hex Nut 16,75.4$,Morningstar,r,Greene,Robin,,Ortega
+4520,13,5482,450,450,Front Derailleur,91.49$,Stearns,a,MacFeather,Devin,,Nelson
+4522,1,8782,483,483,"Touring-3000 Blue, 44",742.35$,Abraham,e,,James,,Kumar
+4560,8,7700,77,77()_*,Handlebar Tube,636.8,Morningstar,r,Greene,Hailey,J,Coleman
+4745,1,1,1,JKLK11,Adjustable Race,1.6,Abraham,e,,\,,
+4812,1,4700,47,47,Thin-Jam Hex Nut 4,441.6 rs,Abraham,e,Bennet,Dakota,A,Russell
+4852,3,7723,166,670,Metal Sheet 6,389.6,,a,,Hailey,R,Rivera
+4876,1,4700,47,47Y,Thin-Jam Hex Nut 4,441.6 rs,Abraham,e,Bennet,Dakota,A,Russell
+4885,3,18700,187,187,LL Mountain Seat Assembly,133.34,,a,,Timothy,L,Sanders
+4888,3,3541,233,233,"LL Road Frame - Red, 58",337.22,,a,,Cassandra,D,Madan
+5078,1,3241,230,230,"LL Road Frame - Red, 44",337.22,Abraham,e,Bennet,Carla,J,Gonzalez
+5112,11,264,289,793,"Mountain-200 Black, 46",2294.99,Livia,a,Karsen,,,
+5302,11,264,,793,"Mountain-200 Black, 46",2294.99,Livia,a,Karsen,Adrienne,L,Jiménez
+5493,15,664,293,797,"Mountain-300 Black, 48",1079.99 $$,Michael,',O'Leary,Alexandria,F,Peterson
+5634,1,1,1,-11,Adjustable Race,1.6,Abraham,e,Bennet,\,,
+5775,10,1941,217,217,AWC Logo Cap,$8.99 ,Sheryl,u,Hunter,Austin,,Zhang
+5830,8,7700,77,77LOOK_,Handlebar Tube,636.8,Morningstar,r,Greene,Hailey,J,Coleman
+5967,7,15964,446,950,Touring Pedal,80.99,NUL,r,,Randy,,Zhang
+5972,7,3000,30,30,Flat Washer 7,418.8,NUL,r,,Caitlin,A,Howard
+5999,7,7182,467,467,"Touring-3000 Yellow, 50",742.35,NUL,r,,Gabrielle,,Price
+6002,7,11782,9,513,Chainring Bolts,0,NUL,r,,Krista,,Gill
+6142,4,17023,259,763,"Road-450 Red, 58",1457.99,Michel,e,,Samuel,L,Robinson
+6175,4,8241,280,280,"Mountain-100 Black, 38",3374.99,Michel,e,DeFrance,Isabella,,Mitchell
+6203,4,12423,213,717,"Sport-100 Helmet, Black",34.99,Michel,e,DeFrance,Levi,,Prasad
+6206,4,17023,259,763,"Road-450 Red, 58",1457.99,Michel,e,DeFrance,Samuel,L,Robinson
+6344,7,15964,446,950,Touring Pedal,80.99,NUL,r,Green,Randy,,Zhang
+6349,7,3000,30,30,Flat Washer 7,418.8,NUL,r,Green,Caitlin,A,Howard
+6377,7,7182,467,467,"Touring-3000 Yellow, 50",742.35,NUL,r,Green,Gabrielle,,Price
+6378,7,11782,9,513,Chainring Bolts,0,NUL,r,Green,Krista,,Gill
+6460,15,10700,107,107!,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Julian,,Jenkins
+6624,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,Aaron,,
+6687,1,1,1,-11,Adjustable Race,1.6,Abraham,e,Bennet,Aaron,,
+6688,13,1300,13,1--3,Chain Stays,64.8,Stearns,a,MacFeather,Andrew,R,Hill
+6709,18,14241,340,340(),"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Micheal,,Vazquez
+6944,15,10700,107,~107,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Julian,,Jenkins
+7214,12,15941,357,357,"Women's Tights, S",74.99,Charlene,,Locksley,Randall,A,Ruiz
+7217,12,782,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,,Locksley,Alicia,A,Chapman
+7245,12,4964,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,,Locksley,Danny,J,Vazquez
+7319,1,1,1,11,Adjustable Race,1.6$,Abraham,e,Bennet,Aaron,,
+7388,8,7700,77,7%7,Handlebar Tube,636.8,Morningstar,r,Greene,Hailey,J,Coleman
+7563,12,4964,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,,,Danny,J,Vazquez
+7596,12,15941,357,357,"Women's Tights, S",74.99,Charlene,,,Randall,A,Ruiz
+7599,12,782,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,,,Alicia,A,Chapman
+7649,3,18700,187,187,LL Mountain Seat Assembly,133.34$,,a,,Timothy,L,Sanders
+7652,3,3541,233,233,"LL Road Frame - Red, 58",337.22$,,a,,Cassandra,D,Madan
+7873,1,7482,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Glenn,A,Zeng
+7874,14,723,60,60,Hex Nut 9,152.4,Heather,c,McBadden,Alexis,D,Wilson
+7875,8,17723,77,77,Handlebar Tube,636.8,Morningstar,r,Greene,Spencer,,Bennett
+7876,21,10964,90,90,External Lock Washer 2,0,Dirk,t,Stringer,Karen,,Huang
+7877,15,8205,107,107,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Isabel,,Powell
+7878,8,4446,123,123,Lock Nut 9,177.6,Morningstar,r,Greene,Connor,,Edwards
+7879,2,1687,140,140,Lock Ring,829.8,,l,Blotchet-Halls,Arianna,C,Richardson
+7880,15,14687,153,153,Lock Washer 3,0,Michael,',O'Leary,Mya,,Coleman
+7881,9,11928,170,170,HL Nipple,196.4,Burt,r,Gringlesby,Kristopher,,Martinez
+7882,3,9169,187,187,LL Mountain Seat Assembly,133.34,,a,,Jay,,Carlson
+7883,16,2410,200,200,Spokes,843.2,Sylvia,a,Panteley,Brad,,Nath
+7884,10,19410,217,217,AWC Logo Cap,8.99,Sheryl,u,Hunter,Whitney,C,Sanchez
+7885,3,15651,233,233,"LL Road Frame - Red, 58",337.22,,a,,Peter,E,Black
+7886,20,12892,250,250,"HL Mountain Frame - Black, 48",1349.6,Dean,t,Straight,Luke,J,Simmons
+7887,10,6133,263,263,"Road-450 Red, 52",1457.99,Sheryl,u,Hunter,Edwin,,Li
+7888,4,3374,280,280,"Mountain-100 Black, 38",3374.99,Michel,e,DeFrance,Caroline,,Butler
+7889,21,615,297,297,"Road-250 Red, 58",2443.35,Dirk,t,Stringer,Alexandra,M,Alexander
+7890,11,13615,310,310,LL Headset,34.2,Livia,a,Karsen,Martin,P,Patel
+7891,5,10856,327,327,"ML Road Frame-W - Yellow, 38",594.83,Innes,e,del Castillo,Kaitlyn,,Harris
+7892,18,4097,340,340,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Christy,A,Andersen
+7893,12,1338,357,357,"Women's Tights, S",74.99,Charlene,,,Angel,,Phillips
+7894,5,17338,373,373,"Women's Mountain Shorts, M",69.99,Innes,e,del Castillo,Seth,,Bennett
+7895,22,14579,390,390,"HL Touring Frame - Yellow, 60",1003.91,Johnson,h,White,Monique,,Torres
+7896,12,7820,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,,,Hannah,G,Jenkins
+7897,6,5061,420,420,ML Touring Seat/Saddle,39.14,Ann,u,Dull,Dave,,Richards
+7898,1,2302,437,437,ML Road Tire,24.99,Abraham,e,Bennet,Blake,,Long
+7899,13,15302,450,450,Front Derailleur,91.49,Stearns,a,MacFeather,Olivia,E,Howard
+7900,7,12543,467,467,"Touring-3000 Yellow, 50",742.35,NUL,r,Green,Lisa,S,Chen
+7901,1,8784,483,483,"Touring-3000 Blue, 44",742.35,Abraham,e,Bennet,James,,Mitchell
+7902,17,6025,500,500,ML Bottom Bracket,101.24,Albert,i,Ringer,Eduardo,J,Brown
+7903,7,19025,9,513,Chainring Bolts,0,NUL,r,Green,Tyrone,B,Ruiz
+7904,1,16266,26,530,Flat Washer 4,0,Abraham,e,Bennet,Richard,J,Martinez
+7905,18,13507,43,547,Thin-Jam Hex Nut 16,72.8,Anne,i,Ringer,Marissa,,Price
+7906,8,6748,56,560,Hex Nut 16,75.4,Morningstar,r,Greene,Evelyn,,Perez
+7907,2,3989,73,577,Hex Nut 15,472.8,,l,Blotchet-Halls,Christian,J,Hughes
+7908,15,16989,86,590,External Lock Washer 7,0,Michael,',O'Leary,Samuel,,Sharma
+7909,9,14230,103,607,Thin-Jam Lock Nut 1,169.6,Burt,r,Gringlesby,Michael John,R,Troyer
+7910,2,10471,119,623,Lock Nut 16,88,,l,Blotchet-Halls,José,G,Lopez
+7911,19,7712,136,640,Lock Nut 15,548.4,Meander,m,Smith,Hailey,M,Lopez
+7912,9,953,149,653,Lock Washer 7,564,Burt,r,Gringlesby,Alvin,A,Zhao
+7913,3,17953,166,670,Metal Sheet 6,389.6,,a,,Steven,,Watson
+7914,20,15194,183,687,LL Road Rim,306,Dean,t,Straight,Noah,,Jones
+7915,10,8435,196,700,LL Spindle/Axle,418.4,Sheryl,u,Hunter,Jack,L,Hayes
+7916,4,5676,213,717,"Sport-100 Helmet, Black",34.99,Michel,e,DeFrance,Donald,D,Martinez
+7917,20,1917,229,733,"LL Road Frame - Black, 62",337.22,Dean,t,Straight,Audrey,H,Diaz
+7918,14,18917,246,750,"HL Mountain Frame - Silver, 48",1364.5/ -,Heather,c,McBadden,Trish,E,Pederson
+7919,4,12158,259,763,"Road-450 Red, 58",1457.99,Michel,e,DeFrance,Larry,S,Gomez
+7920,21,9399,276,780,"Mountain-100 Silver, 38",3399.99,Dirk,t,Stringer,Jenny,,Zimmerman
+7921,15,6640,293,797,"Mountain-300 Black, 48",1079.99 $$,Michael,',O'Leary,Ethan,A,Clark
+7922,5,19640,306,810,"Road-550-W Yellow, 48",1120.49,Innes,e,del Castillo,Xavier,M,Smith
+7923,22,16881,323,827,LL Road Front Wheel,85.565,Johnson,h,White,Ryan,J,Alexander
+7924,12,10122,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,,,Johnny,G,Kumar
+7925,6,7363,353,857,Headlights - Weatherproof,44.99,Ann,u,Dull,Gerald,,Martinez
+7926,22,3604,369,873,"Classic Vest, S",63.5,Johnson,h,White,Catherine,,Sanders
+7927,16,845,386,890,"Short-Sleeve Classic Jersey, S",53.99,Sylvia,a,Panteley,Alison,,Lal
+7928,6,13845,399,903,Rear Derailleur,121.46,Ann,u,Dull,Mayra,S,Sanchez
+7929,1,11086,416,920,LL Road Seat/Saddle,27.12,Abraham,e,Bennet,Kate,,Becker
+7930,17,8327,433,937,LL Mountain Tire,24.99,Albert,i,Ringer,Isabelle,K,Henderson
+7931,7,1568,446,950,Touring Pedal,80.99,NUL,r,Green,Annette,,Hill
+7932,1,18568,463,967,"Touring-3000 Blue, 54",742.35,Abraham,e,Bennet,Thomas,,Li
+7933,17,14809,479,983,"Road-350-W Yellow, 42",1700.99,Albert,i,Ringer,Natalie,E,Williams
+7935,13,13000,13,13,Chain Stays,64.8,Stearns,a,MacFeather,Madison,,Foster
+7936,7,10241,30,30,Flat Washer 7,418.8,NUL,r,Green,Jonathan,J,Hernandez
+7937,1,7482,47,47,Thin-Jam Hex Nut 4,441.6 rs,Abraham,e,Bennet,Glenn,A,Zeng
+7955,18,4097,340,,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Christy,A,Andersen
+8198,10,19410,217,217,AWC Logo Cap,8.99Euro,Sheryl,u,Hunter,Whitney,C,Sanchez
+8253,8,17723,77,7AS7,Handlebar Tube,636.8,Morningstar,r,Greene,Spencer,,Bennett
+8337,12,7820,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,o,,Hannah,G,Jenkins
+8365,12,10122,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,o,,Johnny,G,Kumar
+8375,1,1,1,Def11,Adjustable Race,1.6,Abraham,e,Bennet,Aaron,,
+8395,12,1338,357,357,"Women's Tights, S",74.99,Charlene,o,,Angel,,Phillips
+8424,22,16881,323,827,LL Road Front Wheel,85.565 Eur,Johnson,h,White,Ryan,J,Alexander
+8456,5,10856,327,327,"ML Road Frame-W - Yellow, 38",594.83 $,Innes,e,del Castillo,Kaitlyn,,Harris
+8535,8,6748,56,560,Hex Nut 16,75.4$,Morningstar,r,Greene,Evelyn,,Perez
+8570,15,8205,107,10()7,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Isabel,,Powell
+9003,1,11086,416,920,LL Road Seat/Saddle,27.12,Abraham,e,,Kate,,Becker
+9006,1,18568,463,967,"Touring-3000 Blue, 54",742.35,Abraham,e,,Thomas,,Li
+9008,1,1,1,-11,Adjustable Race,1.6,Abraham,e,,Aaron,,
+9011,1,7482,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,,Glenn,A,Zeng
+9036,1,2302,437,437,ML Road Tire,24.99,Abraham,e,,Blake,,Long
+9039,1,8784,483,483,"Touring-3000 Blue, 44",742.35,Abraham,e,,James,,Mitchell
+9042,1,16266,26,530,Flat Washer 4,0,Abraham,e,,Richard,J,Martinez
+9094,18,4097,340,340,"ML Road Frame-W - Yellow, 44",594.83 $,Anne,i,Ringer,Christy,A,Andersen
+9136,1,1,1,11,Adjustable Race,1.6,Abraham,e,,Aaron,,
+9212,3,9169,187,187,LL Mountain Seat Assembly,133.34,,a,Carson,Jay,,Carlson
+9215,3,15651,233,233,"LL Road Frame - Red, 58",337.22,,a,Carson,Peter,E,Black
+9234,1,16266,26,530,Flat Washer 4,0,NULL,e,,Richard,J,Martinez
+9242,3,17953,166,670,Metal Sheet 6,389.6,,a,Carson,Steven,,Watson
+9258,1,11086,416,920,LL Road Seat/Saddle,27.12,NULL,e,Bennet,Kate,,Becker
+9261,1,18568,463,967,"Touring-3000 Blue, 54",742.35,NULL,e,Bennet,Thomas,,Li
+9263,1,1,1,11,Adjustable Race,1.6$,NULL,e,Bennet,Aaron,,
+9266,1,7482,47,47,Thin-Jam Hex Nut 4,441.6,NULL,e,Bennet,Glenn,A,Zeng
+9290,1,2302,437,437,ML Road Tire,24.99,NULL,e,Bennet,Blake,,Long
+9293,1,8784,483,483,"Touring-3000 Blue, 44",742.35,NULL,e,Bennet,James,,Mitchell
+9296,1,16266,26,530,Flat Washer 4,0,NULL,e,Bennet,Richard,J,Martinez
+9326,1,1,1,11,Adjustable Race,1.6,NULL,e,Bennet,Aaron,,
+9402,3,9169,187,187,LL Mountain Seat Assembly,133.34,,NULL,Carson,Jay,,Carlson
+9405,3,15651,233,233,"LL Road Frame - Red, 58",337.22,,NULL,Carson,Peter,E,Black
+9433,3,17953,166,670,Metal Sheet 6,389.6,,NULL,Carson,Steven,,Watson
+9878,1,7482,47,47,Thin-Jam Hex Nut 4,441.6 rs,NULL,e,Bennet,Glenn,A,Zeng
+9993,13,13000,13,13,Chain Stays,64.8$,Stearns,a,MacFeather,Madison,,Foster
+9995,1,7482,47,47,Thin-Jam Hex Nut 4,441.6$,NULL,e,Bennet,Glenn,A,Zeng
+9997,8,17723,77,77,Handlebar Tube,636.8$,Morningstar,r,Greene,Spencer,,Bennett
+9999,15,8205,107,107,Thin-Jam Lock Nut 5,85.6$,Michael,',O'Leary,Isabel,,Powell
+10702,11,13615,327,327,"ML Road Frame-W - Yellow, 38",594.83,Livia,a,Karsen,Martin,P,Patel
+11430,15,8205,107,XCV107,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Isabel,,Powell
+11523,8,6748,56,560,Hex Nut 16,Eur75.4,Morningstar,r,Greene,Evelyn,,Perez
+11612,3,12654,187,187,LL Mountain Seat Assembly,133.34,,NULL,Carson,Louis,,Hu
+11613,16,4341,200,200,Spokes,843.2,Sylvia,a,Panteley,Cole,W,Cook
+11614,10,16269,217,217,AWC Logo Cap,8.99,Sheryl,u,Hunter,Richard,L,Cooper
+11615,3,18197,233,233,"LL Road Frame - Red, 58",337.22,,NULL,Carson,Tabitha,M,Rodriguez
+11616,20,10366,250,250,"HL Mountain Frame - Black, 48",1349.6,Dean,t,Straight,Jordyn,S,Coleman
+11617,10,2053,263,263,"Road-450 Red, 52",1457.99,Sheryl,u,Hunter,Barbara,,Lin
+11618,4,13981,280,280,"Mountain-100 Black, 38",3374.99,Michel,e,DeFrance,Melanie,B,Russell
+11619,21,6150,297,297,"Road-250 Red, 58",2443.35,Dirk,t,Stringer,Edwin,A,Deng
+11620,11,17596,310,310,LL Headset,34.2,Livia,a,Karsen,Sheena,,Chande
+11621,5,9765,327,327,"ML Road Frame-W - Yellow, 38",594.83,Innes,e,del Castillo,Jésus,K,Munoz
+11622,18,1452,340,340,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Ann,,Gonzalez
+11623,12,13380,357,357,"Women's Tights, S",74.99,Charlene,,,María,,Flores
+11624,5,15308,373,373,"Women's Mountain Shorts, M",69.99,Innes,e,del Castillo,Olivia,K,Cox
+11625,22,7477,390,390,"HL Touring Frame - Yellow, 60",1003.91,Johnson,h,White,Glenn,,Lu
+11626,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,,,Trisha,,Sun
+11627,6,11092,420,420,ML Touring Seat/Saddle,39.14,Ann,u,Dull,Kate,,Raje
+11628,1,3261,437,437,ML Road Tire,24.99,Abraham,e,Bennet,Carlos,,Howard
+11629,13,14707,450,450,Front Derailleur,91.49,Stearns,a,MacFeather,Nancy,,Buchanan
+11630,7,6876,467,467,"Touring-3000 Yellow, 50",742.35,NUL,r,Green,Fernando,J,Jenkins
+11631,7,12419,9,513,Chainring Bolts,0,NUL,r,Green,Levi,,Gonzalez
+11632,1,4588,26,530,Flat Washer 4,0,Abraham,e,Bennet,Cristina,,Xu
+11633,18,16516,43,547,Thin-Jam Hex Nut 16,72.8,Anne,i,Ringer,Rodney,,Sanz
+11634,8,8203,56,560,Hex Nut 16,75.4,Morningstar,r,Greene,Isabel,,Long
+11635,2,372,73,577,Hex Nut 15,472.8,,l,Blotchet-Halls,Alberto,,Ramos
+11636,15,11818,86,590,External Lock Washer 7,0,Michael,',O'Leary,Kristen,R,Li
+11637,9,3987,103,607,Thin-Jam Lock Nut 1,169.6,Burt,r,Gringlesby,Christian,J,Garcia
+11638,2,5915,119,623,Lock Nut 16,88,,l,Blotchet-Halls,Eddie,,Gomez
+11639,19,17843,136,640,Lock Nut 15,548.4,Meander,m,Smith,Stephanie,,Alexander
+11640,9,9530,149,653,Lock Washer 7,564,Burt,r,Gringlesby,Jermaine,A,Kapoor
+11641,3,1699,166,670,Metal Sheet 6,389.6,,NULL,Carson,Arianna,M,Bell
+11642,20,13627,183,687,LL Road Rim,306,Dean,t,Straight,Marvin,C,Gomez
+11643,10,5314,196,700,LL Spindle/Axle,418.4,Sheryl,u,Hunter,Dennis,G,Wu
+11644,4,17242,213,717,"Sport-100 Helmet, Black",34.99,Michel,e,DeFrance,Sean,,Green
+11645,20,19170,229,733,"LL Road Frame - Black, 62",337.22,Dean,t,Straight,Victoria,,Williams
+11646,14,11339,246,750,"HL Mountain Frame - Silver, 48",1364.5/ -,Heather,c,McBadden,Katrina,M,Sharma
+11647,4,3026,259,763,"Road-450 Red, 58",1457.99,Michel,e,DeFrance,Caleb,,Patterson
+11648,21,14954,276,780,"Mountain-100 Silver, 38",3399.99,Dirk,t,Stringer,Nathaniel,C,Howard
+11649,15,7123,293,797,"Mountain-300 Black, 48",1079.99 $$,Michael,',O'Leary,Gabriella,,Rivera
+11650,5,18569,306,810,"Road-550-W Yellow, 48",1120.49,Innes,e,del Castillo,Thomas,,Martinez
+11651,22,10738,323,827,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+11652,12,2425,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,,,Brad,M,Goel
+11653,6,14353,353,857,Headlights - Weatherproof,44.99,Ann,u,Dull,Miguel,,Gonzalez
+11654,22,16281,369,873,"Classic Vest, S",63.5,Johnson,h,White,Richard,M,Brown
+11655,16,8450,386,890,"Short-Sleeve Classic Jersey, S",53.99,Sylvia,a,Panteley,Jack,S,Richins
+11656,6,137,399,903,Rear Derailleur,121.46,Ann,u,,,,
+11657,1,12065,416,920,LL Road Seat/Saddle,27.12,Abraham,e,Bennet,Kyle,T,Young
+11658,17,4234,433,937,LL Mountain Tire,24.99,Albert,i,Ringer,Clayton,,Zeng
+11659,7,15680,446,950,Touring Pedal,80.99,NUL,r,Green,Philip,M,Gutierrez
+11660,1,7849,463,967,"Touring-3000 Blue, 54",742.35,Abraham,e,Bennet,Harold,D,Subram
+11661,17,9777,479,983,"Road-350-W Yellow, 42",1700.99,Albert,i,Ringer,Jill,,Gomez
+11662,1,1,1,11-,Adjustable Race,1.6,Abraham,e,Bennet,Aaron,,
+11663,13,11446,13,13,Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+11664,7,3615,30,30,Flat Washer 7,418.8,NUL,r,Green,Catherine,L,Murphy
+11665,1,15543,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Patrick,L,Sanders
+11666,14,7230,60,60,Hex Nut 9,152.4,Heather,c,McBadden,Garrett,,Murphy
+11667,8,19158,77,77,Handlebar Tube,636.8,Morningstar,r,Greene,Victoria,,Powell
+11668,21,10845,90,90,External Lock Washer 2,0,Dirk,t,Stringer,Kaitlyn,,Allen
+11669,15,3014,107,107,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Caleb,,Campbell
+11670,8,4942,123,123,Lock Nut 9,177.6,Morningstar,r,Greene,Danielle,J,Sanders
+11671,2,16870,140,140,Lock Ring,829.8,,l,Blotchet-Halls,Ryan,C,Davis
+11672,15,8557,153,153,Lock Washer 3,0,Michael,',O'Leary,Jacob,,Martinez
+11673,9,726,170,170,HL Nipple,196.4,Burt,r,Gringlesby,Alexis,H,Hall
+11693,1,8804,483,483,"Touring-3000 Blue, 44",742.35,Abraham,e,Bennet,James,C,Evans
+11694,17,973,500,500,ML Bottom Bracket,101.24,Albert,i,Ringer,Alvin,V,Zheng
+11731,8,19158,77,-77,Handlebar Tube,636.8,Morningstar,r,Greene,Victoria,,Powell
+11740,10,16269,217,217,AWC Logo Cap,8.99Euro,Sheryl,u,Hunter,Richard,L,Cooper
+11833,3,1699,166,670,Metal Sheet 6,389.6,NULL,NULL,Carson,Arianna,M,Bell
+11866,3,12654,187,187,LL Mountain Seat Assembly,133.34,NULL,NULL,Carson,Louis,,Hu
+11869,3,18197,233,233,"LL Road Frame - Red, 58",337.22,NULL,NULL,Carson,Tabitha,M,Rodriguez
+11897,3,1699,166,670,Metal Sheet 6,389.6,Cheryl,NULL,Carson,Arianna,M,Bell
+11921,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 rs,Abraham,e,Bennet,Patrick,L,Sanders
+11930,3,12654,187,187,LL Mountain Seat Assembly,133.34,Cheryl,NULL,Carson,Louis,,Hu
+11933,3,18197,233,233,"LL Road Frame - Red, 58",337.22,Cheryl,NULL,Carson,Tabitha,M,Rodriguez
+12131,12,13380,357,357,"Women's Tights, S",74.99,Charlene,,Locksley,María,,Flores
+12134,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,,Locksley,Trisha,,Sun
+12162,12,2425,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,,Locksley,Brad,M,Goel
+12193,5,9765,327,327,"ML Road Frame-W - Yellow, 38",594.83 $,Innes,e,del Castillo,Jésus,K,Munoz
+12779,22,10738,323,827,LL Road Front Wheel,85.565 Eur,Johnson,h,White,Julie,M,Luo
+13396,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 $$,,,Locksley,Trisha,,Sun
+13423,12,2425,336,840,"ML Mountain Frame - Black, 44",348.76,,,Locksley,Brad,M,Goel
+13440,12,13380,357,357,"Women's Tights, S",74.99,,,Locksley,María,,Flores
+13644,8,8203,56,560,Hex Nut 16,Eur75.4,Morningstar,r,Greene,Isabel,,Long
+13670,8,19158,77,"7""""7",Handlebar Tube,636.8,Morningstar,r,Greene,Victoria,,Powell
+13720,17,5668,293,293,"Mountain-300 Black, 48",1079.99 $$,Albert,i,Ringer,Donald,,Raman
+13725,19,16995,387,387,"Short-Sleeve Classic Jersey, M",53.99,Meander,m,Smith,Samuel,,Young
+13728,20,18322,480,480,"Road-350-W Yellow, 44",1700.99,Dean,t,Straight,Tasha,,Yuan
+13731,14,16034,39,543,,,,,,,,
+13735,17,8929,226,730,"HL Road Frame - Red, 56",1431.5,Albert,i,Ringer,Jane,P,Greer
+13736,11,1098,243,747,"LL Road Frame - Black, 52",337.22,Livia,a,Karsen,Amanda,M,Bennett
+13741,13,3752,429,933,"LL Mountain Frame - Black, 42",249.79,Stearns,a,MacFeather,Charles,E,Sanders
+13744,20,15061,43,43,Thin-Jam Hex Nut 16,72.8,Dean,t,Straight,Nicolas,,Raje
+13750,17,125,247,247,"HL Mountain Frame - Silver, 46",1364.5/ -,Albert,i,,,,
+13758,19,2779,433,433,LL Mountain Tire,24.99,Meander,m,Smith,Bridget,E,Chande
+13762,14,10491,497,497,"Mountain-500 Black, 48",539.99,Heather,c,McBadden,Joseph,J,Cantoni
+13768,16,7602,133,637,Lock Nut 21,90.8,Sylvia,a,Panteley,Grant,A,Andersen
+13771,16,13145,179,683,Reflector,910.8,Sylvia,a,Panteley,Marc,,Romero
+13778,11,6641,,793,"Mountain-200 Black, 46",2294.99,Livia,a,Karsen,Ethan,A,Lal
+13784,13,17968,383,887,Fender Set - Mountain,21.98,Stearns,a,MacFeather,Steven,L,Peterson
+13790,14,19295,476,980,"Touring-2000 Blue, 50",1214.85,Heather,c,McBadden,Warren,,Zhao
+13791,8,11464,493,997,"Mountain-500 Silver, 52",564.99,Morningstar,r,Greene,Keith,R,Pal
+13801,22,12172,183,183,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+13804,1,7956,230,230,"LL Road Frame - Red, 44",337.22,Abraham,e,Bennet,Henry,M,Prasad
+13859,10,2779,433,433,LL Mountain Tire,24.99,Meander,m,Smith,Bridget,E,Chande
+13873,11,6641,289,793,"Mountain-200 Black, 46",2294.99,Livia,a,Karsen,Ethan,A,Lal
+13890,22,6629,137,137,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+13892,10,16269,217,217,AWC Logo Cap,$8.99 ,Sheryl,u,Hunter,Richard,L,Cooper
+14066,22,6629,137,13ds7,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+14238,12,2425,336,840,"ML Mountain Frame - Black, 44",348.76,,o,Locksley,Brad,M,Goel
+14271,12,13380,357,357,"Women's Tights, S",74.99,,o,Locksley,María,,Flores
+14274,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 $$,,o,Locksley,Trisha,,Sun
+14321,22,6629,137,137df,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+14702,22,6629,137,137jj,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+14728,14,16034,39,543,Thin-Jam Hex Nut 10,,Heather,c,McBadden,Raymond,W,Madan
+14815,13,11446,13,13??//,Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+14883,5,9765,327,327,"ML Road Frame-W - Yellow, 38",594.83 Rs,Innes,e,del Castillo,Jésus,K,Munoz
+15450,18,1452,340,340,"ML Road Frame-W - Yellow, 44",594.83 Rs,Anne,i,Ringer,Ann,,Gonzalez
+15772,12,2425,336,840,"ML Mountain Frame - Black, 44",348.76,,o,,Brad,M,Goel
+15792,12,13380,357,357,"Women's Tights, S",74.99,,o,,María,,Flores
+15795,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 $$,,o,,Trisha,,Sun
+16113,3,1699,166,670,Metal Sheet 6,389.6,Cheryl,NULL,Null,Arianna,M,Bell
+16150,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,o,,Trisha,,Sun
+16194,12,13380,357,357,"Women's Tights, S",74.99,Charlene,o,,María,,Flores
+16223,12,2425,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,o,,Brad,M,Goel
+16235,7,3615,30,30,Flat Washer 7,418.8,,r,Green,Catherine,L,Murphy
+16263,7,6876,467,467,"Touring-3000 Yellow, 50",742.35,Marjorie,r,Green,Fernando,J,Jenkins
+16266,7,12419,9,513,Chainring Bolts,0,Marjorie,r,Green,Levi,,Gonzalez
+16294,7,15680,446,950,Touring Pedal,80.99,Marjorie,r,Green,Philip,M,Gutierrez
+16299,7,3615,30,30,Flat Washer 7,418.8,Marjorie,r,Green,Catherine,L,Murphy
+16494,22,12172,183,183m,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+16532,11,6641,289,793,,2294.99,Livia,a,Karsen,Ethan,A,Lal
+16601,8,19158,77,77?>,Handlebar Tube,636.8,Morningstar,r,Greene,Victoria,,Powell
+16911,22,6629,137,137%^,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+16982,17,125,247,247,"HL Mountain Frame - Silver, 46",1364.5/ -,Albert,i,Ringer,Abigail,H,Wood
+17024,6,137,399,903,Rear Derailleur,121.46,Ann,u,Dull,Abigail,L,Flores
+17658,10,16269,217,217,AWC Logo Cap,8.99GDB,Sheryl,u,Hunter,Richard,L,Cooper
+17854,14,16034,39,543,,,Heather,c,McBadden,Raymond,W,Madan
+17899,17,125,247,247,"HL Mountain Frame - Silver, 46",1364.5/ -,,i,Ringer,Abigail,H,Wood
+17954,15,3014,107,1-0/7,Thin-Jam Lock Nut 5,85.6,Michael,',O'Leary,Caleb,,Campbell
+18121,3,12654,187,187,LL Mountain Seat Assembly,133.34,Cheryl,NULL,Null,Louis,,Hu
+18124,3,18197,233,233,"LL Road Frame - Red, 58",337.22,Cheryl,NULL,Null,Tabitha,M,Rodriguez
+18741,15,7123,293,797,"Mountain-300 Black, 48",1079.99,Michael,',O'Leary,Gabriella,,Rivera
+18984,15,7123,293,797,"Mountain-300 Black, 48",EUR 1079.99,Michael,',O'Leary,Gabriella,,Rivera
+19102,3,1699,166,670,Metal Sheet 6,389.6,null,NULL,Null,Arianna,M,Bell
+19135,3,12654,187,187,LL Mountain Seat Assembly,133.34,null,NULL,Null,Louis,,Hu
+19138,3,18197,233,233,"LL Road Frame - Red, 58",337.22,null,NULL,Null,Tabitha,M,Rodriguez
+20338,3,18197,233,233,"LL Road Frame - Red, 58",337.22,null,a,Carson,Tabitha,M,Rodriguez
+20387,3,12654,187,187,LL Mountain Seat Assembly,133.34,null,a,Carson,Louis,,Hu
+20418,3,1699,166,670,Metal Sheet 6,389.6,null,a,Carson,Arianna,M,Bell
+20461,18,1452,340,340,"ML Road Frame-W - Yellow, 44",Rs 594.83,Anne,i,Ringer,Ann,,Gonzalez
+20602,8,8203,56,560,Hex Nut 16,75.4GBD,Morningstar,r,Greene,Isabel,,Long
+21727,12,2425,336,840,"ML Mountain Frame - Black, 44",348.76,Charlene,o,Locksley,Brad,M,Goel
+21737,1,1,1,11,Adjustable Race,$1.60 ,Abraham,e,Bennet,Aaron,,
+21760,12,13380,357,357,"Women's Tights, S",74.99,Charlene,o,Locksley,María,,Flores
+21763,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 $$,Charlene,o,Locksley,Trisha,,Sun
+22436,17,5668,293,293,"Mountain-300 Black, 48",EUR 1079.99,Albert,i,Ringer,Donald,,Raman
+22554,22,6629,137,137?,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+22580,14,16034,39,543,,,Heather,c,,,,
+24351,5,9765,327,327,"ML Road Frame-W - Yellow, 38",Rs 594.83,Innes,e,del Castillo,Jésus,K,Munoz
+24450,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,Aaron,,Alexander
+24700,1,1,1,11,Adjustable Race,$1.60 ,Abraham,e,Bennet,Aaron,,Alexander
+26952,3,1699,166,670,Metal Sheet 6,389.6,null,,Carson,Arianna,M,Bell
+26985,3,12654,187,187,LL Mountain Seat Assembly,133.34,null,,Carson,Louis,,Hu
+26988,3,18197,233,233,"LL Road Frame - Red, 58",337.22,null,,Carson,Tabitha,M,Rodriguez
+27332,3,1699,166,670,Metal Sheet 6,389.6,Cheryl,,Carson,Arianna,M,Bell
+27365,3,12654,187,187,LL Mountain Seat Assembly,133.34,Cheryl,,Carson,Louis,,Hu
+27368,3,18197,233,233,"LL Road Frame - Red, 58",337.22,Cheryl,,Carson,Tabitha,M,Rodriguez
+27420,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 Eur,Abraham,e,Bennet,Patrick,L,Sanders
+27579,14,11339,246,750,"HL Mountain Frame - Silver, 48",1364.5EUR,Heather,c,McBadden,Katrina,M,Sharma
+28182,8,8203,56,560,Hex Nut 16,75.4 GBD,Morningstar,r,Greene,Isabel,,Long
+29207,2,16870,140,140,Lock Ring,829.8,,l,,Ryan,C,Davis
+29227,2,372,73,577,Hex Nut 15,472.8,,l,,Alberto,,Ramos
+29230,2,5915,119,623,Lock Nut 16,88,,l,,Eddie,,Gomez
+29637,2,5915,119,623,Lock Nut 16,88,Reginald,l,,Eddie,,Gomez
+29670,2,16870,140,140,Lock Ring,829.8,Reginald,l,,Ryan,C,Davis
+29698,2,372,73,577,Hex Nut 15,472.8,Reginald,l,,Alberto,,Ramos
+30749,5,9765,327,327,"ML Road Frame-W - Yellow, 38",GBP 594.83,Innes,e,del Castillo,Jésus,K,Munoz
+31508,18,1452,340,340,"ML Road Frame-W - Yellow, 44",GBP 594.83,Anne,i,Ringer,Ann,,Gonzalez
+32310,10,16269,217,217,AWC Logo Cap,8.99/-,Sheryl,u,Hunter,Richard,L,Cooper
+32612,3,12654,187,187,LL Mountain Seat Assembly,133.34,,,Carson,Louis,,Hu
+32615,3,18197,233,233,"LL Road Frame - Red, 58",337.22,,,Carson,Tabitha,M,Rodriguez
+32643,3,1699,166,670,Metal Sheet 6,389.6,,,Carson,Arianna,M,Bell
+32983,3,18197,233,233,"LL Road Frame - Red, 58",337.22,,a,Carson,Tabitha,M,Rodriguez
+33011,3,1699,166,670,Metal Sheet 6,389.6,,a,Carson,Arianna,M,Bell
+33044,3,12654,187,187,LL Mountain Seat Assembly,133.34,,a,Carson,Louis,,Hu
+34039,10,16269,217,217,AWC Logo Cap,RS.8.99,Sheryl,u,Hunter,Richard,L,Cooper
+37124,1,1,1,11,Adjustable Race,1.6,,,,Aaron,,Alexander
+37127,1,15543,47,47,Thin-Jam Hex Nut 4,441.6,,,,Patrick,L,Sanders
+37151,1,3261,437,437,ML Road Tire,24.99,,,,Carlos,,Howard
+37154,1,8804,483,483,"Touring-3000 Blue, 44",742.35,,,,James,C,Evans
+37157,1,4588,26,530,Flat Washer 4,0,,,,Cristina,,Xu
+37182,1,12065,416,920,LL Road Seat/Saddle,27.12,,,,Kyle,T,Young
+37185,1,7849,463,967,"Touring-3000 Blue, 54",742.35,,,,Harold,D,Subram
+37249,1,1,1,11,Adjustable Race,Euro1.6,,,,Aaron,,Alexander
+37508,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 Eur,,,,Patrick,L,Sanders
+38226,1,3261,437,437,ML Road Tire,24.99,,,Bennet,Carlos,,Howard
+38229,1,8804,483,483,"Touring-3000 Blue, 44",742.35,,,Bennet,James,C,Evans
+38232,1,4588,26,530,Flat Washer 4,0,,,Bennet,Cristina,,Xu
+38254,1,12065,416,920,LL Road Seat/Saddle,27.12,,,Bennet,Kyle,T,Young
+38279,1,3261,437,437,ML Road Tire,24.99$$,,,Bennet,Carlos,,Howard
+38310,1,12065,416,920,LL Road Seat/Saddle,27.12,Abraham,,Bennet,Kyle,T,Young
+38313,1,7849,463,967,"Touring-3000 Blue, 54",742.35,Abraham,,Bennet,Harold,D,Subram
+38315,1,1,1,11,Adjustable Race,1.6,Abraham,,Bennet,Aaron,,Alexander
+38318,1,15543,47,47,Thin-Jam Hex Nut 4,441.6$$,Abraham,,Bennet,Patrick,L,Sanders
+38343,1,3261,437,437,ML Road Tire,24.99,Abraham,,Bennet,Carlos,,Howard
+38346,1,8804,483,483,"Touring-3000 Blue, 44",742.35,Abraham,,Bennet,James,C,Evans
+38349,1,4588,26,530,Flat Washer 4,0,Abraham,,Bennet,Cristina,,Xu
+38367,22,10738,323,827,LL Road Front Wheel,$85.57 ,Johnson,h,White,Julie,M,Luo
+38381,1,15543,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,,Bennet,Patrick,L,Sanders
+38409,1,8804,483,483,"Touring-3000 Blue, 44",742.35Euro,Abraham,,Bennet,James,C,Evans
+38504,1,7849,463,967,"Touring-3000 Blue, 54",742.35,,,Bennet,Harold,D,Subram
+38506,1,1,1,11,Adjustable Race,1.6,,,Bennet,Aaron,,Alexander
+38509,1,15543,47,47,Thin-Jam Hex Nut 4,441.6,,,Bennet,Patrick,L,Sanders
+38518,3,12654,187,187,LL Mountain Seat Assembly,133.34,,a,,Louis,,Hu
+38521,3,18197,233,233,"LL Road Frame - Red, 58",337.22,,a,,Tabitha,M,Rodriguez
+38549,3,1699,166,670,Metal Sheet 6,389.6,,a,,Arianna,M,Bell
+38633,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 Eur,,,Bennet,Patrick,L,Sanders
+39068,1,1,1,11,Adjustable Race,Euro1.6,,,Bennet,Aaron,,Alexander
+39144,3,12654,187,187,LL Mountain Seat Assembly,133.34,Cheryl,a,,Louis,,Hu
+39147,3,18197,233,233,"LL Road Frame - Red, 58",337.22,Cheryl,a,,Tabitha,M,Rodriguez
+39175,3,1699,166,670,Metal Sheet 6,389.6,Cheryl,a,,Arianna,M,Bell
+39455,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 Eur,Abraham,,Bennet,Patrick,L,Sanders
+40332,1,1,1,11,Adjustable Race,Euro1.6,Abraham,,Bennet,Aaron,,Alexander
+41524,17,125,247,247,"HL Mountain Frame - Silver, 46",1364.5EUR,Albert,i,Ringer,Abigail,H,Wood
+41553,10,5314,196,700,LL Spindle/Axle,-418.4,Sheryl,u,Hunter,Dennis,G,Wu
+41568,13,3752,429,933,"LL Mountain Frame - Black, 42",-249.79,Stearns,a,MacFeather,Charles,E,Sanders
+41586,10,16269,217,217,AWC Logo Cap,-8.99,Sheryl,u,Hunter,Richard,L,Cooper
+41773,22,6629,137,137(),Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+41831,20,15061,04-Mar,43,Thin-Jam Hex Nut 16,72.8,Dean,t,Straight,Nicolas,,Raje
+42253,1,1,1,11,Adjustable Race,Euro1.6,Abraham,e,Bennet,Aaron,,Alexander
+42916,8,8203,56,560,Hex Nut 16,75.4 $,Morningstar,r,Greene,Isabel,,Long
+43841,4,17242,213,717,"Sport-100 Helmet, Black",34.99,Michel,e,,Sean,,Green
+43844,4,3026,259,763,"Road-450 Red, 58",1457.99,Michel,e,,Caleb,,Patterson
+44518,3,1699,166,670,Metal Sheet 6,389.6,Cheryl,a,Carson,Arianna,M,Bell
+44551,3,12654,187,187,LL Mountain Seat Assembly,133.34,Cheryl,a,Carson,Louis,,Hu
+44554,3,18197,233,233,"LL Road Frame - Red, 58",337.22,Cheryl,a,Carson,Tabitha,M,Rodriguez
+46091,1,15543,47,47sf,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Patrick,L,Sanders
+46659,22,6629,137,137__,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+46835,13,17968,383,887,Fender Set - Mountain,-21.98,Stearns,a,MacFeather,Steven,L,Peterson
+47557,22,12172,183,183*(,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+55001,1,15543,47,47,Thin-Jam Hex Nut 4,441.6$$,Abraham,e,Bennet,Patrick,L,Sanders
+56248,6,137,399,903,Rear Derailleur,-121.46,Ann,u,Dull,Abigail,L,Flores
+56271,10,2053,263,263,"Road-450 Red, 52",-1457.99,Sheryl,u,Hunter,Barbara,,Lin
+56302,14,11339,246,750,"HL Mountain Frame - Silver, 48",R.s. 1364.5,Heather,c,McBadden,Katrina,M,Sharma
+57173,12,18923,403,403,"LL Touring Frame - Blue, 62",EUR 333.42,Charlene,o,Locksley,Trisha,,Sun
+57412,2,16870,140,140,Lock Ring,829.8,Reginald,l,Blotchet-Halls,Ryan,C,Davis
+57440,2,372,73,577,Hex Nut 15,472.8,Reginald,l,Blotchet-Halls,Alberto,,Ramos
+57443,2,5915,119,623,Lock Nut 16,88,Reginald,l,Blotchet-Halls,Eddie,,Gomez
+58472,6,137,399,903,Rear Derailleur,121.46,Ann,u,,Abigail,L,Flores
+58498,11,17596,310,310,LL Headset,34.2,Livia,a,,Sheena,,Chande
+58505,6,11092,420,420,ML Touring Seat/Saddle,39.14,Ann,u,,Kate,,Raje
+61405,17,125,247,247,"HL Mountain Frame - Silver, 46",R.s. 1364.5,Albert,i,Ringer,Abigail,H,Wood
+62158,22,12172,183,GH183,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+62410,22,6629,137,j137,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+62794,22,6629,137,137k,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+62799,10,16269,217,217,AWC Logo Cap,8.99Rs,Sheryl,u,Hunter,Richard,L,Cooper
+63172,22,12172,183,183g,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+63291,20,15061,43,*(43,Thin-Jam Hex Nut 16,72.8,Dean,t,Straight,Nicolas,,Raje
+63302,10,16269,217,217,AWC Logo Cap,8.99czk,Sheryl,u,Hunter,Richard,L,Cooper
+63616,22,6629,137,137n,Lock Nut 4,183.2,Johnson,h,White,Ethan,,Perry
+64175,20,15061,43,43ASd,Thin-Jam Hex Nut 16,72.8,Dean,t,Straight,Nicolas,,Raje
+64511,17,5668,293,293 Thg,"Mountain-300 Black, 48",EUR 1079.99,Albert,i,Ringer,Donald,,Raman
+64758,22,12172,183,??183,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+64799,22,10738,WR323,827,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+65141,22,12172,183,1f83,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+65246,22,10738,323,827,LL Road Front Wheel,85.565/-,Johnson,h,White,Julie,M,Luo
+65403,17,5668,293,293 Thg,"Mountain-300 Black, 48",1079.99,Albert,i,Ringer,Donald,,Raman
+65437,22,10738,323sd,827,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+65568,20,15061,43,4??3,Thin-Jam Hex Nut 16,72.8,Dean,t,Straight,Nicolas,,Raje
+65761,14,7230,60,60,Hex Nut 9,152.4,Heather,c,,Garrett,,Murphy
+65769,22,12172,183,18fm3,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+65805,11,1098,243,747,"LL Road Frame - Black, 52",337.22,Livia,a,,Amanda,M,Bennett
+66287,14,16034,39,543,,144,Heather,c,McBadden,Raymond,W,Madan
+66456,22,12172,183,183--,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+66903,22,12172,183,18fg3,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+67278,22,12172,183,183LHJ,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+67406,22,12172,183,fg183,LL Road Rim,306,Johnson,h,White,Latasha,,Suarez
+67611,14,16034,39,543,,144,NULL,NULL,NULL,NULL,NULL,Madan
+71218,14,16034,39,543,Thin-Jam Hex Nut 10,144,Heather,c,McBadden,Raymond,W,Madan
+72231,14,16034,39,543,Thin-Jam Hex Nut 10,144INR,Heather,c,McBadden,Raymond,W,Madan
+74471,6,14353,353,857,Headlights - Weatherproof,-44.99,Ann,u,Dull,Miguel,,Gonzalez
+75410,22,10738,323dfg,827,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+76430,11,6641,289,793,"Men's Sports Shorts, L",2294.99,Livia,a,Karsen,Ethan,A,Lal
+86022,15,7123,293,293 Thg,"Mountain-300 Black, 48",1079.99,Michael,',O'Leary,Gabriella,,Rivera
+89896,10,16269,217,217,AWC Logo Cap,Euro8.99,Sheryl,u,Hunter,Richard,L,Cooper
+97761,1,1,1,11,Adjustable Race,1.6Rs,Abraham,e,Bennet,Aaron,,Alexander
+100728,14,11339,246,750,"HL Mountain Frame - Silver, 48",GBP 1364.5,Heather,c,McBadden,Katrina,M,Sharma
+100985,15,7123,293,293 Thg,"Mountain-300 Black, 48",1079.99 $$Eur,Michael,',O'Leary,Gabriella,,Rivera
+101423,15,7123,293,797,"Mountain-300 Black, 48",1079.99 $$Eur,Michael,',O'Leary,Gabriella,,Rivera
+101439,1,15543,47,47,Thin-Jam Hex Nut 4,441.6$$Rs,Abraham,e,Bennet,Patrick,L,Sanders
+105535,13,11446,13,13ALOK,Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+106349,15,7123,293,797,"Mountain-300 Black, 48",Rs.s 1079.99,Michael,',O'Leary,Gabriella,,Rivera
+106811,13,11446,13,13{},Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+107756,13,11446,13,"13""""",Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+108707,6,137,399,903,Rear Derailleur,121.46inR,Ann,u,Dull,Abigail,L,Flores
+109332,13,11446,13,13<<>>as,Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+109985,10,16269,217,217,AWC Logo Cap,Rs8.99,Sheryl,u,Hunter,Richard,L,Cooper
+110794,6,137,399,903,Rear Derailleur,121.46inR,,,,,,
+111295,6,137,399,903,Rear Derailleur,121.46,,,,,,
+114635,15,7123,293,"797 """"""","Mountain-300 Black, 48",1079.99,Michael,',O'Leary,Gabriella,,Rivera
+116106,1,1,1,11,Adjustable Race,Czk 1.6,Abraham,e,Bennet,Aaron,,Alexander
+121851,1,15543,47,47,Thin-Jam Hex Nut 4,EUR 441.6,Abraham,e,Bennet,Patrick,L,Sanders
+134180,12,18923,403,403,"LL Touring Frame - Blue, 62",333.42 R.s.,Charlene,o,Locksley,Trisha,,Sun
+142269,14,11339,246,750$%^&,"HL Mountain Frame - Silver, 48",GBP 1364.5,Heather,c,McBadden,Katrina,M,Sharma
+146861,14,11339,246,750$%^&,"HL Mountain Frame - Silver, 48",1364.5,Heather,c,McBadden,Katrina,M,Sharma
+148900,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 r.s.,Abraham,e,Bennet,Patrick,L,Sanders
+153312,22,10738,323,827,LL Road Front Wheel,85.565$,Johnson,h,White,Julie,M,Luo
+153897,1,7849,463,967,"Touring-3000 Blue, 54",742.35,Abraham,e,,Harold,D,Subram
+153899,1,1,1,11,Adjustable Race,1.6,Abraham,e,,Aaron,,Alexander
+153902,1,15543,47,47,Thin-Jam Hex Nut 4,441.6,Abraham,e,,Patrick,L,Sanders
+153927,1,3261,437,437,ML Road Tire,24.99,Abraham,e,,Carlos,,Howard
+153930,1,8804,483,483,"Touring-3000 Blue, 44",742.35,Abraham,e,,James,C,Evans
+153933,1,4588,26,530,Flat Washer 4,0,Abraham,e,,Cristina,,Xu
+153958,1,12065,416,920,LL Road Seat/Saddle,27.12,Abraham,e,,Kyle,T,Young
+154476,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 r.s.,Abraham,e,,Patrick,L,Sanders
+161473,15,7123,293,"797 """"""","Mountain-300 Black, 48",1079.99 $$,Michael,',O'Leary,Gabriella,,Rivera
+165579,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 $Eur,Abraham,e,Bennet,Patrick,L,Sanders
+166884,22,10738,323,827,LL Road Front Wheel,Eur 85.565,Johnson,h,White,Julie,M,Luo
+172571,14,11339,246,750,"HL Mountain Frame - Silver, 48",1364.5,Heather,c,McBadden,Katrina,M,Sharma
+172826,14,11339,246,750,"HL Mountain Frame - Silver, 48",1364.5 R.s.,Heather,c,McBadden,Katrina,M,Sharma
+176200,10,16269,217,217,AWC Logo Cap,EUR8.99,Sheryl,u,Hunter,Richard,L,Cooper
+176698,17,125,247,247,"HL Mountain Frame - Silver, 46",1364.5 R.s.,Albert,i,Ringer,Abigail,H,Wood
+179842,14,19295,476,-980,"Touring-2000 Blue, 50",1214.85,Heather,c,McBadden,Warren,,Zhao
+179891,11,1098,243,-747,"LL Road Frame - Black, 52",337.22,Livia,a,Karsen,Amanda,M,Bennett
+185393,6,137,399,AS903</$,Rear Derailleur,121.46,Ann,u,Dull,Abigail,L,Flores
+187372,1,15543,47,47r,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Patrick,L,Sanders
+188459,1,15543,47,47gg,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Patrick,L,Sanders
+189379,1,15543,47,47rg,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Patrick,L,Sanders
+190272,1,15543,47,47y,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Patrick,L,Sanders
+190656,1,15543,47,47we,Thin-Jam Hex Nut 4,441.6,Abraham,e,Bennet,Patrick,L,Sanders
+200064,20,13627,196,700,LL Spindle/Axle,418.4,Dean,t,Straight,Marvin,C,Gomez
+200497,22,10738,323,827,LL Road Front Wheel,Rs. 85.565,Johnson,h,White,Julie,M,Luo
+203165,14,11339,246,750 GH*(),"HL Mountain Frame - Silver, 48",1364.5 R.s.,Heather,c,McBadden,Katrina,M,Sharma
+203612,14,11339,246,750 GH*(),"HL Mountain Frame - Silver, 48",1364.5,Heather,c,McBadden,Katrina,M,Sharma
+210642,1,1,1,11,Adjustable Race,1.6,,,,,,
+221315,15,7123,293,wer%797,"Mountain-300 Black, 48",1079.99,Michael,',O'Leary,Gabriella,,Rivera
+222947,12,18923,403,403,"LL Touring Frame - Blue, 62",R.s. 333.42,Charlene,o,Locksley,Trisha,,Sun
+223054,17,125,247,750 GH*(),"HL Mountain Frame - Silver, 46",1364.5,Albert,i,Ringer,Abigail,H,Wood
+223057,17,5668,293,wer%797,"Mountain-300 Black, 48",1079.99,Albert,i,Ringer,Donald,,Raman
+228604,1,1,1,11,Adjustable Race,1.6,,e,Bennet,Aaron,,Alexander
+230065,1,1,1,11,Adjustable Race,1.6,,e,Bennet,Null,,Alexander
+231519,15,726,170,170,HL Nipple,196.4,Michael,',O'Leary,Alexis,H,Hall
+236238,14,11339,246,750,"HL Mountain Frame - Silver, 48",$$1364.5,Heather,c,McBadden,Katrina,M,Sharma
+240095,,5915,119,623,Lock Nut 16,88,Reginald,l,Blotchet-Halls,Eddie,,Gomez
+240144,,372,73,577,Hex Nut 15,472.8,Reginald,l,Blotchet-Halls,Alberto,,Ramos
+240180,,16870,140,140,Lock Ring,829.8,Reginald,l,Blotchet-Halls,Ryan,C,Davis
+241087,2,372,73,577,Hex Nut 15,472.8,123#,l,Blotchet-Halls,Alberto,,Ramos
+241090,2,5915,119,623,Lock Nut 16,88,123#,l,Blotchet-Halls,Eddie,,Gomez
+241123,2,16870,140,140,Lock Ring,829.8,123#,l,Blotchet-Halls,Ryan,C,Davis
+241498,1,1,1,11,Adjustable Race,1.6,,e,Bennet,Null,,
+243074,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,Null,,
+244918,1,15543,47,47,Thin-Jam Hex Nut 4,441.6 $$EU,Abraham,e,Bennet,Patrick,L,Sanders
+249332,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,Nul,,
+251151,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,Nul,,Alexander
+252215,22,10738,323,827,LL Road Front Wheel,85.565 $,Johnson,h,White,Julie,M,Luo
+258856,15,7123,293,wer%797,"Mountain-300 Black, 48",1079.99 r.s.,Michael,',O'Leary,Gabriella,,Rivera
+258953,5,9765,327,327{},"ML Road Frame-W - Yellow, 38",594.83,Innes,e,del Castillo,Jésus,K,Munoz
+259674,15,7123,293,797,"Mountain-300 Black, 48",1079.99 r.s.,Michael,',O'Leary,Gabriella,,Rivera
+259837,18,1452,340,klo340,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Ann,,Gonzalez
+261106,18,1452,340,340<>?,"ML Road Frame-W - Yellow, 44",594.83,Anne,i,Ringer,Ann,,Gonzalez
+262757,5,9765,327,327dhfy,"ML Road Frame-W - Yellow, 38",594.83,Innes,e,del Castillo,Jésus,K,Munoz
+263482,6,137,399,903,Rear Derailleur,121.46,Null,Null,Null,Null,Null,Null
+264776,17,125,247,247,"HL Mountain Frame - Silver, 46",$$1364.5,Null,Null,Null,Null,Null,Null
+264833,17,5668,293,293,"Mountain-300 Black, 48",1079.99 r.s.,Albert,i,Ringer,Donald,,Raman
+266714,17,125,247,247,"HL Mountain Frame - Silver, 46",1364.5,Null,Null,Null,Null,Null,Null
+267353,17,125,247,247yuo,"HL Mountain Frame - Silver, 46",1364.5,Null,Null,Null,Null,Null,Null
+272307,17,125,247,247yuo,"HL Mountain Frame - Silver, 46",1364.5,Albert,i,Ringer,Abigail,H,Wood
+272763,14,11339,246,247yuo,"HL Mountain Frame - Silver, 48",1364.5,Heather,c,McBadden,Katrina,M,Sharma
+300225,4,13981,280,280,"Mountain-100 Black, 38",3374.99,Michl,e,DeFrance,Melanie,B,Russell
+300253,4,17242,213,717,"Sport-100 Helmet, Black",34.99,Michl,e,DeFrance,Sean,,Green
+300256,4,3026,259,763,"Road-450 Red, 58",1457.99,Michl,e,DeFrance,Caleb,,Patterson
+313231,12,18923,403,403,"LL Touring Frame - Blue, 62",$$ 333.42 EU,Charlene,o,Locksley,Trisha,,Sun
+314363,5,9765,327,327,"ML Road Frame-W - Yellow, 38",594.83/-,Innes,e,del Castillo,Jésus,K,Munoz
+315377,18,1452,340,340,"ML Road Frame-W - Yellow, 44",594.83/-,Anne,i,Ringer,Ann,,Gonzalez
+327992,3,18197,233,233,"LL Road Frame - Red, 58",337.22,Chryl,a,Carson,Tabitha,M,Rodriguez
+328020,3,1699,166,670,Metal Sheet 6,389.6,Chryl,a,Carson,Arianna,M,Bell
+328053,3,12654,187,187,LL Mountain Seat Assembly,133.34,Chryl,a,Carson,Louis,,Hu
+328701,5,9765,327,327,"ML Road Frame-W - Yellow, 38",594.83$$,Innes,e,del Castillo,Jésus,K,Munoz
+333062,18,1452,340,340,"ML Road Frame-W - Yellow, 44",594.83$$,Anne,i,Ringer,Ann,,Gonzalez
+336636,22,10738,323,827,LL Road Front Wheel,85.565 R.s.,Johnson,h,White,Julie,M,Luo
+989789,20,6480,43,548,Thin-Jam Hex Nut 16,72.8,Dean,t,Straight,Erica,,Lu
+351216,5,9765,327,327,"ML Road Frame-W - Yellow, 38",Eur 594.83,Innes,e,del Castillo,Jésus,K,Munoz
+354362,18,1452,340,340,"ML Road Frame-W - Yellow, 44",Eur 594.83,Anne,i,Ringer,Ann,,Gonzalez
+356373,1,1,1,11,Adjustable Race,1.6,Null,Null,Null,Null,Null,Null
+366521,6,137,399,903,Rear Derailleur,121.46euR,Ann,u,Dull,Abigail,L,Flores
+368422,17,125,247,247,"HL Mountain Frame - Silver, 46",1364.5,Albert,i,Ringer,Abigail,H,Wood
+368425,17,5668,293,293,"Mountain-300 Black, 48",1079.99,Albert,i,Ringer,Donald,,Raman
+369738,13,11446,13,13(),Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+371182,22,10738,323,827df,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+371386,13,11446,13,13$$ert12,Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+372321,22,10738,323,827w,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+372589,13,11446,13,13asd,Chain Stays,64.8,Stearns,a,MacFeather,Keith,,Lal
+373131,22,10738,323,827dd,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+373544,18,1452,340,340,"ML Mountain Frame - Black, 48",594.83,Anne,i,Ringer,Ann,,Gonzalez
+374279,22,10738,323,wer827,LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+374417,1,1,1,11,Adjustable Race,1.6,Abram,e,Bennet,Aaron,,Alexander
+375226,22,10738,323,827'',LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+375991,1,1,1,11,Adjustable Race,1.6,Abram,e,Bennet,Aon,,Alexander
+376969,22,10738,323,"827""""",LL Road Front Wheel,85.565,Johnson,h,White,Julie,M,Luo
+379208,1,1,1,11,Adjustable Race,1.6,Abraham,e,Bennet,Aon,,Alexander
+387174,4,13981,280,280,"Mountain-100 Black, 38",3374.99,Michel,e,D,Melanie,B,Russell
+387202,4,17242,213,717,"Sport-100 Helmet, Black",34.99,Michel,e,D,Sean,,Green
+387205,4,3026,259,763,"Road-450 Red, 58",1457.99,Michel,e,D,Caleb,,Patterson
+402778,4,3026,259,763,"Road-450 Red, 58",1457.99,,e,DeFrance,Caleb,,Patterson
+402811,4,13981,280,280,"Mountain-100 Black, 38",3374.99,,e,DeFrance,Melanie,B,Russell
+402839,4,17242,213,717,"Sport-100 Helmet, Black",34.99,,e,DeFrance,Sean,,Green
+409087,4,3026,259,763,"Road-450 Red, 58",1457.99,,e,,Caleb,,Patterson
+409120,4,13981,280,280,"Mountain-100 Black, 38",3374.99,,e,,Melanie,B,Russell
+409148,4,17242,213,717,"Sport-100 Helmet, Black",34.99,,e,,Sean,,Green
+410640,4,13981,280,280,"Mountain-100 Black, 38",3374.99,Michel,e,,Melanie,B,Russell
+416510,18,1452,340,340,Hex Nut 17,594.83,Anne,i,Ringer,Ann,,Gonzalez
+422163,10,10726,171,170,Paint - Black,688.8,Sheryl,u,Hunter,Julie,,Shen
+422164,1,2413,184,183,ML Road Rim,0,Abraham,e,Bennet,Brad,,Tang
+422165,17,14341,201,200,Seat Lug,316.8,Albert,i,Ringer,Michiko,F,Osada
+422166,11,6510,218,217,"Long-Sleeve Logo Jersey, S",49.99,Livia,a,Karsen,Erick,C,Rana
+422167,1,17956,231,230,"LL Road Frame - Red, 48",337.22,Abraham,e,Bennet,Steven,B,Levy
+422168,18,10125,248,247,"HL Mountain Frame - Black, 42",1349.6,Anne,i,Ringer,Johnny,L,Andersen
+422169,11,12053,264,263,"Road-650 Red, 58",782.99,Livia,a,Karsen,Kyle,J,Holt
+422170,5,4222,281,280,"Mountain-100 Black, 42",3374.99,Innes,e,del Castillo,Clayton,,Kumar
+422171,18,15668,294,293,"Road-250 Red, 44",2443.35,Anne,i,Ringer,Philip,,Navarro
+422172,12,7837,311,310,ML Headset,102.29,Charlene,o,Locksley,Hao,,Chen
+422173,6,6,328,327,LL Mountain Rear Wheel,87.745,Ann,u,Dull,Aaron,,Con
+422174,19,11452,341,340,"ML Road Frame-W - Yellow, 48",594.83,Meander,m,Smith,Keith,,Tang
+422175,13,3621,358,357,"Women's Tights, M",74.99,Stearns,a,MacFeather,Cecelia,L,Marshall
+422176,6,5549,374,373,"Women's Mountain Shorts, L",69.99,Ann,u,Dull,Devon,C,Sharma
+422177,20,7236,388,387,"Short-Sleeve Classic Jersey, L",53.99,Dean,t,Straight,Garrett,,Travers
+422178,13,9164,404,403,"LL Touring Frame - Yellow, 44",333.42 R.s.,Stearns,a,MacFeather,Javier,P,Ortega
+422179,7,1333,421,420,HL Touring Seat/Saddle,52.64,Marjorie,r,Green,Angel,,Evans
+422180,20,12779,434,433,ML Mountain Tire,29.99,Dean,t,Straight,Lucas,P,Rodriguez
+422181,14,4948,451,450,LL Touring Handlebars,46.09,Heather,c,McBadden,Danny,,Alvarez
+422182,8,16876,468,467,"Touring-3000 Yellow, 54",742.35,Morningstar,r,Greene,Ryan,E,Chen
+422183,21,8563,481,480,"Road-350-W Yellow, 48",1700.99,Dirk,t,Stringer,Jacob,C,Thomas
+422184,15,732,498,497,"Mountain-500 Black, 52",539.99,Michael,',O'Leary,Alexis,L,Ross
+422185,8,2660,10,513,Chainring Nut,192.6,Morningstar,r,Greene,Brian,E,Reed
+422186,2,14588,27,530,Flat Washer 3,415.2,Reginald,l,Blotchet-Halls,Monique,R,Moreno
+422187,15,6275,40,543,Thin-Jam Hex Nut 1,144.4 Eur,Michael,',O'Leary,Emilio,R,Alvaro
+422188,9,18203,57,560,Hex Nut 17,151.2,Burt,r,Gringlesby,Tabitha,Y,Rana
+422189,10,13987,104,607,Thin-Jam Lock Nut 2,170,Sheryl,u,Hunter,Melanie,H,Coleman
+422190,3,15915,120,623,Lock Nut 17,176.4,Cheryl,a,Carson,Ramon,,She
+422191,17,17602,134,637,Lock Nut 3,182,Albert,i,Ringer,Sheena,,Nath
+422192,10,19530,150,653,Lock Washer 12,0,Sheryl,u,Hunter,Wyatt,C,Campbell
+422193,4,11699,167,670,Metal Sheet 1,585.6,Michel,e,DeFrance,Kevin,,Patterson
+422194,17,3386,180,683,LL Mountain Rim,608.4,Albert,i,Ringer,Caroline,,Simmons
+422195,11,15314,197,700,HL Spindle/Axle,733.6,Livia,a,Karsen,Olivia,L,Morgan
+422196,5,7483,214,717,"Mountain Bike Socks, M",9.5,Innes,e,del Castillo,Glenn,A,Zhang
+422197,18,18929,227,730,"LL Road Frame - Black, 58",337.22,Anne,i,Ringer,Trisha,A,Li
+422198,12,11098,244,747,"HL Mountain Frame - Silver, 42",1364.5,Charlene,o,Locksley,Kate,J,Nath
+422199,5,13026,260,763,"Road-450 Red, 60",1457.99,Innes,e,del Castillo,Madison,J,Hughes
+422200,22,5195,277,780,"Mountain-100 Silver, 42",3399.99,Johnson,h,White,Deanna,,Gomez
+422201,12,16641,290,793,"Mountain-300 Black, 38",1079.99,Charlene,o,Locksley,Rosa,A,Zhao
+422202,6,8810,307,810,LL Fork,148.22,Ann,u,Dull,James,D,Kramer
+422203,1,979,324,827,ML Road Front Wheel,248.385,Abraham,e,Bennet,Alyssa,,Lee
+422204,13,12425,337,840,"ML Mountain Frame - Black, 48",348.76,Stearns,a,MacFeather,Levi,,Sai
+422205,7,4594,354,857,"Men's Sports Shorts, M",59.99,Marjorie,r,Green,Cristina,J,Deng
+422206,1,6522,370,873,"Classic Vest, M",63.5,Abraham,e,Bennet,Erik,,Gill
+422207,14,8209,384,887,All-Purpose Bike Stand,159,Heather,c,McBadden,Isabel,C,Russell
+422208,7,10137,400,903,"LL Touring Frame - Blue, 50",333.42 R.s.,Marjorie,r,Green,Jon,,Goel
+422209,1,2306,417,920,ML Road Seat/Saddle,39.14,Abraham,e,Bennet,Blake,,Parker
+422210,14,13752,430,933,"LL Mountain Frame - Black, 44",249.79,Heather,c,McBadden,Matthew,,Harris
+422211,8,5921,447,950,"ML Mountain Frame-W - Silver, 38",364.09,Morningstar,r,Greene,Eddie,A,Alvarez
+422212,2,17849,464,967,"Touring-3000 Blue, 58",742.35,Reginald,l,Blotchet-Halls,Stephanie,,Cook
+422213,15,9536,477,980,"Touring-2000 Blue, 54",1214.85,Michael,',O'Leary,Jermaine,E,Patel
+422214,9,1705,494,997,"Mountain-500 Black, 40",539.99,Burt,r,Gringlesby,Arianna,W,Price
+422215,14,1687,14,13,Decal 1,195,Heather,c,McBadden,Arianna,C,Richardson
+422216,8,13615,31,30,Fork Crown,350,Morningstar,r,Greene,Martin,P,Patel
+422217,21,5302,44,43,Thin-Jam Hex Nut 5,73,Dirk,t,Stringer,Dennis,,Huang
+422218,15,17230,61,60,Hex Nut 22,76.4,Michael,',O'Leary,Scott,,Mitchell
+422219,9,9399,78,77,Head Tube,79.8,Burt,r,Gringlesby,Jenny,,Zimmerman
+422220,22,1086,91,90,Internal Lock Washer 3,0,Johnson,h,White,Amanda,C,Gonzales
+422221,16,13014,108,107,Thin-Jam Lock Nut 6,171.6,Sylvia,a,Panteley,Madison,A,Griffin
+422222,9,14942,124,123,Lock Nut 22,89,Burt,r,Gringlesby,Nathan,W,Garcia
+422223,1,16629,138,137,Lock Nut 19,734.4,Abraham,e,Bennet,Rosa,,Cai
+422224,16,18557,154,153,Lock Washer 11,570,Sylvia,a,Panteley,Thomas,,Davis
+422249,15,6275,40,543,Thin-Jam Hex Nut 1,144.4,Michael,',O'Leary,Emilio,R,Alvaro
+422251,3,10372,74,577,Hex Nut 4,158,Cheryl,a,Carson,Jorge,,Leitão
+422252,16,2059,87,590,External Lock Washer 6,489.6,Sylvia,a,Panteley,Barbara,,Raji
+422371,14,4948,451,450~~,LL Touring Handlebars,46.09,Heather,c,McBadden,Danny,,Alvarez
+422585,4,8438,234,233,"LL Road Frame - Red, 60",337.22,Michel,e,DeFrance,Jack,L,Wang
+422586,1,17477,391,390,"LL Touring Frame - Yellow, 62",333.42 R.s.,Abraham,e,Bennet,Shannon,D,Ye
+422587,1,13261,438,437,HL Road Tire,32.6,Abraham,e,Bennet,Marcus,L,Peterson
+422589,1,18804,484,483,"Touring-3000 Blue, 50",742.35,Abraham,e,Bennet,Toni,M,Sullivan
+422590,18,10973,501,500,HL Bottom Bracket,121.49,Anne,i,Ringer,Karen,A,Roberts
+422593,19,6757,44,547,Thin-Jam Hex Nut 5,73,Meander,m,Smith,Evelyn,D,Rana
+422600,21,3868,184,687,ML Road Rim,0,Dirk,t,Stringer,Chloe,,Harris
+422603,21,9411,230,733,"LL Road Frame - Red, 44",337.22,Dirk,t,Stringer,Jenny,E,Tang
+422604,15,1580,247,750,"HL Mountain Frame - Silver, 46",1364.5,Michael,',O'Leary,Anthony,A,Anderson
+422608,2,5784,48,47,Thin-Jam Hex Nut 13,73.8,Reginald,l,Blotchet-Halls,Dustin,,Xie
+422614,3,7111,141,140,Lower Head Race,184.8,Cheryl,a,Carson,Gabriella,,Cook
+422617,4,2895,188,187,ML Mountain Seat Assembly,147.14,Michel,e,DeFrance,Bruce,L,Alonso
+422621,21,607,251,250,"HL Mountain Frame - Black, 46",1349.6,Dirk,t,Stringer,Alexandra,J,Henderson
+422624,22,16150,298,297,"Road-250 Black, 44",2443.35,Johnson,h,White,Renee,,Alonso
+422646,20,8084,137,640,Lock Nut 4,183.2,Dean,t,Straight,Ian,,Young
+422647,,19530,150,653,Lock Washer 12,0,Sheryl,u,Hunter,Wyatt,C,Campbell
+422656,16,17123,294,797,"Road-250 Red, 44",2443.35,Sylvia,a,Panteley,Sara,P,Cox
+422662,17,18450,387,890,"Short-Sleeve Classic Jersey, M",53.99,Albert,i,Ringer,Terrance,L,Garcia
+422665,18,14234,434,937,ML Mountain Tire,29.99,Anne,i,Ringer,Micheal,,Hernandez
+422668,18,18,480,983,"Road-350-W Yellow, 44",1700.99,Anne,i,Ringer,Aaron,,Li
+422669,1,10000,1,11,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+422675,22,1086,91,90,,0,Johnson,h,White,Amanda,C,Gonzales
+422698,14,4948,451,450~~,LL Touring Handlebars,46.09,,c,McBadden,Danny,,Alvarez
+422762,14,4948,451,450~~,,46.09,,c,McBadden,Danny,,Alvarez
+423397,14,4948,451,450~~,LL Touring Handlebars,46.09,Heather,c,McBadden,Danny,,
+423430,22,1086,,90,Internal Lock Washer 3,0,Johnson,h,White,Amanda,C,Gonzales
+423642,1,13261,438,437ER,HL Road Tire,32.6,Abraham,e,Bennet,Marcus,L,Peterson
+423817,1,13261,438,437ER,HL Road Tire,12.6,Abraham,e,Bennet,Marcus,L,Peterson
+423942,14,4948,451,450~~,LL Touring Handlebars,46.09,Heather,c,,Danny,,
+423996,14,4948,451,450~~,LL Touring Handlebars,36,Heather,c,,Danny,,
+424060,14,4948,451,450~~,LL Touring Handlebars,36,Heather,c,,Danny,,Alvarez
+424432,14,4948,451,450~~,LL Touring Handlebars,46.09,Heather,c,,Danny,,Alvarez
+426078,1,13261,438,437ER,HL Road Tire###,32.6,Abraham,e,Bennet,Marcus,L,Peterson
+427401,1,13261,438,437,HL Road Tire###,32.6,Abraham,e,Bennet,Marcus,L,Peterson
+428031,14,4948,451,450,LL Touring Handlebars,$$46.09,Heather,c,McBadden,Danny,,Alvarez
+429074,1,13261,438,437,HL Road Tire,32.6INR,Abraham,e,Bennet,Marcus,L,Peterson
+429322,8,18804,484,483,"Touring-3000 Blue, 50",742.35,Morningstar,r,Greene,Toni,M,Sullivan
+434876,17,6510,218,217,"Long-Sleeve Logo Jersey, S",49.99,Albert,i,Ringer,Erick,C,Rana
+444561,7,10137,400,903,"LL Touring Frame - Blue, 50",333.42,Marjorie,r,Green,Jon,,Goel
+444592,1,17477,391,390,"LL Touring Frame - Yellow, 62",333.42,Abraham,e,Bennet,Shannon,D,Ye
+444593,13,9164,404,403,"LL Touring Frame - Yellow, 44",333.42,Stearns,a,MacFeather,Javier,P,Ortega
+455193,15,6275,40,543,Thin-Jam Hex Nut 1,R.s 144.4,Michael,',O'Leary,Emilio,R,Alvaro
+459765,10,8160,57,560,Hex Nut 17,151.2,Sheryl,u,Hunter,Isaac,,James
+459766,9,3920,104,607,Thin-Jam Lock Nut 2,170,Burt,r,Gringlesby,Chloe,L,Lopez
+459767,1,5840,120,623,Lock Nut 17,176.4,Abraham,e,Bennet,Dylan,C,Long
+459768,15,7520,134,637,Lock Nut 3,182,Michael,',O'Leary,Gloria,S,Alonso
+459769,7,9440,150,653,Lock Washer 12,0,Marjorie,r,Green,Jeremiah,,Lopez
+459770,1,1600,167,670,Metal Sheet 1,585.6,Abraham,e,Bennet,Antonio,,Gonzales
+459771,13,13040,180,683,LL Mountain Rim,608.4,Stearns,a,MacFeather,Madison,S,Powell
+459772,6,5200,197,700,HL Spindle/Axle,733.6,Ann,u,Dull,Deanna,,Moreno
+459773,23,17120,214,717,"Mountain Bike Socks, M",9.5,Akiko,o,Yokomoto,Sara,M,Murphy
+459774,12,8800,227,730,"LL Road Frame - Black, 58",337.22,Charlene,o,Locksley,James,B,Bailey
+459775,5,960,244,747,"HL Mountain Frame - Silver, 42",1364.5,Innes,e,del Castillo,Alvin,E,She
+459776,21,2880,260,763,"Road-450 Red, 60",1457.99,Dirk,t,Stringer,Bruce,,Torres
+459777,14,14800,277,780,"Mountain-100 Silver, 42",3399.99,Heather,c,McBadden,Natalie,A,Sanders
+459778,3,6480,290,793,"Mountain-300 Black, 38",1079.99,Cheryl,a,Carson,Erica,,Lu
+459779,20,18400,307,810,LL Fork,148.22,Dean,t,Straight,Taylor,M,Henderson
+459780,13,10560,324,827,ML Road Front Wheel,248.385,Stearns,a,MacFeather,Joyce,,Jarvis
+459781,2,2240,337,840,"ML Mountain Frame - Black, 48",348.76,Reginald,l,Blotchet-Halls,Bianca,,Lu
+459782,19,14160,354,857,"Men's Sports Shorts, M",59.99,Meander,m,Smith,Micah,,Chen
+459783,11,16080,370,873,"Classic Vest, M",63.5,Livia,a,Karsen,Rebekah,A,Suri
+459784,1,17760,384,887,All-Purpose Bike Stand,159,Abraham,e,Bennet,Stacey,,Ye
+459785,10,11840,417,920,ML Road Seat/Saddle,39.14,Sheryl,u,Hunter,Kristi,A,Saunders
+459786,23,3520,430,933,"LL Mountain Frame - Black, 44",249.79,Akiko,o,Yokomoto,Casey,J,Xu
+459787,16,15440,447,950,"ML Mountain Frame-W - Silver, 38",364.09,Sylvia,a,Panteley,Paige,,Ramirez
+459788,9,7600,464,967,"Touring-3000 Blue, 58",742.35,Burt,r,Gringlesby,Grant,,Pal
+459789,22,19040,477,980,"Touring-2000 Blue, 54",1214.85,Johnson,h,White,Valerie,,Lin
+459790,15,11200,494,997,"Mountain-500 Black, 40",539.99,Michael,',O'Leary,Katherine,A,King
+459791,15,11680,15,13,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+459792,8,3840,32,30,Front Derailleur Cage,561.6,Morningstar,r,Greene,Cheryl,A,Ramos
+459793,21,15280,45,43,Thin-Jam Hex Nut 6,146.4,Dirk,t,Stringer,Olivia,,Perry
+459794,14,7440,62,60,Hex Nut 23,76.6$,Heather,c,McBadden,Gilbert,L,Hu
+459795,7,19360,79,77,LL Hub,640,Marjorie,r,Green,Wendy,,Sanz
+459796,20,11040,92,90,Internal Lock Washer 4,0,Dean,t,Straight,Karl,,Raje
+459797,13,3200,109,107,Thin-Jam Lock Nut 3,516,Stearns,a,MacFeather,Cara,R,Guo
+459798,5,5120,125,123,Lock Nut 23,89.2,Innes,e,del Castillo,David,J,Byrnes
+459799,19,6800,139,137,Lock Nut 18,552,Meander,m,Smith,Faith,L,Patterson
+459800,11,8720,155,153,Metal Angle,666.4 %$$,Livia,a,Karsen,Jaime,E,Jimenez
+459801,4,880,172,170,Paint - Red,98.6,Michel,e,DeFrance,Allen,O,Lopez
+459802,17,12320,185,183,HL Road Rim,0,Albert,i,Ringer,Lawrence,S,Alonso
+459803,10,4480,202,200,Stem,846.4,Sheryl,u,Hunter,Connor,L,Mitchell
+459804,3,16400,219,217,"Long-Sleeve Logo Jersey, M",49.99,Cheryl,a,Carson,Robert,A,Chen
+459805,16,8080,232,230,"LL Road Frame - Red, 52",337.22,Sylvia,a,Panteley,Ian,,Stewart
+459806,9,240,249,247,"HL Mountain Frame - Black, 44",1349.6,Burt,r,Gringlesby,Adriana,,Suri
+459807,1,2160,265,263,"Road-650 Red, 60",782.99,Abraham,e,Bennet,Benjamin,E,Russell
+459808,18,14080,282,280,"Mountain-100 Black, 44",3374.99,Anne,i,Ringer,Melody,A,Dominguez
+459809,7,5760,295,293,"Road-250 Red, 48",2443.35,Marjorie,r,Green,Drew,D,Rai
+459810,1,17680,312,310,HL Headset,124.73,Abraham,e,Bennet,Sierra,,Hernandez
+459811,17,9840,329,327,ML Mountain Rear Wheel,236.025,Albert,i,Ringer,Jimmy,,Carlson
+459812,6,1520,342,340,"HL Road Frame - Black, 62",1431.5,Ann,u,Dull,Anna,J,Martinez
+459813,23,13440,359,357,"Women's Tights, L",74.99,Akiko,o,Yokomoto,Marie,,Moreno
+459814,15,15360,375,373,Water Bottle - 30 oz.,4.99,Michael,',O'Leary,Omar,L,Tang
+459815,5,17040,389,387,"Short-Sleeve Classic Jersey, XL",53.99,Innes,e,del Castillo,Samuel,V,Russell
+459816,21,18960,405,403,"LL Touring Frame - Yellow, 50",333.42,Dirk,t,Stringer,Tristan,M,Wood
+459817,14,11120,422,420,"LL Mountain Frame - Silver, 42",264.05,Heather,c,McBadden,Katelyn,,Rogers
+459818,3,2800,435,433,HL Mountain Tire,35,Cheryl,a,Carson,Brittany,,Hughes
+459819,20,14720,452,450,HL Touring Handlebars,91.57,Dean,t,Straight,Nancy,E,Chapman
+459820,13,6880,469,467,"Touring-3000 Yellow, 58",742.35,Stearns,a,MacFeather,Fernando,L,Williams
+459821,2,18320,482,480,"Road-750 Black, 58",539.99,Reginald,l,Blotchet-Halls,Tasha,,Shan
+459822,19,10480,499,497,LL Bottom Bracket,53.99,Meander,m,Smith,Joseph,,Rodriguez
+459823,11,12400,10,513,Chainring Nut,192.6,Livia,a,Karsen,Leslie,,Ortega
+459824,4,4560,27,530,Flat Washer 3,415.2,Michel,e,DeFrance,Craig,,Gutierrez
+459825,17,16000,40,543,Thin-Jam Hex Nut 1,144.4,Albert,i,Ringer,Raul,,Xu
+459827,3,320,74,577,Hex Nut 4,158,Cheryl,a,Carson,Alan,,Guo
+459828,16,11760,87,590,External Lock Washer 6,489.6,Sylvia,a,Panteley,Kimberly,J,Cooper
+459848,17,19680,400,903,"LL Touring Frame - Blue, 50",333.42,Albert,i,Ringer,Yvonne,,McKay
+459858,14,7440,62,60,Hex Nut 23,76.6,Heather,c,McBadden,Gilbert,L,Hu
+459878,15,15360,375,373,Water Bottle - 30 oz.,4.99/-,Michael,',O'Leary,Omar,L,Tang
+459952,4,4560,27,530,Flat Washer 3,415.2,Michel,e,,Craig,,Gutierrez
+459986,14,7440,62,60,Hex Nut 23,$$ 76.6,Heather,c,McBadden,Gilbert,L,Hu
+460389,17,16000,40,543,Thin-Jam Hex Nut 1,144.4 Eur,Albert,i,Ringer,Raul,,Xu
+462076,17,13520,184,687,ML Road Rim,0,Albert,i,Ringer,Mark,,Lee
+462078,8,11200,247,750,"HL Mountain Frame - Silver, 46",1364.5,Morningstar,r,Greene,Katherine,A,King
+462081,7,6960,294,797,"Road-250 Red, 44",2443.35,Marjorie,r,Green,Frank,,Munoz
+462087,4,8240,387,890,"Short-Sleeve Classic Jersey, M",53.99,Michel,e,DeFrance,Isabella,,Lopez
+462090,3,4000,434,937,ML Mountain Tire,29.99,Cheryl,a,Carson,Christian,R,Lee
+462093,1,9520,480,983,"Road-350-W Yellow, 44",1700.99,Abraham,e,Bennet,Jeremy,S,Wright
+462094,2,240,2,11,Bearing Ball,0.8,Reginald,l,Blotchet-Halls,Adriana,,Suri
+462097,1,15760,49,47,Thin-Jam Hex Nut 14,74,Abraham,e,Bennet,Priscilla,R,Raji
+462103,22,17040,142,140,Lock Washer 4,0,Johnson,h,White,Samuel,V,Russell
+462106,21,12800,189,187,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+462109,19,18320,235,233,"LL Road Frame - Red, 62",337.22,Meander,m,Smith,Tasha,,Shan
+462110,12,10480,252,250,"HL Mountain Frame - Black, 38",1349.6,Charlene,o,Locksley,Joseph,,Rodriguez
+462113,11,6240,299,297,"Road-250 Black, 48",2443.35,Livia,a,Karsen,Elizabeth,A,White
+462119,8,7520,392,390,"HL Touring Frame - Yellow, 46",1003.91,Morningstar,r,Greene,Gloria,S,Alonso
+462122,7,3280,439,437,Touring Tire,28.99Eur,Marjorie,r,Green,Carlos,C,Rivera
+462125,5,8800,485,483,"Mountain-400-W Silver, 38",769.49,Innes,e,del Castillo,James,B,Bailey
+462126,22,960,502,500,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+462129,21,16480,44,547,Thin-Jam Hex Nut 5,73,Dirk,t,Stringer,Robin,,Hernandez
+462135,18,17760,137,640,Lock Nut 4,183.2,Anne,i,Ringer,Stacey,,Ye
+462141,15,19040,230,733,"LL Road Frame - Red, 44",337.22,Michael,',O'Leary,Valerie,,Lin
+462184,7,3280,439,437,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+462213,4,8240,,890,"Short-Sleeve Classic Jersey, M",53.99,Michel,e,DeFrance,Isabella,,Lopez
+462548,21,12800,189,187,HL Mountain Seat Assembly,196.92 $,Dirk,t,Stringer,Luis,,Hayes
+462765,1,5840,120,640,Lock Nut 17,176.4,Abraham,e,Bennet,Dylan,C,Long
+463408,14,7440,62,60,Hex Nut 23,76.6 EUR,Heather,c,McBadden,Gilbert,L,Hu
+463416,21,12800,189,187we,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+464218,21,12800,189,187asd,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+464512,4,8240,,890,"Short-Sleeve Classic Jersey, M",,Michel,e,DeFrance,Isabella,,Lopez
+465082,21,12800,189,187ui,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+466049,15,11680,15,13##erdf,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+467167,21,12800,189,er187,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+469526,21,12800,189,187kl,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+469641,15,11680,15,13$$123,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+469792,7,3280,439,437,Touring Tire,$28.99 ,Marjorie,r,Green,Carlos,C,Rivera
+470443,15,11680,15,13%acdF7,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+471681,15,11680,15,13<<>>ert,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+472560,15,11680,15,13==,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+472998,14,7440,62,60,Hex Nut 23,Eur76.6,Heather,c,McBadden,Gilbert,L,Hu
+473623,15,11680,15,13>>,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+473888,21,12800,189,187,HL Mountain Seat Assembly,EUR 196.92,Dirk,t,Stringer,Luis,,Hayes
+474389,21,12800,189,187dd,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+474693,15,11680,15,13//,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+475305,21,12800,189,187,HL Mountain Seat Assembly,196.92 EUR,Dirk,t,Stringer,Luis,,Hayes
+475870,21,12800,189,187gg,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+475987,15,11680,15,13()(),Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+476682,15,11680,15,13ertt,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+477153,1,9520,480,985,"Road-350-W Yellow, 44",1700.99,Abraham,e,Bennet,Jeremy,S,Wright
+477154,8,3840,32,32,Front Derailleur Cage,561.6,Morningstar,r,Greene,Cheryl,A,Ramos
+477155,1,15760,49,49,Thin-Jam Hex Nut 14,74,Abraham,e,Bennet,Priscilla,R,Raji
+477156,14,7440,62,62,Hex Nut 23,76.6 EUR,Heather,c,McBadden,Gilbert,L,Hu
+477157,7,19360,79,79,LL Hub,640,Marjorie,r,Green,Wendy,,Sanz
+477158,20,11040,92,92,Internal Lock Washer 4,0,Dean,t,Straight,Karl,,Raje
+477159,5,5120,125,125,Lock Nut 23,89.2,Innes,e,del Castillo,David,J,Byrnes
+477160,22,17040,142,142,Lock Washer 4,0,Johnson,h,White,Samuel,V,Russell
+477161,11,8720,155,155,Metal Angle,666.4 %$$,Livia,a,Karsen,Jaime,E,Jimenez
+477162,4,880,172,172,Paint - Red,98.6,Michel,e,DeFrance,Allen,O,Lopez
+477163,21,12800,189,189,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+477164,10,4480,202,202,Stem,846.4,Sheryl,u,Hunter,Connor,L,Mitchell
+477165,3,16400,219,219,"Long-Sleeve Logo Jersey, M",49.99,Cheryl,a,Carson,Robert,A,Chen
+477166,19,18320,235,235,"LL Road Frame - Red, 62",337.22,Meander,m,Smith,Tasha,,Shan
+477167,12,10480,252,252,"HL Mountain Frame - Black, 38",1349.6,Charlene,o,Locksley,Joseph,,Rodriguez
+477168,1,2160,265,265,"Road-650 Red, 60",782.99,Abraham,e,Bennet,Benjamin,E,Russell
+477169,18,14080,282,282,"Mountain-100 Black, 44",3374.99,Anne,i,Ringer,Melody,A,Dominguez
+477170,11,6240,299,299,"Road-250 Black, 48",2443.35,Livia,a,Karsen,Elizabeth,A,White
+477171,1,17680,312,312,HL Headset,124.73,Abraham,e,Bennet,Sierra,,Hernandez
+477172,17,9840,329,329,ML Mountain Rear Wheel,236.025,Albert,i,Ringer,Jimmy,,Carlson
+477173,6,1520,342,342,"HL Road Frame - Black, 62",1431.5,Ann,u,Dull,Anna,J,Martinez
+477174,23,13440,359,359,"Women's Tights, L",74.99,Akiko,o,Yokomoto,Marie,,Moreno
+477175,15,15360,375,375,Water Bottle - 30 oz.,4.99,Michael,',O'Leary,Omar,L,Tang
+477176,8,7520,392,392,"HL Touring Frame - Yellow, 46",1003.91,Morningstar,r,Greene,Gloria,S,Alonso
+477177,21,18960,405,405,"LL Touring Frame - Yellow, 50",333.42,Dirk,t,Stringer,Tristan,M,Wood
+477178,14,11120,422,422,"LL Mountain Frame - Silver, 42",264.05,Heather,c,McBadden,Katelyn,,Rogers
+477179,7,3280,439,439,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+477180,20,14720,452,452,HL Touring Handlebars,91.57,Dean,t,Straight,Nancy,E,Chapman
+477181,13,6880,469,469,"Touring-3000 Yellow, 58",742.35,Stearns,a,MacFeather,Fernando,L,Williams
+477182,5,8800,485,485,"Mountain-400-W Silver, 38",769.49,Innes,e,del Castillo,James,B,Bailey
+477183,22,960,502,502,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+477184,11,12400,10,515,Chainring Nut,192.6,Livia,a,Karsen,Leslie,,Ortega
+477185,4,4560,27,532,Flat Washer 3,415.2,Michel,e,DeFrance,Craig,,Gutierrez
+477186,21,16480,44,549,Thin-Jam Hex Nut 5,73,Dirk,t,Stringer,Robin,,Hernandez
+477187,10,8160,57,562,Hex Nut 17,151.2,Sheryl,u,Hunter,Isaac,,James
+477188,3,320,74,579,Hex Nut 4,158,Cheryl,a,Carson,Alan,,Guo
+477189,16,11760,87,592,External Lock Washer 6,489.6,Sylvia,a,Panteley,Kimberly,J,Cooper
+477190,9,3920,104,609,Thin-Jam Lock Nut 2,170,Burt,r,Gringlesby,Chloe,L,Lopez
+477191,1,5840,120,625,Lock Nut 17,176.4,Abraham,e,Bennet,Dylan,C,Long
+477192,18,17760,137,642,Lock Nut 4,183.2,Anne,i,Ringer,Stacey,,Ye
+477193,7,9440,150,655,Lock Washer 12,0,Marjorie,r,Green,Jeremiah,,Lopez
+477194,1,1600,167,672,Metal Sheet 1,585.6,Abraham,e,Bennet,Antonio,,Gonzales
+477195,17,13520,184,689,ML Road Rim,0,Albert,i,Ringer,Mark,,Lee
+477196,6,5200,197,702,HL Spindle/Axle,733.6,Ann,u,Dull,Deanna,,Moreno
+477197,23,17120,214,719,"Mountain Bike Socks, M",9.5,Akiko,o,Yokomoto,Sara,M,Murphy
+477198,15,19040,230,735,"LL Road Frame - Red, 44",337.22,Michael,',O'Leary,Valerie,,Lin
+477199,8,11200,247,752,"HL Mountain Frame - Silver, 46",1364.5,Morningstar,r,Greene,Katherine,A,King
+477200,21,2880,260,765,"Road-450 Red, 60",1457.99,Dirk,t,Stringer,Bruce,,Torres
+477201,14,14800,277,782,"Mountain-100 Silver, 42",3399.99,Heather,c,McBadden,Natalie,A,Sanders
+477202,7,6960,294,799,"Road-250 Red, 44",2443.35,Marjorie,r,Green,Frank,,Munoz
+477203,20,18400,307,812,LL Fork,148.22,Dean,t,Straight,Taylor,M,Henderson
+477204,13,10560,324,829,ML Road Front Wheel,248.385,Stearns,a,MacFeather,Joyce,,Jarvis
+477205,2,2240,337,842,"ML Mountain Frame - Black, 48",348.76,Reginald,l,Blotchet-Halls,Bianca,,Lu
+477206,19,14160,354,859,"Men's Sports Shorts, M",59.99,Meander,m,Smith,Micah,,Chen
+477207,11,16080,370,875,"Classic Vest, M",63.5,Livia,a,Karsen,Rebekah,A,Suri
+477208,4,8240,387,892,"Short-Sleeve Classic Jersey, M",53.99,Michel,e,DeFrance,Isabella,,Lopez
+477209,17,19680,400,905,"LL Touring Frame - Blue, 50",333.42,Albert,i,Ringer,Yvonne,,McKay
+477210,10,11840,417,922,ML Road Seat/Saddle,39.14,Sheryl,u,Hunter,Kristi,A,Saunders
+477211,3,4000,434,939,ML Mountain Tire,29.99,Cheryl,a,Carson,Christian,R,Lee
+477212,16,15440,447,952,"ML Mountain Frame-W - Silver, 38",364.09,Sylvia,a,Panteley,Paige,,Ramirez
+477213,9,7600,464,969,"Touring-3000 Blue, 58",742.35,Burt,r,Gringlesby,Grant,,Pal
+477215,2,240,2,2,Bearing Ball,0.8,Reginald,l,Blotchet-Halls,Adriana,,Suri
+477216,15,11680,15,15,Decal 2,130.4,Michael,',O'Leary,Kevin,,Baker
+477222,13,3200,109,109,Thin-Jam Lock Nut 3,516,Stearns,a,MacFeather,Cara,R,Guo
+477247,22,960,502,fg502,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+477744,7,3280,439,439,Touring Tire,$28.99 ,Marjorie,r,Green,Carlos,C,Rivera
+477792,21,12800,189,189fgf,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+477845,14,7440,62,62,Hex Nut 23,Eur76.6,Heather,c,McBadden,Gilbert,L,Hu
+477933,22,960,502,502h,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+478314,22,960,502,/502,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+478570,22,960,502,502e,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+478614,21,12800,189,189,HL Mountain Seat Assembly,196.92 EUR,Dirk,t,Stringer,Luis,,Hayes
+478997,7,3280,439,439f,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+479238,22,960,502,ER  502,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+480027,21,12800,189,fg189,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+480047,22,960,502,502ere,"Road-750 Black, 44",539.99,Johnson,h,White,Alvin,E,She
+480857,7,3280,439,439%^,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+481177,7,3280,439,439  $G,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+481862,21,12800,189,fgrr189,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+482262,7,3280,439,A  (4?3?9  Gh,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+482546,8,3840,32,32,Front Derailleur Cage,561.6,Morning,r,Greene,Cheryl,A,Ramos
+483379,3,16400,219,219,"Long-Sleeve Logo Jersey, M",49.99,,,,Robert,A,Chen
+483402,3,320,74,579,Hex Nut 4,158,,,,Alan,,Guo
+483425,3,4000,434,939,ML Mountain Tire,29.99,,,,Christian,R,Lee
+483926,8,3840,32,32,Front Derailleur Cage,561.6,Morning,r,Grne,Cheryl,A,Ramos
+483951,7,3280,439,439RT,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+485268,3,16400,219,219,"Long-Sleeve Logo Jersey, M",49.99,Cheryl,,,Robert,A,Chen
+485291,3,320,74,579,Hex Nut 4,158,Cheryl,,,Alan,,Guo
+485311,3,4000,434,939,ML Mountain Tire,29.99,Cheryl,,,Christian,R,Lee
+485590,3,4000,434,939,ML Mountain Tire,29.99,Cheryl,a,,Christian,R,Lee
+485603,3,16400,219,219,"Long-Sleeve Logo Jersey, M",49.99,Cheryl,a,,Robert,A,Chen
+485626,3,320,74,579,Hex Nut 4,158,Cheryl,a,,Alan,,Guo
+485657,14,7440,62,62,Hex Nut 23,R.s 76.6,Heather,c,McBadden,Gilbert,L,Hu
+491029,7,3280,439d,439,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+491210,7,3280,439,439,Touring Tire,28.99Rs,Marjorie,r,Green,Carlos,C,Rivera
+491640,7,3280,439c,439,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+492069,7,3280,439f,439,Touring Tire,28.99Rs,Marjorie,r,Green,Carlos,C,Rivera
+492937,3,16400,219,219,"Long-Sleeve Logo Jersey, M",49.99,ch,a,,Robert,A,Chen
+492951,7,3280,439asf,439,Touring Tire,28.99,Marjorie,r,Green,Carlos,C,Rivera
+492960,3,320,74,579,Hex Nut 4,158,ch,a,,Alan,,Guo
+492983,3,4000,434,939,ML Mountain Tire,29.99,ch,a,,Christian,R,Lee
+496563,14,7440,62,62,Hex Nut 23,76.6$,Heather,c,McBadden,Gilbert,L,Hu
+498103,21,12800,189,189,HL Mountain Seat Assembly,196.92/-,Dirk,t,Stringer,Luis,,Hayes
+499111,21,12800,189,189,HL Mountain Seat Assembly,$196.92 ,Dirk,t,Stringer,Luis,,Hayes
+503033,7,3280,439,439,Touring Tire,RS28.99,Marjorie,r,Green,Carlos,C,Rivera
+504342,21,12800,189,189,HL Mountain Seat Assembly,196.92/--,Dirk,t,Stringer,Luis,,Hayes
+504660,11,8720,155,155,Metal Angle,666.4,Livia,a,Karsen,Jaime,E,Jimenez
+504916,11,8720,155,155,Metal Angle,R.s. 666.4,Livia,a,Karsen,Jaime,E,Jimenez
+504918,21,12800,189,189,HL Mountain Seat Assembly,196.92R.s.,Dirk,t,Stringer,Luis,,Hayes
+505600,14,7440,62,62erto,Hex Nut 23,R.s 76.6,Heather,c,McBadden,Gilbert,L,Hu
+508066,14,7440,62,62erto,Hex Nut 23,76.6,Heather,c,McBadden,Gilbert,L,Hu
+514451,7,5760,295,295,"Road-250 Red, 48",2443.35,Marjorie,r,Green,Drew,D,Rai
+514457,5,17040,389,389,"Short-Sleeve Classic Jersey, XL",53.99,Innes,e,del Castillo,Samuel,V,Russell
+514460,3,2800,435,435,HL Mountain Tire,35,Cheryl,a,Carson,Brittany,,Hughes
+514463,2,18320,482,482,"Road-750 Black, 58",539.99,Reginald,l,Blotchet-Halls,Tasha,,Shan
+514464,19,10480,499,499,LL Bottom Bracket,53.99,Meander,m,Smith,Joseph,,Rodriguez
+514467,17,16000,40,545,Thin-Jam Hex Nut 1,144.4,Albert,i,Ringer,Raul,,Xu
+514473,15,7520,134,639,Lock Nut 3,182,Michael,',O'Leary,Gloria,S,Alonso
+514476,13,13040,180,685,LL Mountain Rim,608.4,Stearns,a,MacFeather,Madison,S,Powell
+514479,12,8800,227,732,"LL Road Frame - Black, 58",337.22,Charlene,o,Locksley,James,B,Bailey
+514482,3,6480,290,795,"Mountain-300 Black, 38",1079.99,Cheryl,a,Carson,Erica,,Lu
+514488,1,17760,384,889,All-Purpose Bike Stand,159,Abraham,e,Bennet,Stacey,,Ye
+514491,23,3520,430,935,"LL Mountain Frame - Black, 44",249.79,Akiko,o,Yokomoto,Casey,J,Xu
+514494,22,19040,477,982,"Touring-2000 Blue, 54",1214.85,Johnson,h,White,Valerie,,Lin
+514495,15,11200,494,999,"Mountain-500 Black, 40",539.99,Michael,',O'Leary,Katherine,A,King
+514498,21,15280,45,45,Thin-Jam Hex Nut 6,146.4,Dirk,t,Stringer,Olivia,,Perry
+514504,19,6800,139,139,Lock Nut 18,552,Meander,m,Smith,Faith,L,Patterson
+514507,17,12320,185,185,HL Road Rim,0,Albert,i,Ringer,Lawrence,S,Alonso
+514510,16,8080,232,232,"LL Road Frame - Red, 52",337.22,Sylvia,a,Panteley,Ian,,Stewart
+514511,9,240,249,249,"HL Mountain Frame - Black, 44",1349.6,Burt,r,Gringlesby,Adriana,,Suri
+514605,5,960,244,749,"HL Mountain Frame - Silver, 42",1364.5,Innes,e,del Castillo,Alvin,E,She
+514678,16,1440,495,1000,"Mountain-500 Black, 42",539.99,Sylvia,a,Panteley,Angelica,J,Jenkins
+514679,16,1920,16,16,Down Tube,457.8,Sylvia,a,Panteley,Audrey,L,Alvarez
+514680,9,13840,33,33,Front Derailleur Linkage,0,Burt,r,Gringlesby,Mayra,J,Kovar
+514681,22,5520,46,46,Thin-Jam Hex Nut 3,440.4,Johnson,h,White,Devin,J,Rivera
+514682,15,17440,63,63,Hex Nut 12,76.8,Michael,',O'Leary,Shane,E,Malhotra
+514683,8,9600,80,80,HL Hub,721.8,Morningstar,r,Greene,Jesse,,Morgan
+514684,21,1280,93,93,Internal Lock Washer 9,0,Dirk,t,Stringer,Andrew,,Jackson
+514685,14,13200,110,110,Thin-Jam Lock Nut 4,517.2,Heather,c,McBadden,Marcus,,Hall
+514686,6,15120,126,126,Lock Nut 12,89.4,Ann,u,Dull,Nicole,D,Murphy
+514687,20,16800,140,140,Lock Ring,829.8,Dean,t,Straight,Russell,,Xu
+514688,12,18720,156,156,Metal Bar 1,190.8,Charlene,o,Locksley,Tina,C,Malhotra
+514689,5,10880,173,173,Paint - Silver,889.2,Innes,e,del Castillo,Kaitlyn,A,Carter
+514690,18,2560,186,186,Touring Rim,0,Anne,i,Ringer,Brenda,,Malhotra
+514691,11,14480,203,203,Seat Post,848,Livia,a,Karsen,Miranda,L,Simmons
+514692,4,6640,220,220,"Long-Sleeve Logo Jersey, L",49.99,Michel,e,DeFrance,Ethan,A,Clark
+514693,17,18080,233,233,"LL Road Frame - Red, 58",337.22,Albert,i,Ringer,Sydney,,Edwards
+514694,10,10240,250,250,"HL Mountain Frame - Black, 48",1349.6,Sheryl,u,Hunter,Jonathan,J,Bryant
+514695,2,12160,266,266,"Road-650 Red, 62",782.99,Reginald,l,Blotchet-Halls,Larry,T,Alvarez
+514696,19,4320,283,283,"Mountain-100 Black, 48",3374.99,Meander,m,Smith,Cole,,Gray
+514697,8,15760,296,296,"Road-250 Red, 52",2443.35,Morningstar,r,Greene,Priscilla,R,Raji
+514698,1,7920,313,313,LL Mountain Handlebars,44.54,Abraham,e,Bennet,Heidi,L,Rodriguez
+514699,18,80,330,330,HL Mountain Rear Wheel,327.215,Anne,i,Ringer,Abigail,,Clark
+514700,7,11520,343,343,"HL Road Frame - Black, 44",1431.5,Marjorie,r,Green,Kellie,,Torres
+514701,1,3680,360,360,"Men's Bib-Shorts, S",89.99,Abraham,e,Bennet,Cesar,L,Perez
+514702,16,5600,376,376,Mountain Bottle Cage,9.99,Sylvia,a,Panteley,Diane,L,Suarez
+514703,6,7280,390,390,"HL Touring Frame - Yellow, 60",1003.91,Ann,u,Dull,Gary,P,Meyerhoff
+514704,22,9200,406,406,"LL Touring Frame - Yellow, 54",333.42,Johnson,h,White,Jay,D,Alvarez
+514705,15,1360,423,423,"LL Mountain Frame - Silver, 44",264.05,Michael,',O'Leary,Angel,H,Roberts
+514706,4,12800,436,436,LL Road Tire,21.49,Michel,e,DeFrance,Luis,,Hayes
+514707,21,4960,453,453,Front Brakes,106.5,Dirk,t,Stringer,Danny,,Suarez
+514708,14,16880,470,470,"Touring-3000 Yellow, 62",742.35,Heather,c,McBadden,Ryan,H,Long
+514709,3,8560,483,483,"Touring-3000 Blue, 44",742.35,Cheryl,a,Carson,Jacob,,Rodriguez
+514710,20,720,500,500,ML Bottom Bracket,101.24,Dean,t,Straight,Alexis,B,Hughes
+514711,12,2640,11,516,Chainring,193.2,Charlene,o,Locksley,Brett,L,Rana
+514712,5,14560,28,533,Flat Washer 8,0,Innes,e,del Castillo,Monica,C,Prasad
+514713,18,6240,41,546,Thin-Jam Hex Nut 2,144.8,Anne,i,Ringer,Elizabeth,A,White
+514714,11,18160,58,563,Hex Nut 7,151.6,Livia,a,Karsen,Sylvia,A,Caldwell
+514715,4,10320,75,580,Hex Nut 18,475.2,Michel,e,DeFrance,Jordan,J,Hill
+514716,17,2000,88,593,External Lock Washer 1,0,Albert,i,Ringer,Bailey,,Collins
+514717,10,13920,105,610,Thin-Jam Lock Nut 15,85.2,Sheryl,u,Hunter,Megan,L,Stewart
+514718,2,15840,121,626,Lock Nut 7,176.8,Reginald,l,Blotchet-Halls,Rachel,L,Ramirez
+514719,16,17520,135,640,Lock Nut 14,547.2,Sylvia,a,Panteley,Sharon,M,Raje
+514720,8,19440,151,656,Lock Washer 2,0,Morningstar,r,Greene,William,K,Sotelo
+514721,1,11600,168,673,Metal Tread Plate,0,Abraham,e,Bennet,Kelvin,A,He
+514722,14,3280,181,686,ML Mountain Rim,914.4,Heather,c,McBadden,Carlos,C,Rivera
+514723,7,15200,198,703,LL Shell,630,Marjorie,r,Green,Noah,,Phillips
+514724,1,7360,215,720,"Mountain Bike Socks, L",9.5,Abraham,e,Bennet,Gerald,,Gomez
+514725,13,18800,228,733,"LL Road Frame - Black, 60",337.22,Stearns,a,MacFeather,Toni,J,Rodriguez
+514726,6,10960,245,750,"HL Mountain Frame - Silver, 44",1364.5,Ann,u,Dull,Karen,,Berge
+514727,22,12880,261,766,"Road-450 Red, 44",1457.99,Johnson,h,White,Luke,C,Edwards
+514728,15,5040,278,783,"Mountain-100 Silver, 44",3399.99,Michael,',O'Leary,Darryl,,Hu
+514729,4,16480,291,796,"Mountain-300 Black, 40",1079.99,Michel,e,DeFrance,Robin,,Hernandez
+514730,21,8640,308,813,ML Fork,175.49 $EU,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+514731,14,800,325,830,HL Road Front Wheel,330.06,Heather,c,McBadden,Alisha,,Nath
+514732,3,12240,338,843,"ML Road Frame-W - Yellow, 40",594.83,Cheryl,a,Carson,Lauren,,Cook
+514733,20,4400,355,860,"Men's Sports Shorts, L",59.99,Dean,t,Straight,Colleen,,Zheng
+514734,12,6320,371,876,"Classic Vest, L",63.5,Charlene,o,Locksley,Emily,R,Clark
+514735,2,8000,385,890,Hydration Pack - 70 oz.,54.99,Reginald,l,Blotchet-Halls,Hunter,,Hughes
+514736,18,9920,401,906,"LL Touring Frame - Blue, 54",333.42,Anne,i,Ringer,Jocelyn,,Gonzales
+514737,11,2080,418,923,HL Road Seat/Saddle,52.64,Livia,a,Karsen,Barbara,K,Jai
+514738,1,13520,431,936,"LL Mountain Frame - Black, 48",249.79,Abraham,e,Bennet,Mark,,Lee
+514739,17,5680,448,953,"LL Mountain Frame - Black, 40",249.79,Albert,i,Ringer,Donald,M,Kovár
+514740,10,17600,465,970,"Touring-3000 Blue, 62",742.35,Sheryl,u,Hunter,Sheena,,Lal
+514741,23,9280,478,983,"Road-350-W Yellow, 40",1700.99,Akiko,o,Yokomoto,Jenna,M,Lopez
+514841,,6240,41,546,Thin-Jam Hex Nut 2,144.8,Anne,i,Ringer,Elizabeth,A,White
+514874,,17440,63,63,Hex Nut 12,76.8,Michael,',O'Leary,Shane,E,Malhotra
+514986,21,8640,308,RET 813,ML Fork,175.49 $EU,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+517577,21,8640,308,RET 813,ML Fork,175.49,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+518162,9,17520,393,393,"HL Touring Frame - Yellow, 50",1003.91,Burt,r,Gringlesby,Sharon,M,Raje
+518165,8,13280,440,440,LL Mountain Pedal,40.49,Morningstar,r,Greene,Marcus,T,Gray
+518168,6,18800,486,486,"Mountain-400-W Silver, 40",769.49,Ann,u,Dull,Toni,J,Rodriguez
+518169,23,10960,503,503,"Road-750 Black, 48",539.99,Akiko,o,Yokomoto,Karen,,Berge
+518172,22,6720,45,550,Thin-Jam Hex Nut 6,146.4,Johnson,h,White,Evan,C,Sanders
+518178,19,8000,138,643,Lock Nut 19,734.4,Meander,m,Smith,Hunter,,Hughes
+518181,18,3760,185,690,HL Road Rim,0,Anne,i,Ringer,Charles,J,Strange
+518184,16,9280,231,736,"LL Road Frame - Red, 48",337.22,Sylvia,a,Panteley,Jenna,M,Lopez
+518185,9,1440,248,753,"HL Mountain Frame - Black, 42",1349.6,Burt,r,Gringlesby,Angelica,J,Jenkins
+518188,8,16960,295,800,"Road-250 Red, 48",2443.35,Morningstar,r,Greene,Samantha,K,Taylor
+518194,5,18240,388,893,"Short-Sleeve Classic Jersey, L",53.99,Innes,e,del Castillo,Tamara,L,Chander
+518197,4,14000,435,940,HL Mountain Tire,35,Michel,e,DeFrance,Melanie,N,Alexander
+518200,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,Reginald,l,Blotchet-Halls,Wyatt,,Thompson
+518201,3,10240,3,3,BB Ball Bearing,2.4,Cheryl,a,Carson,Jonathan,J,Bryant
+518204,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,Reginald,l,Blotchet-Halls,Eduardo,,Walker
+518210,23,7280,143,143,Lock Washer 5,0,Akiko,o,Yokomoto,Gary,P,Meyerhoff
+518213,22,3040,190,190,LL Road Seat Assembly,133.34,Johnson,h,White,Caleb,A,Parker
+518216,20,8560,236,236,"ML Road Frame - Red, 44",594.83,Dean,t,Straight,Jacob,,Rodriguez
+518217,13,720,253,253,"HL Mountain Frame - Silver, 38",1364.5,Stearns,a,MacFeather,Alexis,B,Hughes
+518220,12,16240,300,300,"Road-250 Black, 52",2443.35,Charlene,o,Locksley,Richard,,White
+518326,,19520,481,986,"Road-350-W Yellow, 48",1700.99,Reginald,l,Blotchet-Halls,Wyatt,,Thompson
+518391,3,10240,3,3,BB Ball Bearing,2.4$,Cheryl,a,Carson,Jonathan,J,Bryant
+519008,3,12240,338,843,"ML Road Frame-W - Yellow, 40",594.83,,a,Carson,Lauren,,Cook
+519018,3,10240,3,3,BB Ball Bearing,2.4,,a,Carson,Jonathan,J,Bryant
+519082,3,10240,3,3,BB Ball Bearing,2.4$,,a,Carson,Jonathan,J,Bryant
+520720,3,12240,338,843,"ML Road Frame-W - Yellow, 40",594.83,,,Carson,Lauren,,Cook
+520730,3,10240,3,3,BB Ball Bearing,2.4$,,,Carson,Jonathan,J,Bryant
+520794,3,10240,3,3,BB Ball Bearing,2.4,,,Carson,Jonathan,J,Bryant
+521048,3,10240,3,3,BB Ball Bearing,2.4,,,,Jonathan,J,Bryant
+521102,3,12240,338,843,"ML Road Frame-W - Yellow, 40",594.83,,,,Lauren,,Cook
+521610,3,10240,3,3,BB Ball Bearing,2.4$,,,,Jonathan,J,Bryant
+522163,3,12240,338,843,"ML Road Frame-W - Yellow, 40",594.83,,a,,Lauren,,Cook
+522173,3,10240,3,3,BB Ball Bearing,2.4,,a,,Jonathan,J,Bryant
+522237,3,10240,3,3,BB Ball Bearing,2.4$,,a,,Jonathan,J,Bryant
+522831,18,80,330,330,HL Mountain Rear Wheel,327.215,Anne,i,Ringer,Abi,,Clark
+524586,3,10240,3,3,BB Ball Bearing,2.4,Cheryl,a,,Jonathan,J,Bryant
+524607,18,80,330,330,HL Mountain Rear Wheel,327.215,Anne,i,,Abi,,Clark
+524640,3,12240,338,843,"ML Road Frame-W - Yellow, 40",594.83,Cheryl,a,,Lauren,,Cook
+525223,3,10240,3,3,BB Ball Bearing,2.4$,Cheryl,a,,Jonathan,J,Bryant
+526180,18,80,330,330,HL Mountain Rear Wheel,327.215,Anne,i,,Abigail,,Clark
+527284,21,8640,308,RET 813,ML Fork,175.49 R.s.,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+528050,3,10240,3,3,BB Ball Bearing,$2.40 ,Cheryl,a,Carson,Jonathan,J,Bryant
+530238,21,8640,308,813,ML Fork,175.49 R.s.,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+535981,4,2000,88,593,External Lock Washer 1,0,Michel,e,DeFrance,Bailey,,Collins
+549146,,11600,168,673,Metal Tread Plate,0,Abraham,e,Bennet,Kelvin,A,He
+549251,1,7920,313,313,LL Mountain Handlebars,44.54,,e,Bennet,Heidi,L,Rodriguez
+549510,1,3680,360,360,"Men's Bib-Shorts, S",89.99,,e,Bennet,Cesar,L,Perez
+549643,1,11600,168,673,Metal Tread Plate,0,,e,Bennet,Kelvin,A,He
+550131,18,80,330,330,HL Mountain Rear Wheel,327.215,,,,Abigail,,Clark
+550151,19,8000,138,643,Lock Nut 19,734.4,,,,Hunter,,Hughes
+550153,1,11600,168,673,Metal Tread Plate,0,Abraham,,Bennet,Kelvin,A,He
+550154,18,3760,185,690,HL Road Rim,0,,,,Charles,J,Strange
+550165,20,4400,355,860,"Men's Sports Shorts, L",59.99,,,,Colleen,,Zheng
+550168,18,9920,401,906,"LL Touring Frame - Blue, 54",333.42,,,,Jocelyn,,Gonzales
+550189,20,8560,236,236,"ML Road Frame - Red, 44",594.83,,,,Jacob,,Rodriguez
+550192,19,4320,283,283,"Mountain-100 Black, 48",3374.99,,,,Cole,,Gray
+550284,1,7360,215,720,"Mountain Bike Socks, L",9.5,,e,Bennet,Gerald,,Gomez
+550450,,7920,313,313,LL Mountain Handlebars,44.54,Abraham,,Bennet,Heidi,L,Rodriguez
+550642,,7920,313,313,LL Mountain Handlebars,44.54,Abraham,e,Bennet,Heidi,L,Rodriguez
+550706,1,7920,313,313,LL Mountain Handlebars,44.54,Abraham,e,,Heidi,L,Rodriguez
+550732,1,7360,215,720,"Mountain Bike Socks, L",9.5,Abraham,e,,Gerald,,Gomez
+551730,23,11360,166,671,Metal Sheet 6,389.6,Akiko,o,Yokomoto,Kayla,,Taylor
+551731,12,3040,179,684,Reflector,910.8,Charlene,o,Locksley,Caleb,A,Parker
+551732,11,18560,226,731,"HL Road Frame - Red, 56",1431.5,Livia,a,Karsen,Thomas,,Gonzales
+551733,4,10720,243,748,"LL Road Frame - Black, 52",337.22,Michel,e,DeFrance,Julie,,Becker
+551734,20,12640,259,764,"Road-450 Red, 58",1457.99,,,,Lori,C,Alvarez
+551735,13,4800,276,781,"Mountain-100 Silver, 38",3399.99,Stearns,a,MacFeather,Dalton,M,Coleman
+551736,2,16240,289,794,"Mountain-200 Black, 46",2294.99,Reginald,l,Blotchet-Halls,Richard,,White
+551737,19,8400,306,811,"Road-550-W Yellow, 48",1120.49,,,,Jack,,Carter
+551738,12,560,323,828,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+551739,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,Abraham,e,Bennet,Kurt,,Yuan
+551740,18,4160,353,858,Headlights - Weatherproof,44.99,,,,Clarence,,Pal
+551741,10,6080,369,874,"Classic Vest, S",63.5,Sheryl,u,Hunter,Edward,,Ross
+551742,1,7760,383,888,Fender Set - Mountain,21.98,Abraham,e,Bennet,Haley,B,Phillips
+551743,16,9680,399,904,Rear Derailleur,121.46,Sylvia,a,Panteley,Jessica,A,Hughes
+551744,9,1840,416,921,LL Road Seat/Saddle,27.12,Burt,r,Gringlesby,Ashlee,J,Andersen
+551745,22,13280,429,934,"LL Mountain Frame - Black, 42",249.79,Johnson,h,White,Marcus,T,Gray
+551746,15,5440,446,951,Touring Pedal,80.99,Michael,',O'Leary,Destiny,L,Flores
+551747,8,17360,463,968,"Touring-3000 Blue, 54",742.35,Morningstar,r,Greene,Seth,,Perry
+551748,21,9040,476,981,"Touring-2000 Blue, 50",1214.85,Dirk,t,Stringer,Jasmine,,Butler
+551749,14,1200,493,998,"Mountain-500 Silver, 52",564.99,Heather,c,McBadden,Andre,E,Arun
+551750,14,1680,14,14,Decal 1,195,Heather,c,McBadden,Arianna,A,Hughes
+551751,7,13600,31,31,Fork Crown,350,Marjorie,r,Green,Martin,,Rodriguez
+551752,20,5280,44,44,Thin-Jam Hex Nut 5,73,,,,Denise,,Prasad
+551753,13,17200,61,61,Hex Nut 22,76.4,Stearns,a,MacFeather,Savannah,E,Turner
+551754,6,9360,78,78,Head Tube,79.8,Ann,u,Dull,Jennifer,L,Morgan
+551755,19,1040,91,91,Internal Lock Washer 3,0,,,,Alyssa,S,Wood
+551756,12,12960,108,108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+551757,4,14880,124,124,Lock Nut 22,89,Michel,e,DeFrance,Nathan,,Kumar
+551758,18,16560,138,138,Lock Nut 19,734.4,,,,Roger,E,Raje
+551759,10,18480,154,154,Lock Washer 11,570,Sheryl,u,Hunter,Terri,L,Duffy
+551760,3,10640,171,171,Paint - Black,688.8,Cheryl,a,Carson,Julia,A,Price
+551761,16,2320,184,184,ML Road Rim,0,Sylvia,a,Panteley,Blake,C,Bryant
+551762,9,14240,201,201,Seat Lug,316.8,Burt,r,Gringlesby,Micheal,,Travers
+551763,2,6400,218,218,"Long-Sleeve Logo Jersey, S",49.99,Reginald,l,Blotchet-Halls,Emmanuel,,Suri
+551764,15,17840,231,231,"LL Road Frame - Red, 48",337.22,Michael,',O'Leary,Stefanie,T,Mehta
+551765,8,10000,248,248,"HL Mountain Frame - Black, 42",1349.6,Morningstar,r,Greene,Joe,L,Lopez
+551766,1,11920,264,264,"Road-650 Red, 58",782.99,Abraham,e,Bennet,Kristine,F,Alvarez
+551767,17,4080,281,281,"Mountain-100 Black, 42",3374.99,Albert,i,Ringer,Christy,,Goel
+551768,6,15520,294,294,"Road-250 Red, 44",2443.35,Ann,u,Dull,Patricia,M,Zubaty
+551769,23,7680,311,311,ML Headset,102.29,Akiko,o,Yokomoto,Hailey,,Sanders
+551770,16,19600,328,328,LL Mountain Rear Wheel,87.745,Sylvia,a,Panteley,Xavier,,White
+551771,5,11280,341,341,"ML Road Frame-W - Yellow, 48",594.83,Innes,e,del Castillo,Kathryn,,Deng
+551772,22,3440,358,358,"Women's Tights, M",74.99,Johnson,h,White,Carrie,,Gill
+551773,14,5360,374,374,"Women's Mountain Shorts, L",69.99,Heather,c,McBadden,Derrick,C,Moreno
+551774,4,7040,388,388,"Short-Sleeve Classic Jersey, L",53.99,Michel,e,DeFrance,Frederick,,Srini
+551775,20,8960,404,404,"LL Touring Frame - Yellow, 44",333.42,,,,Janet,B,Ramos
+551776,13,1120,421,421,HL Touring Seat/Saddle,52.64,Stearns,a,MacFeather,Amber,,Phillips
+551777,2,12560,434,434,ML Mountain Tire,29.99,Reginald,l,Blotchet-Halls,Logan,,King
+551778,19,4720,451,451,LL Touring Handlebars,46.09,,,,Dale,A,Tang
+551779,12,16640,468,468,"Touring-3000 Yellow, 54",742.35,Charlene,o,Locksley,Rosa,A,Lu
+551780,1,8320,481,481,"Road-350-W Yellow, 48",1700.99,Abraham,e,Bennet,Isabelle,C,Barnes
+551781,18,480,498,498,"Mountain-500 Black, 52",539.99,,,,Alex,M,Carter
+551782,10,2400,9,514,Chainring Bolts,0,Sheryl,u,Hunter,Bonnie,L,Chande
+551783,3,14320,26,531,Flat Washer 4,0,Cheryl,a,Carson,Michelle,,Reed
+551784,16,6000,39,544,Thin-Jam Hex Nut 10,144,Sylvia,a,Panteley,Eduardo,,Walker
+551785,9,17920,56,561,Hex Nut 16,75.4,Burt,r,Gringlesby,Steve,,Ma
+551786,2,10080,73,578,Hex Nut 15,472.8,Reginald,l,Blotchet-Halls,John,T,Kane
+551787,15,1760,86,591,External Lock Washer 7,0,Michael,',O'Leary,Arthur,D,Madan
+551788,8,13680,103,608,Thin-Jam Lock Nut 1,169.6,Morningstar,r,Greene,Mary,S,Green
+551789,1,15600,119,624,Lock Nut 16,88,Abraham,e,Bennet,Pedro,,Romero
+551790,14,17280,133,638,Lock Nut 21,90.8,Heather,c,McBadden,Sean,L,Reed
+551791,6,19200,149,654,Lock Washer 7,564,Ann,u,Dull,Victoria,M,Rodriguez
+551794,5,14960,196,701,LL Spindle/Axle,418.4,Innes,e,del Castillo,Nathaniel,K,Morris
+551795,22,7120,213,718,"Sport-100 Helmet, Black",34.99,Johnson,h,White,Gabriella,,Parker
+551878,20,5280,44,44,Thin-Jam Hex Nut 5,73,Dean,t,Straight,Denise,,Prasad
+551880,19,1040,91,91,Internal Lock Washer 3,0,Meander,m,Smith,Alyssa,S,Wood
+551883,18,16560,138,138,Lock Nut 19,734.4,Anne,i,Ringer,Roger,E,Raje
+551900,20,8960,404,404,"LL Touring Frame - Yellow, 44",333.42,Dean,t,Straight,Janet,B,Ramos
+551903,19,4720,451,451,LL Touring Handlebars,46.09,Meander,m,Smith,Dale,A,Tang
+551906,18,480,498,498,"Mountain-500 Black, 52",539.99,Anne,i,Ringer,Alex,M,Carter
+551923,20,12640,259,764,"Road-450 Red, 58",1457.99,Dean,t,Straight,Lori,C,Alvarez
+551926,19,8400,306,811,"Road-550-W Yellow, 48",1120.49,Meander,m,Smith,Jack,,Carter
+551929,18,4160,353,858,Headlights - Weatherproof,44.99,Anne,i,Ringer,Clarence,,Pal
+552052,19,8400,306,811,"Road-550-W Yellow, 48",1120.49,,m,Smith,Jack,,Carter
+552055,18,4160,353,858,Headlights - Weatherproof,44.99,,i,Ringer,Clarence,,Pal
+552067,20,5280,44,44,Thin-Jam Hex Nut 5,73,,t,Straight,Denise,,Prasad
+552070,19,1040,91,91,Internal Lock Washer 3,0,,m,Smith,Alyssa,S,Wood
+552073,18,16560,138,138,Lock Nut 19,734.4,,i,Ringer,Roger,E,Raje
+552090,20,8960,404,404,"LL Touring Frame - Yellow, 44",333.42,,t,Straight,Janet,B,Ramos
+552093,19,4720,451,451,LL Touring Handlebars,46.09,,m,Smith,Dale,A,Tang
+552096,18,480,498,498,"Mountain-500 Black, 52",539.99,,i,Ringer,Alex,M,Carter
+552113,20,12640,259,764,"Road-450 Red, 58",1457.99,,t,Straight,Lori,C,Alvarez
+552757,12,560,323,828,LL Road Front Wheel,85.565 R.s.,Charlene,o,Locksley,Alexandra,,Murphy
+553239,16,3520,183,688,LL Road Rim,306,Sylvia,a,Panteley,Casey,J,Xu
+553241,14,9040,229,734,"LL Road Frame - Black, 62",337.22,Heather,c,McBadden,Jasmine,,Butler
+553244,6,16720,293,798,"Mountain-300 Black, 48",1079.99,Ann,u,Dull,Roy,C,Romero
+553250,3,18000,386,891,"Short-Sleeve Classic Jersey, S",53.99,Cheryl,a,Carson,Summer,M,Rana
+553253,2,13760,433,938,LL Mountain Tire,24.99,Reginald,l,Blotchet-Halls,Matthew,,White
+553256,1,19280,479,984,"Road-350-W Yellow, 42",1700.99,Abraham,e,Bennet,Walter,S,Navarro
+553257,1,10000,1,1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+553260,1,5760,48,48,Thin-Jam Hex Nut 13,73.8,Abraham,e,Bennet,Drew,D,Rai
+553266,21,7040,141,141,Lower Head Race,184.8,Dirk,t,Stringer,Frederick,,Srini
+553269,20,2800,188,188,ML Mountain Seat Assembly,147.14,,t,Straight,Brittany,,Hughes
+553272,18,8320,234,234,"LL Road Frame - Red, 60",337.22,,i,Ringer,Isabelle,C,Barnes
+553273,11,480,251,251,"HL Mountain Frame - Black, 46",1349.6,Livia,a,Karsen,Alex,M,Carter
+553276,10,16000,298,298,"Road-250 Black, 44",2443.35,Sheryl,u,Hunter,Raul,,Xu
+553282,7,17280,391,391,"LL Touring Frame - Yellow, 62",333.42,Marjorie,r,Green,Sean,L,Reed
+553285,6,13040,438,438,HL Road Tire,32.6,Ann,u,Dull,Madison,S,Powell
+553288,4,18560,484,484,"Touring-3000 Blue, 50",742.35,Michel,e,DeFrance,Thomas,,Gonzales
+553289,21,10720,501,501,HL Bottom Bracket,121.49,Dirk,t,Stringer,Julie,,Becker
+553292,20,6480,43,548,Thin-Jam Hex Nut 16,72.8,,t,Straight,Erica,,Lu
+553298,17,7760,136,641,Lock Nut 15,548.4,Albert,i,Ringer,Haley,B,Phillips
+553305,7,1200,246,751,"HL Mountain Frame - Silver, 48",1364.5,Marjorie,r,Green,Andre,E,Arun
+553336,18,8320,234,234,"LL Road Frame - Red, 60",337.22,Anne,i,Ringer,Isabelle,C,Barnes
+553395,20,2800,188,188,ML Mountain Seat Assembly,147.14,Dean,t,Straight,Brittany,,Hughes
+553409,20,8960,404,404,"LL Touring Frame - Yellow, 44",333.42,NULL,t,Straight,Janet,B,Ramos
+553412,19,4720,451,451,LL Touring Handlebars,46.09,NULL,m,Smith,Dale,A,Tang
+553418,20,6480,43,548,Thin-Jam Hex Nut 16,72.8,NULL,t,Straight,Erica,,Lu
+553432,20,12640,259,764,"Road-450 Red, 58",1457.99,NULL,t,Straight,Lori,C,Alvarez
+553435,19,8400,306,811,"Road-550-W Yellow, 48",1120.49,NULL,m,Smith,Jack,,Carter
+553438,18,4160,353,858,Headlights - Weatherproof,44.99,NULL,i,Ringer,Clarence,,Pal
+553453,19,1040,91,91,Internal Lock Washer 3,0,NULL,m,Smith,Alyssa,S,Wood
+553459,20,2800,188,188,ML Mountain Seat Assembly,147.14,NULL,t,Straight,Brittany,,Hughes
+553462,18,8320,234,234,"LL Road Frame - Red, 60",337.22,NULL,i,Ringer,Isabelle,C,Barnes
+553976,1,11920,264,264,"Road-650 Red, 58",782.99,Abraham,e,,Kristine,F,Alvarez
+553999,1,15600,119,624,Lock Nut 16,88,Abraham,e,,Pedro,,Romero
+554013,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,Abraham,e,,Kurt,,Yuan
+554022,1,19280,479,984,"Road-350-W Yellow, 42",1700.99,Abraham,e,,Walter,S,Navarro
+554023,1,10000,1,1,Adjustable Race,1.6,Abraham,e,,Joe,L,Lopez
+554026,1,5760,48,48,Thin-Jam Hex Nut 13,73.8,Abraham,e,,Drew,D,Rai
+554040,1,11920,264,264,"Road-650 Red, 58",782.99,,e,,Kristine,F,Alvarez
+554063,1,15600,119,624,Lock Nut 16,88,,e,,Pedro,,Romero
+554077,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,,e,,Kurt,,Yuan
+554086,1,19280,479,984,"Road-350-W Yellow, 42",1700.99,,e,,Walter,S,Navarro
+554087,1,10000,1,1,Adjustable Race,1.6,,e,,Joe,L,Lopez
+554090,1,5760,48,48,Thin-Jam Hex Nut 13,73.8,,e,,Drew,D,Rai
+554651,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,,e,Bennet,Kurt,,Yuan
+554660,1,19280,479,984,"Road-350-W Yellow, 42",1700.99,,e,Bennet,Walter,S,Navarro
+554661,1,10000,1,1,Adjustable Race,1.6,,e,Bennet,Joe,L,Lopez
+554664,1,5760,48,48,Thin-Jam Hex Nut 13,73.8,,e,Bennet,Drew,D,Rai
+554678,1,11920,264,264,"Road-650 Red, 58",782.99,,e,Bennet,Kristine,F,Alvarez
+554699,1,15600,119,624,Lock Nut 16,88,,e,Bennet,Pedro,,Romero
+559295,12,560,323,828+,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+562527,1,10000,1,1rt,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+563341,1,10000,1,1st,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+563974,1,10000,1,1klo,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+565077,23,11360,166,671,Metal Sheet 6,389.6,,o,Yokomoto,Kayla,,Taylor
+565116,23,7680,311,311,ML Headset,102.29,,o,Yokomoto,Hailey,,Sanders
+565542,1,10000,1,S%^1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+566984,1,10000,1,GH&1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+568811,1,10000,1,1$%^fhg,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+570460,1,10000,1,1dfg,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+573608,23,11360,166,671,Metal Sheet 6,389.6,,o,,Kayla,,Taylor
+573649,23,7680,311,311,ML Headset,102.29,,o,,Hailey,,Sanders
+574912,23,7680,311,311,ML Headset,102.29,Akiko,o,,Hailey,,Sanders
+574935,23,11360,166,671,Metal Sheet 6,389.6,Akiko,o,,Kayla,,Taylor
+578631,23,7680,311,311,ML Headset,102.29,Akiko,,,Hailey,,Sanders
+578652,23,11360,166,671,Metal Sheet 6,389.6,Akiko,,,Kayla,,Taylor
+579341,23,11360,166,671,Metal Sheet 6,389.6,Akiko,,Yokomoto,Kayla,,Taylor
+579382,23,7680,311,311,ML Headset,102.29,Akiko,,Yokomoto,Hailey,,Sanders
+583306,12,12960,108,10^^8,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+585711,23,7680,311,311,ML Headset,102.29,NULL,,Yokomoto,Hailey,,Sanders
+585734,23,11360,166,671,Metal Sheet 6,389.6,NULL,,Yokomoto,Kayla,,Taylor
+586118,23,11360,166,671,Metal Sheet 6,389.6,NULL,o,Yokomoto,Kayla,,Taylor
+586159,23,7680,311,311,ML Headset,102.29,NULL,o,Yokomoto,Hailey,,Sanders
+587376,7,1200,246,751,"HL Mountain Frame - Silver, 48",1364.5,,,Green,Andre,E,Arun
+587394,7,13600,31,31,Fork Crown,350,,,Green,Martin,,Rodriguez
+587417,7,17280,391,391,"LL Touring Frame - Yellow, 62",333.42,,,Green,Sean,L,Reed
+588351,7,13600,31,31,Fork Crown,350,Marjorie,,Green,Martin,,Rodriguez
+588374,7,17280,391,391,"LL Touring Frame - Yellow, 62",333.42,Marjorie,,Green,Sean,L,Reed
+588397,7,1200,246,751,"HL Mountain Frame - Silver, 48",1364.5,Marjorie,,Green,Andre,E,Arun
+589076,7,17280,391,391,"LL Touring Frame - Yellow, 62",333.42,Marjorie,,,Sean,L,Reed
+589099,7,1200,246,751,"HL Mountain Frame - Silver, 48",1364.5,Marjorie,,,Andre,E,Arun
+589117,7,13600,31,31,Fork Crown,350,Marjorie,,,Martin,,Rodriguez
+589532,23,17120,214,719,"Mountain Bike Socks, M",9.5,NULL,o,Yokomoto,Sara,M,Murphy
+589537,7,6960,294,799,"Road-250 Red, 44",2443.35,Marjorie,,,Frank,,Munoz
+589555,7,19360,79,79,LL Hub,640,Marjorie,,,Wendy,,Sanz
+589573,23,13440,359,359,"Women's Tights, L",74.99,NULL,o,Yokomoto,Marie,,Moreno
+589578,7,3280,439,439,Touring Tire,28.99,Marjorie,,,Carlos,C,Rivera
+589592,7,9440,150,655,Lock Washer 12,0,Marjorie,,,Jeremiah,,Lopez
+590126,2,240,2,2,Bearing Ball,0.8,,,,,,
+590537,7,3280,439,439,Touring Tire,28.99,Marjorie,r,,Carlos,C,Rivera
+590551,7,9440,150,655,Lock Washer 12,0,Marjorie,r,,Jeremiah,,Lopez
+590560,7,6960,294,799,"Road-250 Red, 44",2443.35,Marjorie,r,,Frank,,Munoz
+590578,7,19360,79,79,LL Hub,640,Marjorie,r,,Wendy,,Sanz
+590791,7,3280,439,439,Touring Tire,28.99$,Marjorie,r,,Carlos,C,Rivera
+591658,23,13440,359,359,"Women's Tights, L",74.99,NULL,,Yokomoto,Marie,,Moreno
+591681,23,17120,214,719,"Mountain Bike Socks, M",9.5,NULL,,Yokomoto,Sara,M,Murphy
+592456,14,7440,62,62erto,Hex Nut 23,76.6 /-,Heather,c,McBadden,Gilbert,L,Hu
+592736,7,3280,439,439,Touring Tire,28.99,NULL,r,,Carlos,C,Rivera
+592750,7,9440,150,655,Lock Washer 12,0,NULL,r,,Jeremiah,,Lopez
+592759,7,6960,294,799,"Road-250 Red, 44",2443.35,NULL,r,,Frank,,Munoz
+592777,7,19360,79,79,LL Hub,640,NULL,r,,Wendy,,Sanz
+592923,23,13440,359,359,"Women's Tights, L",74.99,Akiko,,Yokomoto,Marie,,Moreno
+593000,23,17120,214,719,"Mountain Bike Socks, M",9.5,Akiko,,Yokomoto,Sara,M,Murphy
+593045,7,3280,439,439,Touring Tire,28.99$,NULL,r,,Carlos,C,Rivera
+593123,7,9440,150,655,Lock Washer 12,0,NULL,r,Green,Jeremiah,,Lopez
+593132,7,6960,294,799,"Road-250 Red, 44",2443.35,NULL,r,Green,Frank,,Munoz
+593150,7,19360,79,79,LL Hub,640,NULL,r,Green,Wendy,,Sanz
+593173,7,3280,439,439,Touring Tire,28.99,NULL,r,Green,Carlos,C,Rivera
+594313,7,6960,294,799,"Road-250 Red, 44",2443.35,NULL,,Green,Frank,,Munoz
+594331,7,19360,79,79,LL Hub,640,NULL,,Green,Wendy,,Sanz
+594354,7,3280,439,439,Touring Tire,28.99,NULL,,Green,Carlos,C,Rivera
+594360,7,9440,150,655,Lock Washer 12,0,NULL,,Green,Jeremiah,,Lopez
+594374,14,7440,62,62,Hex Nut 23,76.6 /-,Heather,c,McBadden,Gilbert,L,Hu
+595160,23,17120,214,719,"Mountain Bike Socks, M",9.5,Akiko,,NIL,Sara,M,Murphy
+595201,23,13440,359,359,"Women's Tights, L",74.99,Akiko,,NIL,Marie,,Moreno
+595526,7,3280,439,439,Touring Tire,28.99,NULL,,,Carlos,C,Rivera
+595547,7,6960,294,799,"Road-250 Red, 44",2443.35,NULL,,,Frank,,Munoz
+595565,7,19360,79,79,LL Hub,640,NULL,,,Wendy,,Sanz
+595602,7,9440,150,655,Lock Washer 12,0,NULL,,,Jeremiah,,Lopez
+595669,23,17120,214,719,"Mountain Bike Socks, M",9.5,Akiko,o,NIL,Sara,M,Murphy
+595710,23,13440,359,359,"Women's Tights, L",74.99,Akiko,o,NIL,Marie,,Moreno
+596937,4,8240,,892,"Short-Sleeve Classic Jersey, M",,Michel,e,DeFrance,Isabella,,Lopez
+598639,23,3520,430,935,"LL Mountain Frame - Black, 44",249.79,Akiko,o,NIL,Casey,J,Xu
+599254,17,16000,40,545,Thin-Jam Hex Nut 1,144.4 Eur,Albert,i,Ringer,Raul,,Xu
+600030,23,17120,214,719,"Mountain Bike Socks, M",9.5,NULL,o,NIL,Sara,M,Murphy
+600044,23,3520,430,935,"LL Mountain Frame - Black, 44",249.79,NULL,o,NIL,Casey,J,Xu
+600071,23,13440,359,359,"Women's Tights, L",74.99,NULL,o,NIL,Marie,,Moreno
+605432,23,13440,359,359,"Women's Tights, L",74.99,Akiko,o,,Marie,,Moreno
+605455,23,17120,214,719,"Mountain Bike Socks, M",9.5,Akiko,o,,Sara,M,Murphy
+609599,23,13440,359,359,"Women's Tights, L",74.99,,o,,Marie,,Moreno
+609622,23,17120,214,719,"Mountain Bike Socks, M",9.5,,o,,Sara,M,Murphy
+612502,23,13440,359,359,"Women's Tights, L",74.99,,o,Yokomoto,Marie,,Moreno
+612525,23,17120,214,719,"Mountain Bike Socks, M",9.5,,o,Yokomoto,Sara,M,Murphy
+613393,23,13440,359,359,"Women's Tights, L",74.99,,,Yokomoto,Marie,,Moreno
+613416,23,17120,214,719,"Mountain Bike Socks, M",9.5,,,Yokomoto,Sara,M,Murphy
+614610,23,17120,214,719,"Mountain Bike Socks, M",9.5,,,,Sara,M,Murphy
+614651,23,13440,359,359,"Women's Tights, L",74.99,,,,Marie,,Moreno
+614843,23,13440,359,359,"Women's Tights, L",74.99,Akiko,,,Marie,,Moreno
+614866,23,17120,214,719,"Mountain Bike Socks, M",9.5,Akiko,,,Sara,M,Murphy
+617533,23,3520,430,935,"LL Mountain Frame - Black, 44",249.79,Akiko,o,,Casey,J,Xu
+618578,23,3520,430,935,"LL Mountain Frame - Black, 44",249.79,,o,,Casey,J,Xu
+618766,23,3520,430,935,"LL Mountain Frame - Black, 44",249.79,,o,Yokomoto,Casey,J,Xu
+620033,9,7600,464,969,"Touring-3000 Blue, 58",742.35,Burt,r,Gringlesby,?,?,?
+620072,3,320,74,579,Hex Nut 4,158,Cheryl,a,Carson,?,?,?
+620077,7,9440,150,655,Lock Washer 12,0,Marjorie,r,Green,?,?,?
+622260,11,8720,155,155,Metal Angle,EUR 666.4 $$,Livia,a,Karsen,Jaime,E,Jimenez
+627118,17,12320,185,185,HL Road Rim,0,NULL,NULL,NULL,Lawrence,S,Alonso
+627121,16,8080,232,232,"LL Road Frame - Red, 52",337.22,NULL,NULL,NULL,Ian,,Stewart
+627127,17,9840,329,329,ML Mountain Rear Wheel,236.025,NULL,NULL,NULL,Jimmy,,Carlson
+627130,15,15360,375,375,Water Bottle - 30 oz.,4.99,NULL,NULL,NULL,Omar,L,Tang
+627141,17,16000,40,545,Thin-Jam Hex Nut 1,144.4,NULL,NULL,NULL,Raul,,Xu
+627144,16,11760,87,592,External Lock Washer 6,489.6,NULL,NULL,NULL,Kimberly,J,Cooper
+627147,15,7520,134,639,Lock Nut 3,182,NULL,NULL,NULL,Gloria,S,Alonso
+627164,17,19680,400,905,"LL Touring Frame - Blue, 50",333.42,NULL,NULL,NULL,Yvonne,,McKay
+627167,16,15440,447,952,"ML Mountain Frame-W - Silver, 38",364.09,NULL,NULL,NULL,Paige,,Ramirez
+627170,15,11200,494,999,"Mountain-500 Black, 40",539.99,NULL,NULL,NULL,Katherine,A,King
+627171,15,11680,15,15,Decal 2,130.4,NULL,NULL,NULL,Kevin,,Baker
+627348,15,5040,278,783,"Mountain-100 Silver, 44",3399.99,NULL,NULL,NULL,Darryl,,Hu
+627359,17,5680,448,953,"LL Mountain Frame - Black, 40",249.79,NULL,NULL,NULL,Donald,M,Kovár
+627362,16,1440,495,1000,"Mountain-500 Black, 42",539.99,NULL,NULL,NULL,Angelica,J,Jenkins
+627363,16,1920,16,16,Down Tube,457.8,NULL,NULL,NULL,Audrey,L,Alvarez
+627366,15,17440,63,63,Hex Nut 12,76.8,NULL,NULL,NULL,Shane,E,Malhotra
+627377,17,18080,233,233,"LL Road Frame - Red, 58",337.22,NULL,NULL,NULL,Sydney,,Edwards
+627386,16,5600,376,376,Mountain Bottle Cage,9.99,NULL,NULL,NULL,Diane,L,Suarez
+627389,15,1360,423,423,"LL Mountain Frame - Silver, 44",264.05,NULL,NULL,NULL,Angel,H,Roberts
+627400,17,2000,88,593,External Lock Washer 1,0,NULL,NULL,NULL,Bailey,,Collins
+627403,16,17520,135,640,Lock Nut 14,547.2,NULL,NULL,NULL,Sharon,M,Raje
+628048,21,8640,308,813 @ert,ML Fork,175.49 R.s.,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+628687,21,8640,308,813 @ert,ML Fork,175.49,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+628714,17,18080,233,233,"LL Road Frame - Red, 58",337.22,Nil,Nil,Nil,Sydney,,Edwards
+628723,16,5600,376,376,Mountain Bottle Cage,9.99,Nil,Nil,Nil,Diane,L,Suarez
+628726,15,1360,423,423,"LL Mountain Frame - Silver, 44",264.05,Nil,Nil,Nil,Angel,H,Roberts
+628737,17,2000,88,593,External Lock Washer 1,0,Nil,Nil,Nil,Bailey,,Collins
+628740,16,17520,135,640,Lock Nut 14,547.2,Nil,Nil,Nil,Sharon,M,Raje
+628749,15,5040,278,783,"Mountain-100 Silver, 44",3399.99,Nil,Nil,Nil,Darryl,,Hu
+628760,17,5680,448,953,"LL Mountain Frame - Black, 40",249.79,Nil,Nil,Nil,Donald,M,Kovár
+628763,16,1440,495,1000,"Mountain-500 Black, 42",539.99,Nil,Nil,Nil,Angelica,J,Jenkins
+628764,16,1920,16,16,Down Tube,457.8,Nil,Nil,Nil,Audrey,L,Alvarez
+628767,15,17440,63,63,Hex Nut 12,76.8,Nil,Nil,Nil,Shane,E,Malhotra
+649464,10,7280,143,143,Lock Washer 5,0,Akiko,o,Yokomoto,Gary,P,Meyerhoff
+649563,10,3760,185,690,HL Road Rim,0,Anne,i,Ringer,Charles,J,Strange
+649635,21,8640,308,813 @ert,ML Fork,$$ 175.49,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+650685,21,8640,308,813,ML Fork,$$ 175.49,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+666347,12,12960,108,108#$ghj,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+666635,12,560,323,828,LL Road Front Wheel,85.565$,Charlene,o,Locksley,Alexandra,,Murphy
+667339,12,560,323,828////,LL Road Front Wheel,85.565$,Charlene,o,Locksley,Alexandra,,Murphy
+676346,6,9360,78,qewe78,Head Tube,79.8,Ann,u,Dull,Jennifer,L,Morgan
+677669,6,9360,78,qw78,Head Tube,79.8,Ann,u,Dull,Jennifer,L,Morgan
+687382,5,11280,341,341,"ML Road Frame-W - Yellow, 48",Eur 594.83,Innes,e,del Castillo,Kathryn,,Deng
+689739,8,13680,103,608*(,Thin-Jam Lock Nut 1,169.6,Morningstar,r,Greene,Mary,S,Green
+690556,8,13680,103,6?08,Thin-Jam Lock Nut 1,169.6,Morningstar,r,Greene,Mary,S,Green
+698915,13,1120,438,438,HL Road Tire,32.6,Stearns,a,MacFeather,Amber,,Phillips
+702498,9,240,249,249,"HL Mountain Frame - Black, 44",1349.6,Burt,r,Gringlesby,1,1,1
+703248,11,8720,155,155ryt%,Metal Angle,EUR 666.4 $$,Livia,a,Karsen,Jaime,E,Jimenez
+704142,15,15360,375,375,Water Bottle - 30 oz.,4.99Euro,Michael,',O'Leary,Omar,L,Tang
+704221,2,240,2,2,Bearing Ball,0.8,Reginald,l,Blotchet-Halls,1,1,1
+704487,11,8720,155,155ryt%,Metal Angle,666.4,Livia,a,Karsen,Jaime,E,Jimenez
+704668,21,12800,189,189,HL Mountain Seat Assembly,196.92 $,Dirk,t,Stringer,Luis,,Hayes
+705045,21,12800,189,189@%,HL Mountain Seat Assembly,196.92,Dirk,t,Stringer,Luis,,Hayes
+705732,5,5120,125,125t,Lock Nut 23,89.2,Innes,e,del Castillo,David,J,Byrnes
+706665,5,5120,125,125r,Lock Nut 23,89.2,Innes,e,del Castillo,David,J,Byrnes
+706691,4,4560,27,532,Flat Washer 3,415.2,Michel,e,,Craig,,Gutierrez
+709104,11,8720,155,155ryt%,Metal Angle,GBP 666.4,Livia,a,Karsen,Jaime,E,Jimenez
+709614,11,8720,155,155,Metal Angle,GBP 666.4,Livia,a,Karsen,Jaime,E,Jimenez
+713415,15,15360,375,375,Water Bottle - 30 oz.,4.99$,Michael,',O'Leary,Omar,L,Tang
+713627,4,8240,387,892,,,Michel,e,DeFrance,Isabella,,Lopez
+714465,,240,2,2,Bearing Ball,0.8,Reginald,l,Blotchet-Halls,Adriana,,Suri
+714519,,2240,337,842,"ML Mountain Frame - Black, 48",348.76,Reginald,l,Blotchet-Halls,Bianca,,Lu
+717107,2,240,2,2,Bearing Ball,0.8,Reginald,l,Nil,Adriana,,Suri
+717161,2,2240,337,842,"ML Mountain Frame - Black, 48",348.76,Reginald,l,Nil,Bianca,,Lu
+718900,12,10480,252,252,"HL Mountain Frame - Black, 38",1349.6,,o,Locksley,Joseph,,Rodriguez
+719818,14,7440,62,62,Hex Nut 23,76.6,Heather,c,McBadden,Gilbert,L,Hu
+719966,15,15360,375,375,Water Bottle - 30 oz.,$4.99 ,Michael,',O'Leary,Omar,L,Tang
+720060,2,2240,337,842,"ML Mountain Frame - Black, 48",348.76,Regald,,Blot_Hl,Bianca,,Lu
+720070,2,240,2,2,Bearing Ball,0.8,Regald,,Blot_Hl,Adriana,,Suri
+732997,15,15360,375,375,Water Bottle - 30 oz.,4.99Rs,Michael,',O'Leary,Omar,L,Tang
+735622,4,8240,387,892,,53.99,Michel,e,DeFrance,Isabella,,Lopez
+739486,7,3280,439,439,Touring Tire,28.99Eur,Marjorie,r,Green,Carlos,C,Rivera
+749782,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,Reginald,l,,Eduardo,,Walker
+749796,2,12160,266,266,"Road-650 Red, 62",782.99,NULL,NULL,NULL,Larry,T,Alvarez
+749819,2,15840,121,626,Lock Nut 7,176.8,NULL,NULL,NULL,Rachel,L,Ramirez
+749842,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,NULL,NULL,NULL,Wyatt,,Thompson
+749846,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,NULL,NULL,NULL,Eduardo,,Walker
+750011,2,15840,121,626,Lock Nut 7,176.8,NULL,NULL,,Rachel,L,Ramirez
+750034,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,NULL,NULL,,Wyatt,,Thompson
+750038,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,NULL,NULL,,Eduardo,,Walker
+750052,2,12160,266,266,"Road-650 Red, 62",782.99,NULL,NULL,,Larry,T,Alvarez
+750102,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,NULL,,,Eduardo,,Walker
+750116,2,12160,266,266,"Road-650 Red, 62",782.99,Reginald,,,Larry,T,Alvarez
+750139,2,15840,121,626,Lock Nut 7,176.8,Reginald,l,,Rachel,L,Ramirez
+750162,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,Reginald,l,,Wyatt,,Thompson
+750864,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,,l,Blotchet-Halls,Wyatt,,Thompson
+750868,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,,l,Blotchet-Halls,Eduardo,,Walker
+750882,2,12160,266,266,"Road-650 Red, 62",782.99,,l,Blotchet-Halls,Larry,T,Alvarez
+750905,2,15840,121,626,Lock Nut 7,176.8,,l,Blotchet-Halls,Rachel,L,Ramirez
+751374,12,18720,156,156,"Men's Sports Shorts, L",190.8,Charlene,o,Locksley,Tina,C,Malhotra
+758204,2,12160,266,266,"Road-650 Red, 62",782.99,,l,&e$,Larry,T,Alvarez
+758227,2,15840,121,626,Lock Nut 7,176.8,,l,&e$,Rachel,L,Ramirez
+758250,,19520,481,986,"Road-350-W Yellow, 48",1700.99,,l,&e$,Wyatt,,Thompson
+758254,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,,l,&e$,Eduardo,,Walker
+758314,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,,l,&e$,Wyatt,,Thompson
+758704,2,12160,266,266,"Road-650 Red, 62",782.99,Reginald,l,&e$,Larry,T,Alvarez
+758748,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,Reginald,l,&e$,Wyatt,,Thompson
+758752,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,Reginald,l,&e$,Eduardo,,Walker
+758789,2,15840,121,626,Lock Nut 7,176.8,Reginald,l,&e$,Rachel,L,Ramirez
+762170,18,80,330,330,HL Mountain Rear Wheel,r.s.327.215,Anne,i,Ringer,Abigail,,Clark
+762298,18,80,330,330,HL Mountain Rear Wheel,r.s.327.215,,,,,,
+771212,2,15840,121,626,Lock Nut 7,176.8,,,Blotchet-Halls,Rachel,L,Ramirez
+771235,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,,,Blotchet-Halls,Wyatt,,Thompson
+771239,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,,,Blotchet-Halls,Eduardo,,Walker
+771253,2,12160,266,266,"Road-650 Red, 62",782.99,,,Blotchet-Halls,Larry,T,Alvarez
+771317,2,12160,266,266,"Road-650 Red, 62",782.99,,,,Larry,T,Alvarez
+771340,2,15840,121,626,Lock Nut 7,176.8,,,,Rachel,L,Ramirez
+771363,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,,,,Wyatt,,Thompson
+771367,2,6000,50,50,Thin-Jam Hex Nut 7,445.2,Reginald,,,Eduardo,,Walker
+771404,2,15840,121,626,Lock Nut 7,176.8,Reginald,,,Rachel,L,Ramirez
+771427,2,19520,481,986,"Road-350-W Yellow, 48",1700.99,Reginald,,,Wyatt,,Thompson
+773273,2,12160,266,266,"Road-650 Red, 62",782.99,Reginald,l,,Larry,T,Alvarez
+774712,20,8560,236,236,"ML Road Frame - Red, 44",Eur 594.83,Dean,t,Straight,Jacob,,Rodriguez
+775356,18,80,330,330DR,HL Mountain Rear Wheel,327.215,Anne,i,Ringer,Abigail,,Clark
+775599,18,80,330,330DR,HL Mountain Rear Wheel,327.215/ -Eu,Anne,i,Ringer,Abigail,,Clark
+775833,,19520,481,986,"Road-350-W Yellow, 48",1700.99,Reginald,l,,Wyatt,,Thompson
+776322,2,8000,385,890,Hydration Pack - 70 oz.,54.99,Reginald,l,,Hunter,,Hughes
+776986,2,12160,266,266,"Road-650 Red, 62",782.99,123,l,Blotchet-Halls,Larry,T,Alvarez
+777009,2,15840,121,626,Lock Nut 7,176.8,123,l,Blotchet-Halls,Rachel,L,Ramirez
+777026,2,8000,385,890,Hydration Pack - 70 oz.,54.99,123,l,Blotchet-Halls,Hunter,,Hughes
+777213,21,8640,308,RYT813,ML Fork,175.49 R.s.,Dirk,t,Stringer,Jacquelyn,L,Ruiz
+778035,2,10080,73,578,Hex Nut 15,472.8,123,l,Blotchet-Halls,John,T,Kane
+778065,2,10080,73,578,Hex Nut 15,472.8,123,l,12gh,John,T,Kane
+778934,2,13760,433,938,LL Mountain Tire,24.99,123,l,12gh,Matthew,,White
+779404,12,12960,108,??108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+779689,2,6400,218,218,"Long-Sleeve Logo Jersey, S",49.99,123,l,12gh,Emmanuel,,Suri
+780094,22,5360,374,374,"Women's Mountain Shorts, L",69.99,Johnson,h,White,Derrick,C,Moreno
+781564,1,10000,1,-1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+781821,6,1040,91,91,Internal Lock Washer 3,0,Ann,u,Dull,Alyssa,S,Wood
+783849,20,4800,276,781,"Mountain-100 Silver, 38",3399.99,Dean,t,Straight,Dalton,M,Coleman
+784330,2,13760,433,938,LL Mountain Tire,24.99,Reginald,l,12gh,Matthew,,White
+784781,12,12960,108,124,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+784826,4,7040,141,141,Lower Head Race,184.8,Michel,e,DeFrance,Frederick,,Srini
+785059,2,6400,218,218,"Long-Sleeve Logo Jersey, S",49.99,Reginald,l,12gh,Emmanuel,,Suri
+785853,4,10720,501,501,HL Bottom Bracket,121.49,Michel,e,DeFrance,Julie,,Becker
+786092,2,10080,73,578,Hex Nut 15,472.8,Reginald,l,12gh,John,T,Kane
+788659,20,6480,56,561,Hex Nut 16,75.4,Dean,t,Straight,Erica,,Lu
+789088,22,7120,213,734,"Sport-100 Helmet, Black",34.99,Johnson,h,White,Gabriella,,Parker
+790071,12,12960,108,<<>108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+792804,12,12960,108,jhf108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+793940,10,2400,9,531,Chainring Bolts,0,Sheryl,u,Hunter,Bonnie,L,Chande
+794431,5,7120,213,718,"Sport-100 Helmet, Black",34.99,Innes,e,del Castillo,Gabriella,,Parker
+795188,8,17360,479,984,"Road-350-W Yellow, 42",1700.99,Morningstar,r,Greene,Seth,,Perry
+797187,6,11360,166,671,Metal Sheet 6,389.6,Ann,u,Dull,Kayla,,Taylor
+798060,15,5440,446,968,Touring Pedal,80.99,Michael,',O'Leary,Destiny,L,Flores
+798107,8,19280,479,984,"Road-350-W Yellow, 42",1700.99,Morningstar,r,Greene,Walter,S,Navarro
+798496,12,12960,108,108LPO,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+801031,1,10000,1,$%^1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+803370,12,560,323,828f,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+803393,12,560,323,828g,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+803904,1,10000,1,FHJf1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+804206,12,12960,108,&&108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+805054,13,13040,438,438,HL Road Tire,32.6,Stearns,a,MacFeather,Madison,S,Powell
+805589,15,1760,86,608,External Lock Washer 7,0,Michael,',O'Leary,Arthur,D,Madan
+806209,12,560,323,828,LL Road Front Wheel,85.565 /-,Charlene,o,Locksley,Alexandra,,Murphy
+806940,12,12960,108,BGH__108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+808969,12,560,323,828fg,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+809547,14,13600,31,31,Fork Crown,350,Heather,c,McBadden,Martin,,Rodriguez
+811672,12,560,323,828%,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+812058,1,10000,1,(HJ1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+812976,17,4080,298,298,"Road-250 Black, 44",2443.35,Albert,i,Ringer,Christy,,Goel
+814993,1,10000,1,LPFG1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+815188,12,12960,108,()IU108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+816857,12,560,323,828#,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+817683,19,12960,108,108,Thin-Jam Lock Nut 6,171.6,Meander,m,Smith,Mackenzie,M,Carter
+818809,1,15600,119,641,Lock Nut 16,88,Abraham,e,Bennet,Pedro,,Romero
+819654,1,10000,1,%^1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+821346,15,1760,103,608,Thin-Jam Lock Nut 1,169.6,Michael,',O'Leary,Arthur,D,Madan
+821762,12,560,323,828etry,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+822003,16,9680,399,921,Rear Derailleur,121.46,Sylvia,a,Panteley,Jessica,A,Hughes
+822299,1,10000,1,jkl1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+822423,7,5760,48,48,Thin-Jam Hex Nut 13,73.8,Marjorie,r,Green,Drew,D,Rai
+825002,1,10000,1,??1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+825307,12,12960,108,10+++8,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+826949,19,4720,451,451///,LL Touring Handlebars,46.09,Meander,m,Smith,Dale,A,Tang
+827716,22,7120,229,734,"LL Road Frame - Black, 62",337.22,Johnson,h,White,Gabriella,,Parker
+828454,1,1680,14,14,Decal 1,195,Abraham,e,Bennet,Arianna,A,Hughes
+828731,12,12960,108,1__08,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+830075,8,13680,103,608)),Thin-Jam Lock Nut 1,169.6,Morningstar,r,Greene,Mary,S,Green
+830657,19,8400,306,828,"Road-550-W Yellow, 48",1120.49,Meander,m,Smith,Jack,,Carter
+831149,1,10000,1,KLO1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+831188,1,10000,14,14,Decal 1,195,Abraham,e,Bennet,Joe,L,Lopez
+833322,14,1200,246,751,"HL Mountain Frame - Silver, 48",1364.5,Heather,c,McBadden,Andre,E,Arun
+834068,1,10000,1,"1""""",Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+834942,17,16000,298,298,"Road-250 Black, 44",2443.35,Albert,i,Ringer,Raul,,Xu
+835451,19,4720,451,&*451,LL Touring Handlebars,46.09,Meander,m,Smith,Dale,A,Tang
+837048,1,10000,1,1::,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+837572,3,2800,188,188,ML Mountain Seat Assembly,147.14,Cheryl,a,Carson,Brittany,,Hughes
+837983,23,19600,328,328,LL Mountain Rear Wheel,87.745,Akiko,o,Yokomoto,Xavier,,White
+840037,1,10000,1,;;1,Adjustable Race,1.6,Abraham,e,Bennet,Joe,L,Lopez
+840269,6,9360,91,91,Internal Lock Washer 3,0,Ann,u,Dull,Jennifer,L,Morgan
+840698,2,6400,234,234,"LL Road Frame - Red, 60",337.22,Reginald,l,Blotchet-Halls,Emmanuel,,Suri
+842119,12,560,323,828,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+842844,12,12960,108,___108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+845268,1,19280,479,1,"Road-350-W Yellow, 42",1700.99,Abraham,e,Bennet,Walter,S,Navarro
+845654,4,14880,124,141,Lock Nut 22,89,Michel,e,DeFrance,Nathan,,Kumar
+847187,23,11360,166,688,Metal Sheet 6,389.6,Akiko,o,Yokomoto,Kayla,,Taylor
+847233,16,14960,196,701,LL Spindle/Axle,418.4,Sylvia,a,Panteley,Nathaniel,K,Morris
+848385,12,12960,108,AW+108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+852171,9,10080,73,578,Hex Nut 15,472.8,Burt,r,Gringlesby,John,T,Kane
+853391,12,12960,108,1S$08,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+853505,21,18480,154,154,Lock Washer 11,570,Dirk,t,Stringer,Terri,L,Duffy
+855136,10,10640,171,171,Paint - Black,688.8,Sheryl,u,Hunter,Julia,A,Price
+855473,22,3440,358,374,"Women's Tights, M",74.99,Johnson,h,White,Carrie,,Gill
+855589,20,8960,404,421,"LL Touring Frame - Yellow, 44",333.42,Dean,t,Straight,Janet,B,Ramos
+856207,17,7760,149,654,Lock Washer 7,564,Albert,i,Ringer,Haley,B,Phillips
+856337,16,3520,183,701,LL Road Rim,306,Sylvia,a,Panteley,Casey,J,Xu
+857387,12,12960,108,108MNH,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+859914,13,17200,78,78,Head Tube,79.8,Stearns,a,MacFeather,Savannah,E,Turner
+860711,5,3440,358,358,"Women's Tights, M",74.99,Innes,e,del Castillo,Carrie,,Gill
+861031,19,16640,468,468,"Touring-3000 Yellow, 54",742.35,Meander,m,Smith,Rosa,A,Lu
+862297,16,1840,416,921,LL Road Seat/Saddle,27.12,Sylvia,a,Panteley,Ashlee,J,Andersen
+866953,3,18000,386,891,"Short-Sleeve Classic Jersey, S",53.99,,,Carson,Summer,M,Rana
+867737,3,10640,171,171,Paint - Black,688.8,,,Carson,Julia,A,Price
+868763,3,14320,26,531,Flat Washer 4,0,,,Carson,Michelle,,Reed
+869814,7,13600,48,48,Thin-Jam Hex Nut 13,73.8,Marjorie,r,Green,Martin,,Rodriguez
+870218,10,18480,171,171,Paint - Black,688.8,Sheryl,u,Hunter,Terri,L,Duffy
+870247,3,10640,171,171,Paint - Black,688.8,,,,Julia,A,Price
+870622,23,7680,311,311,ML Headset,102.29,NULL,,,Hailey,,Sanders
+871237,3,14320,26,531,Flat Washer 4,0,,,,Michelle,,Reed
+871622,23,11360,166,671,Metal Sheet 6,389.6,NULL,,,Kayla,,Taylor
+872250,4,14880,124,124,Lock Nut 22,89,,,,Nathan,,Kumar
+872669,1,11920,281,281,"Mountain-100 Black, 42",3374.99,Abraham,e,Bennet,Kristine,F,Alvarez
+873214,4,18560,484,484,"Touring-3000 Blue, 50",742.35,,,,Thomas,,Gonzales
+874281,3,18000,386,891,"Short-Sleeve Classic Jersey, S",53.99,,,,Summer,M,Rana
+874314,3,18000,386,891,"Short-Sleeve Classic Jersey, S",53.99,Cheryl,,,Summer,M,Rana
+874489,15,5440,463,968,"Touring-3000 Blue, 54",742.35,Michael,',O'Leary,Destiny,L,Flores
+875058,3,10640,171,171,Paint - Black,688.8,Cheryl,,,Julia,A,Price
+876110,3,14320,26,531,Flat Washer 4,0,Cheryl,,,Michelle,,Reed
+877844,4,14880,124,124,Lock Nut 22,89,Michel,,,Nathan,,Kumar
+877870,4,14880,124,124,Lock Nut 22,89,Michel,,DeFrance,Nathan,,Kumar
+877992,3,10640,171,171,Paint - Black,688.8,Cheryl,a,,Julia,A,Price
+879044,10,14320,26,531,Flat Washer 4,0,Sheryl,u,Hunter,Michelle,,Reed
+879045,3,14320,26,531,Flat Washer 4,0,Cheryl,a,,Michelle,,Reed
+879665,13,4800,293,798,"Mountain-300 Black, 48",1079.99,Stearns,a,MacFeather,Dalton,M,Coleman
+880469,19,1040,91,108,Internal Lock Washer 3,0,Meander,m,Smith,Alyssa,S,Wood
+882175,5,14960,196,718,LL Spindle/Axle,418.4,Innes,e,del Castillo,Nathaniel,K,Morris
+883199,12,12960,108,1-0?8,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+883859,5,11280,358,358,"Women's Tights, M",74.99,Innes,e,del Castillo,Kathryn,,Deng
+888047,1,4160,353,858,Headlights - Weatherproof,44.99,Abraham,e,Bennet,Clarence,,Pal
+888732,12,12960,108,1A0F8,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+889427,5,11280,341,341,"ML Road Frame-W - Yellow, 48",594.83 Rs.,Innes,e,del Castillo,Kathryn,,Deng
+894074,12,12960,108,108%%,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+896837,12,12960,108,108hjk,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+896843,12,12960,108,ab>>108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+899602,12,12960,108,//108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+900466,20,1120,421,421,HL Touring Seat/Saddle,52.64,Dean,t,Straight,Amber,,Phillips
+902420,12,12960,108,mk???108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+903032,23,7680,328,328,LL Mountain Rear Wheel,87.745,Akiko,o,Yokomoto,Hailey,,Sanders
+903314,20,8960,421,421,HL Touring Seat/Saddle,52.64,Dean,t,Straight,Janet,B,Ramos
+904687,5,11280,341,341,"ML Road Frame-W - Yellow, 48",594.83 EU,Innes,e,del Castillo,Kathryn,,Deng
+907768,10,2400,26,531,Flat Washer 4,0,Sheryl,u,Hunter,Bonnie,L,Chande
+908512,6,8400,306,811,"Road-550-W Yellow, 48",1120.49,Ann,u,Dull,Jack,,Carter
+909325,12,12960,108,{{}}108,Thin-Jam Lock Nut 6,171.6,Charlene,o,Locksley,Mackenzie,M,Carter
+910285,6,4720,451,451,LL Touring Handlebars,46.09,Ann,u,Dull,Dale,A,Tang
+910562,3,6480,43,548,Thin-Jam Hex Nut 16,72.8,Cheryl,a,Carson,Erica,,Lu
+912624,1,4080,281,281,"Mountain-100 Black, 42",3374.99,Abraham,e,Bennet,Christy,,Goel
+912888,22,3440,374,374,"Women's Mountain Shorts, L",69.99,Johnson,h,White,Carrie,,Gill
+913422,20,17920,56,561,Hex Nut 16,75.4,Dean,t,Straight,Steve,,Ma
+918432,17,4080,281,298,"Mountain-100 Black, 42",3374.99,Albert,i,Ringer,Christy,,Goel
+918965,12,16640,484,484,"Touring-3000 Blue, 50",742.35,Charlene,o,Locksley,Rosa,A,Lu
+919247,9,17920,73,578,Hex Nut 15,472.8,Burt,r,Gringlesby,Steve,,Ma
+919516,6,19200,166,671,Metal Sheet 6,389.6,Ann,u,Dull,Victoria,M,Rodriguez
+920606,12,14880,124,124,Lock Nut 22,89,Charlene,o,Locksley,Nathan,,Kumar
+927466,16,3520,196,701,LL Spindle/Axle,418.4,Sylvia,a,Panteley,Casey,J,Xu
+930440,1,12000,336,841,"ML Mountain Frame - Black, 44",INR 348.76,,e,Bennet,Kurt,,Yuan
+930471,1,12000,336,841,"ML Mountain Frame - Black, 44",INR 348.76,Abraham,e,Bennet,Kurt,,Yuan
+935340,15,1760,86,591,,,,,,,,
+935366,15,13680,103,608,Thin-Jam Lock Nut 1,169.6,Michael,',O'Leary,Mary,S,Green
+936462,1,10000,1,1,Adjustable Race,1.6,NULL,e,Bennet,Joe,L,Lopez
+937041,20,14240,201,201,Seat Lug,316.8,Dean,t,Straight,Micheal,,Travers
+937274,1,11920,264,281,"Road-650 Red, 58",782.99,Abraham,e,Bennet,Kristine,F,Alvarez
+937624,7,8960,404,404,"LL Touring Frame - Yellow, 44",333.42,Marjorie,r,Green,Janet,B,Ramos
+938092,9,17920,56,561,,,,,,,,
+938862,12,12000,336,841,"ML Mountain Frame - Black, 44",348.76,Charlene,o,Locksley,Kurt,,Yuan
+940432,7,17280,391,391,"LL Touring Frame - Yellow, 62",333.42 $$,Marjorie,r,Green,Sean,L,Reed
+940453,20,8960,404,404,"LL Touring Frame - Yellow, 44",333.42 $$,Dean,t,Straight,Janet,B,Ramos
+941527,20,12640,259,781,"Road-450 Red, 58",1457.99,Dean,t,Straight,Lori,C,Alvarez
+942278,1,5760,48,48,,,,,,,,
+942342,13,17200,61,61,,,,,,,,
+944127,23,3520,183,688,LL Road Rim,306,Akiko,o,Yokomoto,Casey,J,Xu
+944335,7,1200,259,764,"Road-450 Red, 58",1457.99,Marjorie,r,Green,Andre,E,Arun
+944415,13,16720,293,798,"Mountain-300 Black, 48",1079.99,Stearns,a,MacFeather,Roy,C,Romero
+946476,21,2400,9,514,Chainring Bolts,0,Dirk,t,Stringer,Bonnie,L,Chande
+946704,2,10080,86,591,External Lock Washer 7,0,Reginald,l,Blotchet-Halls,John,T,Kane
+946975,23,11360,183,688,LL Road Rim,306,Akiko,o,Yokomoto,Kayla,,Taylor
+948036,1,17200,61,61,Hex Nut 22,76.4,Abraham,e,Bennet,Savannah,E,Turner
+948788,23,7680,311,328,ML Headset,102.29,Akiko,o,Yokomoto,Hailey,,Sanders
+951078,21,7040,141,154,Lower Head Race,184.8,Dirk,t,Stringer,Frederick,,Srini
+951808,20,8960,404,404,"LL Touring Frame - Yellow, 44",Eur 333.42,Dean,t,Straight,Janet,B,Ramos
+954464,7,17280,391,391,"LL Touring Frame - Yellow, 62",Eur 333.42,Marjorie,r,Green,Sean,L,Reed
+955825,3,18000,386,891,"Short-Sleeve Classic Jersey, S",53.99,Cheryl,a,,Summer,M,Rana
+957481,19,4720,468,468,"Touring-3000 Yellow, 54",742.35,Meander,m,Smith,Dale,A,Tang
+958475,19,8400,323,828,LL Road Front Wheel,85.565,Meander,m,Smith,Jack,,Carter
+961118,7,1200,246,751,"HL Mountain Frame - Silver, 48",$$1364.5Eu,Marjorie,r,Green,Andre,E,Arun
+962975,19,4720,451,451ggh,LL Touring Handlebars,46.09,Meander,m,Smith,Dale,A,Tang
+963321,8,13680,103,608g,Thin-Jam Lock Nut 1,169.6,Morningstar,r,Greene,Mary,S,Green
+966737,10,18000,386,891,"Short-Sleeve Classic Jersey, S",53.99,Sheryl,u,Hunter,Summer,M,Rana
+967712,2,6400,218,234,"Long-Sleeve Logo Jersey, S",49.99,Reginald,l,Blotchet-Halls,Emmanuel,,Suri
+969983,1,5760,48,61,Thin-Jam Hex Nut 13,73.8,Abraham,e,Bennet,Drew,D,Rai
+970799,16,11280,341,341,"ML Road Frame-W - Yellow, 48",594.83,Sylvia,a,Panteley,Kathryn,,Deng
+971057,13,1120,421,438,HL Touring Seat/Saddle,52.64,Stearns,a,MacFeather,Amber,,Phillips
+973421,11,480,264,264,"Road-650 Red, 58",782.99,Livia,a,Karsen,Alex,M,Carter
+974141,21,10720,501,514,HL Bottom Bracket,121.49,Dirk,t,Stringer,Julie,,Becker
+975323,9,13760,433,938,LL Mountain Tire,24.99,Burt,r,Gringlesby,Matthew,,White
+976818,6,13040,,,,,Ann,u,Dull,Madison,S,Powell
+980643,12,560,336,841,"ML Mountain Frame - Black, 44",348.76,Charlene,o,Locksley,Alexandra,,Murphy
+983250,7,1200,246,751DI(),"HL Mountain Frame - Silver, 48",$$1364.5Eu,Marjorie,r,Green,Andre,E,Arun
+983770,2,13760,446,951,Touring Pedal,80.99,Reginald,l,Blotchet-Halls,Matthew,,White
+987610,7,1200,246,751DI(),"HL Mountain Frame - Silver, 48",1364.5,Marjorie,r,Green,Andre,E,Arun
+989527,6,13040,438,438,HL Road Tire,22.6,Ann,u,Dull,Madison,S,Powell
+994153,3,10640,171,188,Paint - Black,688.8,Cheryl,a,Carson,Julia,A,Price
+997186,18,480,251,251,"HL Mountain Frame - Black, 46",1349.6,Anne,i,Ringer,Alex,M,Carter
+1003207,23,7680,311,311,ML Headset,102.29iNR,Akiko,o,Yokomoto,Hailey,,Sanders
+1004390,22,9040,229,734,"LL Road Frame - Black, 62",337.22,Johnson,h,White,Jasmine,,Butler
+1004640,19,560,323,$><?828,LL Road Front Wheel,85.565,Meander,m,Smith,Alexandra,,Murphy
+1004641,12,560,323,$><?828,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+1004647,12,560,323,$><?828,LL Road Front Wheel,85.565,,,,,,
+1004683,12,560,323,828,LL Road Front Wheel,85.565,,,,,,
+1007374,12,560,323,828[],LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+1008570,11,480,251,251,"HL Mountain Frame - Black, 46",1349.6kdl,Livia,a,Karsen,Alex,M,Carter
+1008721,23,7680,311,311,ML Headset,102.29,,,,,,
+1008921,14,5360,374,391,"Women's Mountain Shorts, L",69.99,Heather,c,McBadden,Derrick,C,Moreno
+1010476,2,13760,433,951,LL Mountain Tire,24.99,Reginald,l,Blotchet-Halls,Matthew,,White
+1011528,10,16000,311,311,ML Headset,102.29,Sheryl,u,Hunter,Raul,,Xu
+1011541,23,7680,311,311,ML Headset,102.29,/,/,/,/,/,/
+1014227,11,480,251,251,"HL Mountain Frame - Black, 46",1349.6,Null,Null,Null,Null,Null,Null
+1015617,7,1200,246,751,"HL Mountain Frame - Silver, 48",1364.5 EU$$,Marjorie,r,Green,Andre,E,Arun
+1018937,1,10000,1,1,Adjustable Race,Czk 1.6,Abraham,e,Bennet,Joe,L,Lopez
+1019159,6,9360,78,As#7/8(),Head Tube,79.8,Ann,u,Dull,Jennifer,L,Morgan
+1019269,12,12960,124,124,Lock Nut 22,89,Charlene,o,Locksley,Mackenzie,M,Carter
+1020762,1,15600,136,641,Lock Nut 15,548.4,Abraham,e,Bennet,Pedro,,Romero
+1021224,6,16720,293,798,"Mountain-300 Black, 48",1079.99 eUr,Ann,u,Dull,Roy,C,Romero
+1022521,11,480,251,251sdt,"HL Mountain Frame - Black, 46",1349.6,Livia,a,Karsen,Alex,M,Carter
+1022543,11,480,251,251sdt,"HL Mountain Frame - Black, 46",1349.6,,,,,,
+1022700,23,7680,311,311,ML Headset,102.29$$,Akiko,o,Yokomoto,Hailey,,Sanders
+1024168,6,16720,293,798eryt&,"Mountain-300 Black, 48",1079.99 eUr,Ann,u,Dull,Roy,C,Romero
+1026155,12,16640,468,484,"Touring-3000 Yellow, 54",742.35,Charlene,o,Locksley,Rosa,A,Lu
+1027170,12,560,323,828,LL Road Front Wheel,$85.57 ,Charlene,o,Locksley,Alexandra,,Murphy
+1028464,16,6000,39,544,,,,,,,,
+1029303,12,560,323,828//,LL Road Front Wheel,85.565,Charlene,o,Locksley,Alexandra,,Murphy
+1029315,12,560,323,828//,LL Road Front Wheel,$85.57 ,Charlene,o,Locksley,Alexandra,,Murphy
+1029826,14,1680,14,31,Decal 1,195,Heather,c,McBadden,Arianna,A,Hughes
+1030610,23,7680,311,311,ML Headset,102.29,Akiko,o,,,,
+1030881,4,8960,404,404,"LL Touring Frame - Yellow, 44",333.42,Michel,e,DeFrance,Janet,B,Ramos
+1032179,1,12000,336,858,"ML Mountain Frame - Black, 44",348.76,Abraham,e,Bennet,Kurt,,Yuan
+1032300,1,7760,383,888,Fender Set - Mountain,21.98,,e,Bennet,Haley,B,Phillips
+1033329,8,11920,264,264,"Road-650 Red, 58",782.99,Morningstar,r,Greene,Kristine,F,Alvarez
+1033486,23,7680,311,311,ML Headset,$& 102.29,Akiko,o,Yokomoto,Hailey,,Sanders
+1033965,1,8320,481,481,"Road-350-W Yellow, 48",1700.99,,e,Bennet,Isabelle,C,Barnes
+1034045,18,480,498,498,"Mountain-500 Black, 52",539.99Inr,Anne,i,Ringer,Alex,M,Carter
+1034954,12,560,323,828,LL Road Front Wheel,539.99Inr,Charlene,o,Locksley,Alexandra,,Murphy
+1035826,3,10640,184,184,ML Road Rim,0,Cheryl,a,Carson,Julia,A,Price
+1036182,23,7680,311,311,ML Headset,102.29,Akiko,o,Yokomoto,,,
+1036858,16,6000,39,544,Null,0,Null,Null,Null,Null,Null,Null
+1036874,16,6000,39,544,Thin-Jam Hex Nut 10,0,Sylvia,a,Panteley,Eduardo,,Walker
+1037524,2,16240,289,794,Internal Lock Washer 3,2294.99,Reginald,l,Blotchet-Halls,Richard,,White
+1037798,1,7760,383,888,Fender Set - Mountain,21.98,Abraham,e,,Haley,B,Phillips
+1038864,17,15520,294,294,"Road-250 Red, 44",2443.35,Albert,i,Ringer,Patricia,M,Zubaty
+1039382,1,8320,481,481,"Road-350-W Yellow, 48",1700.99,Abraham,e,,Isabelle,C,Barnes
+1039410,1,8320,481,481,"Road-350-W Yellow, 48",1700.99,Abraham,,Bennet,Isabelle,C,Barnes
+1039778,1,15600,119,624,Lock Nut 16,88,Abraham,,Bennet,Pedro,,Romero
+1041316,16,2320,184,184  $$,ML Road Rim,0,Sylvia,a,Panteley,Blake,C,Bryant
+1041344,16,2320,184,184A      d,ML Road Rim,0,Sylvia,a,Panteley,Blake,C,Bryant
+1041566,1,11920,264,264,"Road-650 Red, 58",782.99,Abraham,,Bennet,Kristine,F,Alvarez
+1041928,4,7040,388,404,"Short-Sleeve Classic Jersey, L",53.99,Michel,e,DeFrance,Frederick,,Srini
+1042579,1,15600,119,624,Lock Nut 16,88,NULL,,Bennet,Pedro,,Romero
+1043170,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,NULL,,Bennet,Kurt,,Yuan
+1043185,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,Abraham,,Bennet,Kurt,,Yuan
+1043286,1,7760,383,888,Fender Set - Mountain,21.98,Abraham,,Bennet,Haley,B,Phillips
+1043680,6,9360,78,78E,Head Tube,79.8,Ann,u,Dull,Jennifer,L,Morgan
+1043970,16,2320,184,18r4,ML Road Rim,0,Sylvia,a,Panteley,Blake,C,Bryant
+1043998,16,2320,184,1rr84,ML Road Rim,0,Sylvia,a,Panteley,Blake,C,Bryant
+1044091,2,6400,231,231,"LL Road Frame - Red, 48",337.22,Reginald,l,Blotchet-Halls,Emmanuel,,Suri
+1044207,1,11920,264,264,"Road-650 Red, 58",782.99,,,Bennet,Kristine,F,Alvarez
+1044223,1,4080,281,281,"Mountain-100 Black, 42",3374.99,,,Bennet,Christy,,Goel
+1044775,1,8320,481,481,"Road-350-W Yellow, 48",1700.99,,,Bennet,Isabelle,C,Barnes
+1045163,1,15600,119,624,Lock Nut 16,88,,,Bennet,Pedro,,Romero
+1045164,1,15600,119,624,Lock Nut 16,Eur 88,,,Bennet,Pedro,,Romero
+1045600,13,16240,289,794,"Mountain-200 Black, 46",2294.99,Stearns,a,MacFeather,Richard,,White
+1045730,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,,,Bennet,Kurt,,Yuan
+1045845,1,7760,383,888,Fender Set - Mountain,21.98,,,Bennet,Haley,B,Phillips
+1046447,16,2320,184,r184,ML Road Rim,0,Sylvia,a,Panteley,Blake,C,Bryant
+1046457,16,2320,184,184rtr,ML Road Rim,0,Sylvia,a,Panteley,Blake,C,Bryant
+1046644,1,11920,264,264,"Road-650 Red, 58",782.99$$,,,Bennet,Kristine,F,Alvarez
+1046655,1,11920,264,264,"Road-650 Red, 58",782.99$$,Abraham,,Bennet,Kristine,F,Alvarez
+1046656,1,11920,264,264,"Road-650 Red, 58",782.99$$,Abraham,,,Kristine,F,Alvarez
+1047268,1,8320,481,481,"Road-350-W Yellow, 48",1700.99,Abraham,,,Isabelle,C,Barnes
+1047665,1,15600,119,624,Lock Nut 16,88$$,Abraham,,,Pedro,,Romero
+1047676,1,15600,119,624,Lock Nut 16,88,Abraham,,,Pedro,,Romero
+1048187,19,8400,306,811,"Road-550-W Yellow, 48",1120.49,Null,Null,Null,Jack,,Carter
+1048274,1,12000,336,841,"ML Mountain Frame - Black, 44",348.76,Abraham,,,Kurt,,Yuan
+1048385,1,7760,383,888,Fender Set - Mountain,21.98,Abraham,,,Haley,B,Phillips
+1048392,1,7760,383,888,Fender Set - Mountain,21.98 EUR,Abraham,,,Haley,B,Phillips
+1048445,16,9680,399,904,Rear Derailleur,121.46,,a,Panteley,Jessica,A,Hughes
+1048449,16,9680,399,904,Rear Derailleur,121.46,,a,,Jessica,A,Hughes
+1048461,16,9680,399,904,Rear Derailleur,121.46,Sylvia,a,,Jessica,A,Hughes
